@@ -4,7 +4,20 @@
     color: #FFC900 !important;
 }
 
+.flex-align-middle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
 // Home Page
+
+.hero {
+    background-image: url("../assets/img/hero.jpg");
+    background-size: cover;
+    position: relative;
+}
 
 .action_bar {
     .button {
