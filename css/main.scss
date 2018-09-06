@@ -12,9 +12,9 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
+$text-color:       #4c4c4c;
 $background-color: #fdfdfd;
-$brand-color:      black;
+$brand-color:      #4c4c4c;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -47,5 +47,5 @@ $on-laptop:        800px;
 @import
         "base",
         "blog",
-        "base-extras"
+        "styles"
 ;
