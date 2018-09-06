@@ -1,4 +1,10 @@
-/* Home Page */
+// Global
+
+.gold {
+    color: #FFC900 !important;
+}
+
+// Home Page
 
 .action_bar {
     .button {
@@ -39,6 +45,10 @@
 
 .newsletter_subscribe {
     background-color: #fafafa;
+
+    input:focus {
+        background-color: white;
+    }
 
     .input {
         border: 1px solid #064b46;
@@ -86,7 +96,7 @@
         .contact_us {
 
             position: relative;
-            height: 427px;
+            height: 417px;
 
             .btn {
                 background: white;
@@ -118,4 +128,42 @@
             }
         }
     }
+}
+
+.infographic {
+
+    .pill {
+        background: #074B46;
+        border-radius: 32.5px;
+        display: inline-block;
+        color: white;
+        padding: 20px 40px;
+        font-weight: bold;
+        position: relative;
+        z-index: 1000;
+    }
+
+    .hr {
+        border-top: 2px dashed #FFC900;
+        position: relative;
+        top: -30px;
+        width: 92%;
+        margin: 0 auto;
+        z-index: 100;
+    }
+}
+
+.testimonials {
+    background: #1B1B1B;
+
+    p {
+        line-height: 27px;
+        color: #ACACAC;
+    }
+}
+
+// Footer
+
+.site-footer {
+    line-height: 27px;
 }
