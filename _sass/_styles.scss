@@ -4,6 +4,14 @@
     color: #FFC900 !important;
 }
 
+.bg-green {
+    background-color: #0c4b46 !important;
+}
+
+.bg-grey {
+    background-color: #fafafa !important;
+}
+
 .flex-align-middle {
     display: flex;
     justify-content: center;
@@ -173,6 +181,12 @@
         line-height: 27px;
         color: #ACACAC;
     }
+}
+
+// Inner Pages
+
+.inner-page {
+    line-height: 34px;
 }
 
 // Footer

@@ -9,7 +9,17 @@
 
         {% include header.html %}
 
-        {{ content }}
+        <div class="title bg-green white lg-py2 h3 bold">
+            <div class="col-11 lg-col-10 mx-auto">
+                {{ page.title }}
+            </div>
+        </div>
+
+        <div class="bg-grey inner-page">
+            <div class="col-11 lg-col-10 mx-auto lg-py4">
+                {{ content }}
+            </div>
+        </div>
 
         {% include footer.html %}
 
