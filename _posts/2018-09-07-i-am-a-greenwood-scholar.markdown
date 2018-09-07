@@ -5,6 +5,8 @@ date: 2018-09-07 01:15:00 Z
 
 Hello, my name is Brandy Wayne and I am an incoming Freshman at Bradley University double majoring in Political Science and Computer Science with a Minor in Spanish.
 
+![315521_d799473c67414a6cb1481268bef5bde8_mv2_d_4032_3024_s_4_2.jpg](/uploads/315521_d799473c67414a6cb1481268bef5bde8_mv2_d_4032_3024_s_4_2.jpg)
+
 As a recent graduate, I have been fortunate enough to lead numerous clubs and organizations including President of Student Government, Captain of Robotics Club and a member of the Girls Varsity Bowling Team for three years; accomplishing this while maintaining a 4.35 GPA.
 
 In the past few weeks with The Greenwood Project, I have gained a network of support from Google employees, Chicago mayoral office, UBS employees and Mark Sebastin, Founder and CEO of OptionPit, all of which are companies we visited during the lunch and learn series. Additionally, thanks to Greenwood, I will enter my first year of college, knowing how to analyze and critique large data and solve for compound equations using basic Algebra.
