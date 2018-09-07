@@ -1,6 +1,10 @@
 ---
 title: I Am A Greenwood Scholar
 date: 2018-09-07 01:15:00 Z
+tags:
+- salt
+- pepper
+- sugar
 feature-img: assets/img/hero.jpg
 ---
 
