@@ -2,6 +2,9 @@
 title: Greenwood Project
 timezone: UTC
 collections:
+  blog:
+    title: Blog
+    output: true
   lunch-and-learn:
     title: Lunch and Learn
     output: true
