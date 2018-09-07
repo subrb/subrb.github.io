@@ -1,6 +1,6 @@
 ---
 title: I Am A Greenwood Scholar
-date: 2018-09-07 01:01:00 Z
+date: 2018-09-06 01:01:00 Z
 ---
 
 Hello, my name is Brandy Wayne and I am an incoming Freshman at Bradley University double majoring in Political Science and Computer Science with a Minor in Spanish.
