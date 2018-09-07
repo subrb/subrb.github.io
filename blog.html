@@ -13,6 +13,7 @@ layout: page
 {% endfor %}
 </ul> -->
 
+
 <div class="posts">
     {% for post in site.posts %}
     <div class="post-teaser">
@@ -23,14 +24,13 @@ layout: page
       {% endif %}
       <span>
           <header>
-            <h1>
-              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                {{ post.title }}
-              </a>
-            </h1>
-            <p class="meta">
+            <div class="meta mt3 mb1">
               {{ post.date | date: "%B %-d, %Y" }}
-            </p>
+            </div>
+            <a class="bold h2 mb2 block" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+            </a>
+
           </header>
           <div class="excerpt">
             {{ post.content | strip_html | truncate: "650" }}
