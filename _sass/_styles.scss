@@ -19,21 +19,43 @@
     text-align: center;
 }
 
+.button {
+    background: #FFC900;
+    border: 1px solid #E9E9E9;
+    box-shadow: 0 5px 6px 0 rgb(255, 254, 248);
+    border-radius: 4px;
+    padding: 0.5rem;
+    font-weight: 600;
+    display: inline-block;
+    color: black;
+}
+
+// Yellow bullet points workaround
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em;
+  text-indent: -.7em;
+}
+
+li::before {
+  content: "• ";
+  color: #FFC900;
+  position: relative;
+  left: -10px;
+}
+
 // Home Page
 
 .hero {
     background-image: url("../assets/img/hero.jpg");
     background-size: cover;
     position: relative;
-}
-
-.action_bar {
-    .button {
-        background: #FFFFFF;
-        border: 1px solid #E9E9E9;
-        box-shadow: 0 5px 6px 0 rgba(241,241,241,0.50);
-        border-radius: 4px;
-    }
 }
 
 .little_about_us {
@@ -45,9 +67,9 @@
         line-height: 24px;
     }
 
-    .button {
+    .learn-more {
         background: #074B46;
-        border: 1px solid #0F645D;
+        border: 1px solid #ffc90082;
         border-radius: 4px;
         font-size: 14px;
         color: #FFFFFF;
@@ -117,7 +139,7 @@
         .contact_us {
 
             position: relative;
-            height: 417px;
+            height: 390px;
 
             .btn {
                 background: white;
@@ -187,6 +209,12 @@
 
 .inner-page {
     line-height: 34px;
+}
+
+.lunch_and_learn .button {
+    padding: 5px 40px;
+    margin-top: 20px;
+    border: none;
 }
 
 // Footer
