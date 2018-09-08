@@ -3,13 +3,12 @@ title: Lunch and Learn
 date: 2018-09-06 22:08:00 Z
 layout: lunch-and-learn
 images:
-  - name: Google
-    path: /assets/img/little-about-us.jpg
-  - name: NASDAQ
-    path: /assets/img/little-about-us.jpg
-  - name: Braintree
-    path: /assets/img/little-about-us.jpg
-
+- name: Google
+  path: "/assets/img/little-about-us.jpg"
+- name: NASDAQ
+  path: "/assets/img/little-about-us.jpg"
+- name: Braintree
+  path: "/assets/img/little-about-us.jpg"
 ---
 
 Greenwood Project takes HS & College students to the offices of our corporate partners for a tour and to learn from employees of what their company does and the many career paths available to students. Lunch & Learn events can spark interest and increase awareness of the business.
