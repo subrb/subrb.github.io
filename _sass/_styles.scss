@@ -4,6 +4,10 @@
     color: #FFC900 !important;
 }
 
+.green {
+    color: #0c4b46 !important;
+}
+
 .bg-green {
     background-color: #0c4b46 !important;
 }
@@ -211,11 +215,27 @@ li::before {
     line-height: 34px;
 }
 
-.lunch_and_learn .button {
-    padding: 5px 40px;
-    margin-top: 20px;
-    border: none;
+.lunch_and_learn {
+
+    .button {
+        padding: 5px 40px;
+        margin-top: 20px;
+        border: none;
+    }
+
+    .thumbnail {
+        background: #FFFFFF;
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
+        border-radius: 4px;
+
+        .image-frame {
+            height: 125px;
+            background-size: cover;
+        }
+
+    }
 }
+
 
 // Footer
 
