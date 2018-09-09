@@ -4,10 +4,10 @@ layout: about
 people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
-  bio:  John Roberson currently serves as Chief of Staff to 17th Ward Alderman David Moore of Chicago’s City Council. In this role, Mr. Roberson manages all of the Alderman’s activities related to constituent…
+  bio:  John Roberson currently serves as Chief of Staff to 17th Ward Alderman David Moore of Chicago’s City Council. In this role, Mr. Roberson manages all of the Alderman’s activities related to constituent services, policy development, and community development initiatives.
 - name: Jessica Ashley Davis, Esq.
   path: "/assets/img/board-members/2.png"
-  bio: Ms. Davis is an integral member of her law firm where she assists with business organizations, corporate governance and counseling, mergers and acquisitions, securities and corporate finance...
+  bio: Ms. Davis is an integral member of her law firm where she assists with business organizations, corporate governance and counseling, mergers and acquisitions, securities and corporate finance
 - name: Adrian Velazquez
   path: "/assets/img/board-members/3.png"
   bio:  Adrian Velazquez has had a successful career in the financial industry for more than 20 years. At just 19 years old, he was given a life changing opportunity to work on the trading floor of the Chicago Board Options Exchange as a runner for Paine Webber & Co.

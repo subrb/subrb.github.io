@@ -51,16 +51,16 @@
 
             <div class="bg-grey lg-p4">
 
-                    <div class="h3 bold">Meet Our Board</div>
+                    <div class="h3 bold mb3">Meet Our Board</div>
 
-                    <div class="flex flex-wrap mxn1 py3">
+                    <div class="flex flex-wrap mxn1">
                         {% for item in page.people %}
                         <div class="sm-col sm-col-4 px1 center mb3">
                             <div class="content p3 thumbnail">
                                 <div class="avatar">
                                     <img src="{{ item.path }}" alt="" width="115px" class="mb3">
                                 </div>
-                                <div class="h3 bold">{{ item.name }}</div>
+                                <div class="bold">{{ item.name }}</div>
                                 <p>
                                     {{ item.bio }}
                                 </p>
