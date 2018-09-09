@@ -5,7 +5,7 @@
 
   <body>
 
-    <div class="wrapper about_us">
+    <div class="wrapper">
 
         {% include header.html %}
 
@@ -21,32 +21,53 @@
             </div>
         </div>
 
-        <div class="bg-white px4 py2">
-            <div class="col-12 mx-auto clearfix">
-                <div class="lg-col-4 col-12 col center lg-p3">
-                    <img src="/assets/img/icons/about_illustration_1.svg" alt="" class="mb3">
-                    <div class="h3 bold mb0">Best in Field</div>
-                    <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+        <div class="about_us">
+            <div class="bg-white px4 py2">
+                <div class="col-12 mx-auto clearfix">
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_1.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">Best in Field</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_2.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">Internships</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_3.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">One Mission</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
                 </div>
-                <div class="lg-col-4 col-12 col center lg-p3">
-                    <img src="/assets/img/icons/about_illustration_2.svg" alt="" class="mb3">
-                    <div class="h3 bold mb0">Internships</div>
-                    <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+            </div>
+
+            <div class="about-hero">
+                <div class="yellow-box bg-gold lg-col-7 col-10 center mx-auto p3">
+                    <div class="headline">Check out stories and updates from our students, partners and supporters</div>
+                    <a href="/blog" class="button">Read Our Blog</a>
                 </div>
-                <div class="lg-col-4 col-12 col center lg-p3">
-                    <img src="/assets/img/icons/about_illustration_3.svg" alt="" class="mb3">
-                    <div class="h3 bold mb0">One Mission</div>
-                    <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+            </div>
+
+            <div class="bg-grey">
+                <div class="col-11 lg-col-10 mx-auto lg-py3">
+                    <div class="h3 bold">Meet Our Board</div>
+                    <div class="clearfix mt3">
+                        <div class="thumbnail lg-col-4 col-12 center p3">
+                            <div class="avatar">
+                                <img src="/assets/img/board-members/1.png" alt="" width="115px" class="mb3">
+                            </div>
+                            <div class="h3 bold">John Roberson</div>
+                            <p class="mb0">
+                                John Roberson currently serves as Chief of Staff to 17th Ward Alderman David Moore of Chicago’s City Council. In this role, Mr. Roberson manages all of the Alderman’s activities related to constituent…
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="about-hero">
-            <div class="yellow-box bg-gold lg-col-7 col-10 center mx-auto p3">
-                <div class="headline">Check out stories and updates from our students, partners and supporters</div>
-                <div class="button">Read Our Blog</div>
-            </div>
-        </div>
+        {% include action-bar.html %}
 
         {% include footer.html %}
 

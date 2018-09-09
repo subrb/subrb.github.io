@@ -42,6 +42,23 @@
     color: black;
 }
 
+.thumbnail {
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
+    overflow: hidden;
+    background-color: white;
+    line-height: 27px;
+
+    b {
+        color: #00BD86;
+    }
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
 // Yellow bullet points workaround
 
 ul {
@@ -127,26 +144,10 @@ li::before {
     background-color: #fafafa;
 
     .thumbnail {
-        border-radius: 5px;
-        overflow: hidden;
-        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
-        overflow: hidden;
-
-        &:hover {
-            text-decoration: none;
-        }
 
         .image-frame {
             height: 180px;
             overflow: hidden;
-        }
-
-        p {
-            line-height: 27px;
-        }
-
-        b {
-            color: #00BD86;
         }
 
         .contact_us {
@@ -232,10 +233,6 @@ li::before {
     }
 
     .thumbnail {
-        background: #FFFFFF;
-        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
-        border-radius: 4px;
-        overflow: hidden;
 
         .image-frame {
             height: 125px;
