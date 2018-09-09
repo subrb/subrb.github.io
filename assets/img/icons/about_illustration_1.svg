@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="64" viewBox="0 0 58 64">
+  <defs>
+    <polygon id="about_illustration_1-a" points="0 64 58 64 58 0 0 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polyline stroke="#535859" stroke-linejoin="round" stroke-width="2" points="37 55 5 55 5 1 45 1 45 25"/>
+    <path fill="#FFC900" d="M55,32 C53.896,32 53,32.895 53,34 L53,32 C53,30.895 52.105,30 51,30 C49.896,30 49,30.895 49,32 C49,30.895 48.105,30 47,30 C45.896,30 45,30.895 45,32 L45,30 C45,28.895 44.105,28 43,28 C41.896,28 41,28.895 41,30 L41,35 L39.095,35 C37.99,35 37,35.895 37,37 L37,43 L39,47 L42,51 L42,55 L54,55 L54,53 L57,43 L57,34 C57,32.895 56.105,32 55,32"/>
+    <path stroke="#535859" stroke-width="2" d="M54 55L54 53 57 43 57 34C57 32.895 56.105 32 55 32 53.896 32 53 32.895 53 34L53 32C53 30.895 52.105 30 51 30 49.896 30 49 30.895 49 32 49 30.895 48.105 30 47 30 45.896 30 45 30.895 45 32L45 30C45 28.895 44.105 28 43 28 41.896 28 41 28.895 41 30L41 41M45 30L45 37M49 32L49 37M53 34L53 37"/>
+    <path stroke="#535859" stroke-width="2" d="M41,35 L39.095,35 C37.99,35 37,35.895 37,37 L37,43 L39,47 L42,51 L42,55"/>
+    <mask id="about_illustration_1-b" fill="#fff">
+      <use xlink:href="#about_illustration_1-a"/>
+    </mask>
+    <polygon fill="#00BD86" points="40 64 56 64 56 55 40 55" mask="url(#about_illustration_1-b)"/>
+    <polyline stroke="#535859" stroke-linejoin="round" stroke-width="2" points="40 64 40 55 56 55 56 64" mask="url(#about_illustration_1-b)"/>
+    <path stroke="#535859" stroke-width="2" d="M52,59 L50,59" mask="url(#about_illustration_1-b)"/>
+    <polygon fill="#FFF" points="41 40 28 27 31 24 41 34.001" mask="url(#about_illustration_1-b)"/>
+    <polyline stroke="#535859" stroke-width="2" points="41 40 28 27 31 24 41.001 34.001" mask="url(#about_illustration_1-b)"/>
+    <path stroke="#535859" stroke-width="2" d="M41,34 L41,41" mask="url(#about_illustration_1-b)"/>
+    <path fill="#FFF" d="M39,21 C39,28.732 32.732,35 25,35 C17.268,35 11,28.732 11,21 C11,13.268 17.268,7 25,7 C32.732,7 39,13.268 39,21" mask="url(#about_illustration_1-b)"/>
+    <path stroke="#535859" stroke-width="2" d="M39,21 C39,28.732 32.732,35 25,35 C17.268,35 11,28.732 11,21 C11,13.268 17.268,7 25,7 C32.732,7 39,13.268 39,21 Z" mask="url(#about_illustration_1-b)"/>
+    <path fill="#00BD86" d="M28,21 L34,24 L34,26 C34,27.657 33,29 32,29 L18,29 C17,29 16,27.657 16,26 L16,24 L22,21 L25,23 L28,21 Z" mask="url(#about_illustration_1-b)"/>
+    <path fill="#F59D15" d="M29,15.5 C29,18 28.037,21 25,21 C21.963,21 21,18 21,15.5 C21,13 22,11 25,11 C28,11 29,13 29,15.5" mask="url(#about_illustration_1-b)"/>
+    <path stroke="#535859" stroke-linejoin="round" stroke-width="2" d="M10 41L18 41M10 45L24 45M10 49L34 49M20 41L34 41M26 45L34 45" mask="url(#about_illustration_1-b)"/>
+    <polyline stroke="#535859" stroke-linejoin="round" stroke-width="2" points="37 59 1 59 1 2" mask="url(#about_illustration_1-b)"/>
+  </g>
+</svg>

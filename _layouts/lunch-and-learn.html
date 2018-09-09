@@ -1,0 +1,56 @@
+---
+layout: inner
+---
+
+<div class="lunch_and_learn">
+    <div class="clearfix">
+        <div class="col-12 lg-col-7 col lg-pr3">
+            {{ content }}
+        </div>
+        <div class="col-12 lg-col-5 col">
+
+           <div class="clearfix">
+                {% for item in page.images %}
+                <div class="lg-col-6 col-12 col px2 pb3">
+                <div class="thumbnail block bg-white">
+                   <div class="image-frame" style="background-image: url({{item.path}})">
+
+                   </div>
+                   <div class="p1 center">
+                       <div class="bold green">{{ item.name }}</div>
+                   </div>
+                </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="testimonials py4 bg-white lg-mt4 black">
+        <div class="col-12 lg-col-11 mx-auto clearfix">
+            <div class="col-12 lg-col-6 col px4">
+                <p class="black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at tortor ut lacus euismod consequat. Donec fermentum nisl sapien, sit amet scelerisque lectus semper ac. Donec laoreet ante quis diam eleifend aliquet. Aliquam erat volutpat. Proin risus quam, suscipit at lacus venenatis, dignissim ornare erat. Nam a ante iaculis, aliquet mauris et, accumsan felis. Curabitur ex dui, dictum tempor</p>
+                <div class="flex-auto lg-mt3 mt2">
+                    <div class="left mr2">
+                        <img src="/assets/img/graph_2016.png" alt="" width="80px">
+                    </div>
+                     <div class="ml2 overflow-hidden">
+                       <div class="h5 bold gold">Alex Martinez</div>
+                       <div class="h5">Arizona State University</div>
+                     </div>
+                </div>
+            </div>
+            <div class="col-12 lg-col-6 col px4">
+                <p class="black">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at tortor ut lacus euismod consequat. Donec fermentum nisl sapien, sit amet scelerisque lectus semper ac. Donec laoreet ante quis diam eleifend aliquet. Aliquam erat volutpat. Proin risus quam, suscipit at lacus venenatis, dignissim ornare erat. Nam a ante iaculis, aliquet mauris et, accumsan felis. Curabitur ex dui, dictum tempor</p>
+                <div class="flex-auto lg-mt3 mt2">
+                    <div class="left mr2">
+                        <img src="/assets/img/graph_2016.png" alt="" width="80px">
+                    </div>
+                     <div class="ml2 overflow-hidden">
+                       <div class="h5 bold gold">Alex Martinez</div>
+                       <div class="h5">Arizona State University</div>
+                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

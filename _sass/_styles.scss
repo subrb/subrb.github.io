@@ -4,12 +4,20 @@
     color: #FFC900 !important;
 }
 
+.bg-gold {
+    background-color: #FFC900 !important;
+}
+
 .green {
     color: #0c4b46 !important;
 }
 
 .bg-green {
     background-color: #0c4b46 !important;
+}
+
+.grey {
+    color: #ACACAC !important;
 }
 
 .bg-grey {
@@ -122,6 +130,7 @@ li::before {
         border-radius: 5px;
         overflow: hidden;
         box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
+        overflow: hidden;
 
         &:hover {
             text-decoration: none;
@@ -205,13 +214,12 @@ li::before {
 
     p {
         line-height: 27px;
-        color: #ACACAC;
     }
 }
 
 // Inner Pages
 
-.inner-page {
+.inner-page, .about_us {
     line-height: 34px;
 }
 
@@ -227,6 +235,7 @@ li::before {
         background: #FFFFFF;
         box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
         border-radius: 4px;
+        overflow: hidden;
 
         .image-frame {
             height: 125px;
@@ -236,6 +245,34 @@ li::before {
     }
 }
 
+.about_us {
+    .about-hero {
+        background-image: url(/assets/img/hero-about.jpg);
+        background-size: cover;
+        height: 450px;
+
+        .yellow-box {
+            position: relative;
+            top: 100px;
+            color: white;
+
+            .headline {
+                font-family: 'EB Garamond', serif;
+                font-weight: 600;
+                font-size: 42px;
+                line-height: 54px;
+            }
+
+            .button {
+                background: #FFFFFF;
+                box-shadow: 0 5px 6px 0 #EBB900;
+                border-radius: 4px;
+                padding: 3px 20px;
+                margin-top: 25px;
+            }
+        }
+    }
+}
 
 // Footer
 
