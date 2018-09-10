@@ -34,9 +34,9 @@
           </time>
           {% endif %}
         </header>
-        {% else %}
 
-        <div class="lg-col-10 col-11 mx-auto">
+        {% else %}
+        <div class="col-11 mx-auto">
 
            <h1 class="h1 h0-responsive caps lg-my3 my2 bold">
                {{ page.title }}
@@ -46,6 +46,7 @@
                    <span itemprop="name"> {{ page.author }}</span>
                  </span>
              </h3>
+
              {% if page.date %}
              <time class="h4 mb2 h0-responsive block" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -54,7 +55,6 @@
              {% endif %}
 
         </div>
-
         {% endif %}
 
         <div class="inner-page lg-col-11 mx-auto clearfix">
