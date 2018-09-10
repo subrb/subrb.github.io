@@ -137,6 +137,14 @@
       border-top: none !important;
       background: silver;
       text-decoration: underline !important;
+      position: relative;
+        &:before {
+            content: "↓";
+            position: absolute;
+            top: 15px;
+            left: 145px;
+            font-weight: bold;
+        }
   }
 
   .nav .dropdown {

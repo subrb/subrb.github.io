@@ -17,16 +17,38 @@
 
 
         {% if page.feature-img %}
-        <div id="main" style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+        <header class="blogPost-hero center px3 py4 white bg-gray bg-cover bg-center"
+          style="background-image: url({{ site.baseurl }}/{{ page.feature-img }})">
+          <h1 class="h1 h0-responsive caps my2 bold">
             {{ page.title }}
-        </div>
+          </h1>
+          <h3 class="h2 h0-responsive caps mb4 mt2 regular">
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">by {{ page.author }}</span>
+              </span>
+          </h3>
+          {% if page.date %}
+          <time class="h3 h0-responsive" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            {{ page.date | date: date_format }}
+          </time>
+          {% endif %}
+        </header>
         {% endif %}
 
-        <div class="bg-grey inner-page">
-            <div class="col-11 lg-col-10 mx-auto lg-py2">
+        <div class="bg-grey inner-page lg-flex clearfix">
+            <div class="col-11 lg-col-8 col mx-auto">
                 {{ content }}
             </div>
+
+            <div class="col-11 mx-auto col lg-col-3 pt3 lg-mt0 mt3 lg-pl3 bg-white">
+                <div class="h4 bold">Archives</div>
+                {% include blog-archives.html %}
+            </div>
+
         </div>
+
+
 
         {% include footer.html %}
 

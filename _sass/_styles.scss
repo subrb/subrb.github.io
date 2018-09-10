@@ -73,6 +73,7 @@ ul {
 li {
   padding-left: 1em;
   text-indent: -.7em;
+  list-style-type: none;
 }
 
 li::before {
@@ -105,7 +106,7 @@ li::before {
         border: 1px solid #ffc90082;
         border-radius: 4px;
         font-size: 14px;
-        color: #FFFFFF;
+        color: #FFFFFF !important;
         letter-spacing: 0;
         padding: 10px 20px;
         margin-top: 20px;
@@ -273,6 +274,30 @@ li::before {
             }
         }
     }
+}
+
+// Blog
+
+.blogPost-hero {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: linear-gradient(to bottom right,#002f4b,#dc4225);
+        opacity: .4;
+      }
+
+      h1, h3, time {
+        z-index: 1000;
+        position: relative;
+      }
 }
 
 // Footer

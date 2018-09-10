@@ -3,6 +3,7 @@ layout: page
 ---
 
 <div class="posts">
+
     {% for post in site.posts %}
     <div class="post-teaser">
       {% if post.thumbnail %}
@@ -29,7 +30,6 @@ layout: page
       </span>
     </div>
     {% endfor %}
-  </div>
 
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
@@ -47,4 +47,5 @@ layout: page
     {% endif %}
   </div>
   {% endif %}
+
 </div>
