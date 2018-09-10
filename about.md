@@ -4,25 +4,34 @@ layout: about
 people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
-  bio:  John Roberson currently serves as Chief of Staff to 17th Ward Alderman David Moore of Chicago’s City Council. In this role, Mr. Roberson manages all of the Alderman’s activities related to constituent services, policy development, and community development initiatives.
+  bio: John Roberson currently serves as Chief of Staff to 17th Ward Alderman David
+    Moore of Chicago’s City Council. In this role, Mr. Roberson manages all of the
+    Alderman’s activities related to constituent services, policy development, and
+    community development initiatives.
 - name: Jessica Ashley Davis, Esq.
   path: "/assets/img/board-members/2.png"
-  bio: Ms. Davis is an integral member of her law firm where she assists with business organizations, corporate governance and counseling, mergers and acquisitions, securities and corporate finance
+  bio: Ms. Davis is an integral member of her law firm where she assists with business
+    organizations, corporate governance and counseling, mergers and acquisitions,
+    securities and corporate finance
 - name: Adrian Velazquez
   path: "/assets/img/board-members/3.png"
-  bio:  Adrian Velazquez has had a successful career in the financial industry for more than 20 years. At just 19 years old, he was given a life changing opportunity to work on the trading floor of the Chicago Board Options Exchange as a runner for Paine Webber & Co.
+  bio: Adrian Velazquez has had a successful career in the financial industry for
+    more than 20 years. At just 19 years old, he was given a life changing opportunity
+    to work on the trading floor of the Chicago Board Options Exchange as a runner
+    for Paine Webber & Co.
 - name: Michael Piper
   path: "/assets/img/board-members/4.png"
-  bio: Michael Piper is a Managing Director/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners in Chicago.  Sandler O’Neill + Partners, L.P. is a full-service investment banking firm and broker-dealer focused on the financial services sector.
+  bio: Michael Piper is a Managing Director/Co-Head of Fixed Income Sales at Sandler
+    O'Neill & Partners in Chicago.  Sandler O’Neill + Partners, L.P. is a full-service
+    investment banking firm and broker-dealer focused on the financial services sector.
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
-  bio: Mark Sebastian the CIO of Karman Line Capital and founder of Option Pit. He is a former member of both the Chicago Board Options Exchange and the American Stock Exchange.
+  bio: Mark Sebastian the CIO of Karman Line Capital and founder of Option Pit. He
+    is a former member of both the Chicago Board Options Exchange and the American
+    Stock Exchange.
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Bio coming soon
-
-
-
 ---
 
 #### Organization Background
