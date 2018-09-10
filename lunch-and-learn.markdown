@@ -23,6 +23,33 @@ Program runs July through August
 
 * * *
 
+#### 6-WEEK PROGRAM
+
+Greenwood Project has partnered with the City of Chicago’s One Summer Chicago to launch - The Greenwood Project Financial Services Summer Bootcamp.
+
+High School students are immersed in an intensive 6-week program. The curriculum includes financial literacy, educational field trips, simulated trading, soft skills training, leadership and professional development workshops, and tons of exposure to the financial services and tech industry.
+
+Program Schedule: July 2nd through August 10th
+Location: DePaul University Loop + Company Visits
+Students: High School Juniors & Seniors
+
+Workshops and Curriculum
+
+*   Week 1 - Greenwood Project Orientation
+*   Week 2 - Building Your Brand
+*   Week 3 - Financial Literacy
+*   Week 4 - Intro to the Stock market
+*   Week 5 - Education & Careers
+*   Week 6 - Presentation Skills
+
+The program culminates with a graduation ceremony with student presentations.
+
+This partnership presents a great opportunity for the Greenwood Project to amplify and grow our summer programming. This development also allows us to expand the number of Chicago students we are able to work with this summer.
+
+Application Opens in September 2018 for 2019 Positions
+
+* * *
+
 What you choose will depend on your preferences. The first solution is the simplest if you want to port from or to WordPress. The second one is the true Jekyll way. The third (HTML) just makes sense too. The last one, the markdown way, is the most beautiful (in my opinion), but does not generate a true button.
 
 [Learn More](http://www.google.com){: .button}
