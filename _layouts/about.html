@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <div class="title bg-green white lg-py2 h3 bold">
+            <div class="col-11 lg-col-10 mx-auto">
+                {{ page.title }}
+            </div>
+        </div>
+
+        <div class="bg-grey inner-page">
+            <div class="col-11 lg-col-10 mx-auto lg-py3">
+                {{ content }}
+            </div>
+        </div>
+
+        <div class="about_us">
+            <div class="bg-white px4 py2">
+                <div class="col-12 mx-auto clearfix">
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_1.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">Best in Field</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_2.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">Internships</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
+                    <div class="lg-col-4 col-12 col center lg-p3">
+                        <img src="/assets/img/icons/about_illustration_3.svg" alt="" class="mb3">
+                        <div class="h3 bold mb0">One Mission</div>
+                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="about-hero">
+                <div class="yellow-box bg-gold lg-col-7 col-10 center mx-auto p3">
+                    <div class="headline">Check out stories and updates from our students, partners and supporters</div>
+                    <a href="/blog" class="button">Read Our Blog</a>
+                </div>
+            </div>
+
+            <div class="bg-grey lg-p4">
+
+                    <div class="h3 bold mb3">Meet Our Board</div>
+
+                    <div class="flex flex-wrap mxn1">
+                        {% for item in page.people %}
+                        <div class="sm-col sm-col-4 px1 center mb3">
+                            <div class="content p3 thumbnail">
+                                <div class="avatar">
+                                    <img src="{{ item.path }}" alt="" width="115px" class="mb3">
+                                </div>
+                                <div class="bold">{{ item.name }}</div>
+                                <p>
+                                    {{ item.bio }}
+                                </p>
+                            </div>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+                   <!--  <div class="clearfix mt3 mxn3">
+                        {% for item in page.people %}
+                        <div class="thumbnail lg-col-4 col-12 col m2 center">
+                            <div class="avatar">
+                                <img src="{{ item.path }}" alt="" width="115px" class="mb3">
+                            </div>
+                            <div class="h3 bold">{{ item.name }}</div>
+                            <p class="mb0">
+                                {{ item.bio }}
+                            </p>
+                        </div>
+                        {% endfor %}
+                    </div> -->
+                </div>
+
+        </div>
+
+        {% include action-bar.html %}
+
+        {% include footer.html %}
+
+    </div>
+
+  </body>
+
+</html>
+

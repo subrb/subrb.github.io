@@ -1,0 +1,160 @@
+// Nav
+
+.nav {
+  padding: 10px;
+  width: 100%;
+  position: relative;
+}
+
+.programs-link {
+    cursor: pointer;
+
+    &.active {
+        border: 1px solid black !important;
+    }
+}
+
+.nav .dropdown {
+    position: absolute;
+    background: white;
+    z-index: 1000;
+    border: 1px solid black;
+    border-top: none;
+    width: 160px;
+    display: none;
+
+    &:hover {
+        display: block;
+    }
+}
+
+
+.nav .dropdown a {
+    display: block;
+    border-bottom: 1px solid black;
+    padding: 10px;
+
+    &:last-child {
+        border-bottom: none;
+    }
+}
+
+.nav > .nav-header {
+  display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav > .nav-btn {
+  display: none;
+}
+
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+  z-index: 1000;
+}
+
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 13px 20px;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.nav > .nav-links > a:hover {
+  border: 1px solid black;
+}
+
+.nav > #nav-check {
+  display: none;
+}
+
+@media (max-width:600px) {
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 13px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid black;
+  }
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: white;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 70px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid black;
+  }
+
+  .nav > .nav-links > a:hover {
+      border: 1px solid black;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+  }
+
+  .nav > #nav-check:not(:checked) + .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked + .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+    border-top: 1px solid black;
+  }
+
+  // mobile dropdown our programs
+
+  .programs-link.active {
+      border-top: none !important;
+      background: silver;
+      text-decoration: underline !important;
+      position: relative;
+        &:before {
+            content: "↓";
+            position: absolute;
+            top: 15px;
+            left: 145px;
+            font-weight: bold;
+        }
+  }
+
+  .nav .dropdown {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+
+    a {
+        padding: 13px 20px;
+    }
+  }
+
+}

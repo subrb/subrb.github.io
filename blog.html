@@ -1,0 +1,51 @@
+---
+layout: page
+---
+
+<div class="posts bg-grey lg-p3">
+
+    {% for post in site.posts %}
+    <div class="post-teaser lg-mb4 mb2">
+      {% if post.thumbnail %}
+      <div class="post-img">
+         <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
+      </div>
+      {% endif %}
+      <span>
+          <header>
+            <div class="meta mt1 mb1">
+              {{ post.date | date: "%B %-d, %Y" }}
+            </div>
+            <a class="bold h2 mb2 block" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+            </a>
+
+          </header>
+          <div class="excerpt">
+            {{ post.content | strip_html | truncate: "650" }}
+            <a class="underline block mt2" href="{{ post.url | prepend: site.baseurl }}">
+             Continue reading
+            </a>
+          </div>
+      </span>
+    </div>
+    {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme_settings.str_previous_page }}
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      {{ site.theme_settings.str_next_page }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>
