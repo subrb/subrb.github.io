@@ -1,14 +1,19 @@
 ---
 title: Women of Wall Street
 date: 2018-09-06 22:08:00 Z
-layout: inner
+layout: w-o-w
+images:
+- name: Google
+  path: "/assets/img/little-about-us.jpg"
+- name: NASDAQ
+  path: "/assets/img/little-about-us.jpg"
+- name: Braintree
+  path: "/assets/img/little-about-us.jpg"
 ---
 
 The finance industry is very male-dominated, that's why Greenwood Project thought it necessary to launch its Women of Wall Street (W.O.W) speaking series.
 
 Past W.O.W events were hosted by Metropolitan Family Services, Chicago Mercantile Exchange (CME) & Cboe Global Markets
-
-![IMG_2810.jpg](/uploads/IMG_2810.jpg)
 
 Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as Tech.
 
