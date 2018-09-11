@@ -1,14 +1,10 @@
 ---
 title: Women of Wall Street
 date: 2018-09-06 22:08:00 Z
-layout: w-o-w
 images:
-- name: Google
-  path: "/assets/img/little-about-us.jpg"
-- name: NASDAQ
-  path: "/assets/img/little-about-us.jpg"
-- name: Braintree
-  path: "/assets/img/little-about-us.jpg"
+- path: "/uploads/IMG_2810-5aa3f4.jpg"
+- path: "/uploads/Screen%20Shot%202018-09-11%20at%203.03.46%20PM.png"
+layout: w-o-w
 ---
 
 The finance industry is very male-dominated, that's why Greenwood Project thought it necessary to launch its Women of Wall Street (W.O.W) speaking series.
