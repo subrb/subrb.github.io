@@ -70,6 +70,10 @@ ul {
   margin: 0;
 }
 
+ol {
+    margin-left: 0;
+}
+
 li {
   padding-left: 1em;
   text-indent: -.7em;
@@ -281,7 +285,7 @@ li::before {
     .thumbnail {
 
         .image-frame {
-            height: 250px;
+            height: 450px;
             background-size: cover;
         }
 
@@ -320,6 +324,22 @@ li::before {
 
 .site-footer {
     line-height: 27px;
+
+    .social-media-icons {
+        a {
+            display: block;
+
+            img {
+                width: 70px;
+                margin-left: 10px;
+            }
+        }
+
+        .linkedin {
+            position: relative;
+            top: 1px;
+        }
+    }
 }
 
 // Modal
