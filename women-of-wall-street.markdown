@@ -8,6 +8,8 @@ The finance industry is very male-dominated, that's why Greenwood Project though
 
 Past W.O.W events were hosted by Metropolitan Family Services, Chicago Mercantile Exchange (CME) & Cboe Global Markets
 
+![IMG_2810.jpg](/uploads/IMG_2810.jpg)
+
 Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as Tech.
 
 Event open to High School and College students.
