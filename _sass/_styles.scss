@@ -356,6 +356,22 @@ li::before {
     }
 }
 
+// Get Involved
+
+.get-involved {
+
+    .flexCol {
+        flex: 1;
+    }
+
+    .image-frame {
+        overflow: hidden;
+        height: 450px;
+        border-radius: 5px;
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
+    }
+}
+
 // Modal
 #background-wrapper {
     position: fixed;
