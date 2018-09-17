@@ -12,6 +12,10 @@ a {
     background-color: #FFC900 !important;
 }
 
+.bg-yellow {
+    background-color: #FFC900 !important;
+}
+
 .green {
     color: #0c4b46 !important;
 }
@@ -91,9 +95,21 @@ li::before {
 // Home Page
 
 .hero {
-    background-image: url("../assets/img/hero.jpg");
+    background-image: url("/assets/img/get-involved/1.jpg");
     background-size: cover;
+    background-position: center center;
     position: relative;
+
+    .hero-text {
+        font-size: 34px;
+        color: #000000;
+        letter-spacing: 0;
+
+        .h2 {
+            font-family: 'Playfair Display', serif;
+            color: white;
+        }
+    }
 }
 
 .little_about_us {
@@ -157,12 +173,14 @@ li::before {
         .image-frame {
             height: 180px;
             overflow: hidden;
+            background-size: cover;
+            // background-position: center;
         }
 
         .contact_us {
 
             position: relative;
-            height: 424px;
+            height: 398px;
 
             .btn {
                 background: white;
@@ -263,9 +281,9 @@ li::before {
             color: white;
 
             .headline {
-                font-family: 'EB Garamond', serif;
+                font-family: 'Playfair Display', serif;
                 font-weight: 600;
-                font-size: 42px;
+                font-size: 38px;
                 line-height: 54px;
             }
 
@@ -287,8 +305,18 @@ li::before {
         .image-frame {
             height: 450px;
             background-size: cover;
+            background-position: center center;
         }
+    }
+}
 
+.applications-open {
+    border: 3px solid #ffc900;
+
+    .button {
+        padding: 5px 40px;
+        margin-top: 20px;
+        border: none;
     }
 }
 
@@ -339,6 +367,22 @@ li::before {
             position: relative;
             top: 1px;
         }
+    }
+}
+
+// Get Involved
+
+.get-involved {
+
+    .flexCol {
+        flex: 1;
+    }
+
+    .image-frame {
+        overflow: hidden;
+        height: 450px;
+        border-radius: 5px;
+        box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
     }
 }
 
