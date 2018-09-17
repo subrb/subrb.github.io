@@ -4,8 +4,7 @@ layout: about
 people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
-  bio: Chief of Staff to 17th Ward City Council
-    community development initiatives.
+  bio: Chief of Staff to 17th Ward City Council community development initiatives.
 - name: Jessica Ashley Davis, Esq.
   path: "/assets/img/board-members/2.png"
   bio: Corporate Transactional Lawyer at SmithAmundsen
