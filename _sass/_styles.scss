@@ -39,6 +39,12 @@ a {
     text-align: center;
 }
 
+.flex-vertical-middle  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .button {
     background: #FFC900;
     border: 1px solid #E9E9E9;
