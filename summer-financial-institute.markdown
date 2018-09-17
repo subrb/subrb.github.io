@@ -1,7 +1,7 @@
 ---
-title: Lunch and Learn
+title: The Summer Financial Institute
 date: 2018-09-06 22:08:00 Z
-layout: lunch-and-learn
+layout: summer-financial-institute
 images:
 - name: Google
   path: "/assets/img/little-about-us.jpg"
@@ -23,7 +23,7 @@ Program runs July through August
 
 * * *
 
-#### 6-WEEK PROGRAM
+#### Financial Bootcamp - 6 week Program
 
 Greenwood Project has partnered with the City of Chicago’s One Summer Chicago to launch - The Greenwood Project Financial Services Summer Bootcamp.
 
