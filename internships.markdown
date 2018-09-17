@@ -6,7 +6,6 @@ images:
 - path: "/assets/img/internship-1.jpg"
 - path: "/assets/img/internship-2.jpg"
 - path: "/assets/img/get-involved/5.jpg"
-
 layout: internships
 ---
 
