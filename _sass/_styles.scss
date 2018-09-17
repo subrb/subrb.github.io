@@ -95,8 +95,9 @@ li::before {
 // Home Page
 
 .hero {
-    background-image: url("../assets/img/hero.jpg");
+    background-image: url("/assets/img/get-involved/1.jpg");
     background-size: cover;
+    background-position: center center;
     position: relative;
 
     .hero-text {
@@ -106,6 +107,7 @@ li::before {
 
         .h2 {
             font-family: 'Playfair Display', serif;
+            color: white;
         }
     }
 }
@@ -171,6 +173,8 @@ li::before {
         .image-frame {
             height: 180px;
             overflow: hidden;
+            background-size: cover;
+            // background-position: center;
         }
 
         .contact_us {
