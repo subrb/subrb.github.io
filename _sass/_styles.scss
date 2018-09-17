@@ -301,8 +301,18 @@ li::before {
         .image-frame {
             height: 450px;
             background-size: cover;
+            background-position: center center;
         }
+    }
+}
 
+.applications-open {
+    border: 3px solid #ffc900;
+
+    .button {
+        padding: 5px 40px;
+        margin-top: 20px;
+        border: none;
     }
 }
 

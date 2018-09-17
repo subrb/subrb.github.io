@@ -1,0 +1,38 @@
+---
+layout: inner
+---
+
+{% if page.applications_open == true %}
+      {% assign open = true %}
+{% endif %}
+
+<div class="w-o-w">
+    <div class="clearfix">
+        <div class="col-12 lg-col-7 col lg-pr3">
+            {% if open %}
+            <div class="applications-open lg-p3 p2 mb3">
+                <div class="h3">Applications are now open! Please submit your information by following the link below.  We will review and respond within the next week.</div>
+                <a href="#" class="button">Apply now</a>
+            </div>
+            {% endif %}
+
+            {{ content }}
+        </div>
+        <div class="col-12 lg-col-5 col">
+
+           <div class="clearfix">
+                {% for item in page.images %}
+                <div class="col-12 col px2 pb3">
+                <div class="thumbnail block bg-white">
+                   <div class="image-frame" style="background-image: url({{item.path}})">
+
+                   </div>
+                </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</div>
+
