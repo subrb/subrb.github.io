@@ -39,8 +39,14 @@ a {
     text-align: center;
 }
 
+.flex-vertical-middle  {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
 .button {
-    background: #FFC900;
+    background: #ffc900ba;
     border: 1px solid #E9E9E9;
     box-shadow: 0 5px 6px 0 rgb(255, 254, 248);
     border-radius: 4px;

@@ -52,6 +52,6 @@ Application Opens in September 2018 for 2019 Positions
 
 What you choose will depend on your preferences. The first solution is the simplest if you want to port from or to WordPress. The second one is the true Jekyll way. The third (HTML) just makes sense too. The last one, the markdown way, is the most beautiful (in my opinion), but does not generate a true button.
 
-[Learn More](http://www.google.com){: .button}
+[Learn More](mailto:info@greenwoodproject.org){: .button}
 
 

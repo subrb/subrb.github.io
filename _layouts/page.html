@@ -17,7 +17,7 @@
 
 
         {% if page.feature-img %}
-        <header class="blogPost-hero center px3 py4 white bg-gray bg-cover bg-center"
+        <header class="blogPost-hero center px3 py4 white bg-gray bg-cover bg-center lg-mb3 mb2"
           style="background-image: url({{ site.baseurl }}/{{ page.feature-img }})">
           <h1 class="h1 h0-responsive caps my2 bold">
             {{ page.title }}
@@ -36,7 +36,7 @@
         </header>
 
         {% else %}
-        <div class="col-11 mx-auto">
+        <div class="col-11 lg-col-10 mx-auto">
 
            <h1 class="h1 h0-responsive caps lg-my3 my2 bold">
                {{ page.title }}
@@ -57,7 +57,7 @@
         </div>
         {% endif %}
 
-        <div class="inner-page lg-col-11 mx-auto clearfix">
+        <div class="inner-page lg-col-10 mx-auto clearfix">
             <div class="col-11 lg-col-8 col">
                 {{ content }}
             </div>
@@ -71,7 +71,6 @@
                 <div class="h4 bold">Previous Posts</div>
                 {% include blog-archives.html %}
             </div>
-
             {% endif %}
 
         </div>

@@ -4,13 +4,13 @@ layout: about
 people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
-  bio: Chief of Staff to 17th Ward City Council community development initiatives.
+  bio: Director Of External Affairs, Office of the President, Cook County Board
 - name: Jessica Ashley Davis, Esq.
   path: "/assets/img/board-members/2.png"
-  bio: Corporate Transactional Lawyer at SmithAmundsen
+  bio: General Counsel at The Will Group
 - name: Adrian Velazquez
   path: "/assets/img/board-members/3.png"
-  bio: Position Title at Chicago Trading Ccompany
+  bio: Options Floor Broker at X-FAX-Change Financial Access (XFA)
 - name: Michael Piper
   path: "/assets/img/board-members/4.png"
   bio: Managing Director/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
@@ -24,8 +24,9 @@ people:
 
 #### Organization Background
 
-Greenwood Project's goal is to introduce academically talented youth from economically disadvantaged neighborhoods to careers within the financial industry, using paid summer internships as an entryway.
+Greenwood Project introduces our youth to careers within the financial industry via paid summer internships, educational field trips and our summer financial
+institute for high school students.
 
-Targeting young people entering their junior year of high school is very deliberate on our part. This is a critical time, when students start thinking about potential colleges -- or frankly are simply not certain of what they will do after high school. In many cases, our programming gives young people strong motivation to succeed in their remaining high school tenure -- and also a compelling reason to attend college.
+In many cases, our programming gives young people strong motivation to succeed in their remaining high school tenure and also a compelling reason to attend college.
 
-Since 2015, Greenwood has introduced more than 200 students from Chicago’s South and West sides to possible career opportunities within the financial sector. We credit this success to our Summer Internship program, Women of Wall Street information session, and our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers from financial companies such as Chicago Mercantile Exchange and MB Financial. Other students have changed their college majors as they are now interested in financial services opportunities.
+The Greenwood Impact: As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies.. Other students have changed their college majors as they are now interested in financial services opportunities.
