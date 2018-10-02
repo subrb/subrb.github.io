@@ -16,12 +16,15 @@
         <ol><a class="underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></ol>
     {% endif %}
 
+    <!-- I think this needs to be deleted -->
     {% if postYear == currentYear and postMonth != currentMonth %}
         </ul></ol>
         <ol> {{ postMonth }}
             <ul>
                 <ol><a class="underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></ol>
     {% endif %}
+    <!-- /I think this needs to be deleted -->
+
 
     {% if postYear != currentYear %}
         </ul></ol></ul></ol>
