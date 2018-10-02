@@ -8,12 +8,22 @@ a {
     color: #FFC900 !important;
 }
 
+.gold-underline {
+    border-bottom: 3px solid #ffd950;
+    display: inline-block;
+}
+
+
 .bg-gold {
     background-color: #FFC900 !important;
 }
 
 .bg-yellow {
     background-color: #FFC900 !important;
+}
+
+.yellow {
+    color: #FFC900 !important;
 }
 
 .green {
@@ -101,7 +111,7 @@ li::before {
 // Home Page
 
 .hero {
-    background-image: url("/assets/img/get-involved/1.jpg");
+    background-image: url("/assets/img/get-involved/hero.jpg");
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -113,7 +123,6 @@ li::before {
 
         .h2 {
             font-family: 'Playfair Display', serif;
-            color: white;
         }
     }
 }
@@ -176,6 +185,8 @@ li::before {
 
     .thumbnail {
 
+        height: 507px;
+
         .image-frame {
             height: 180px;
             overflow: hidden;
@@ -186,7 +197,7 @@ li::before {
         .contact_us {
 
             position: relative;
-            height: 398px;
+            height: 452px;
 
             .btn {
                 background: white;
@@ -449,6 +460,64 @@ li::before {
   &:hover {
     color: #000;
   }
+}
+
+
+//  Show / hide
+
+
+.lg-show,
+.md-show,
+.sm-show {
+    display: none!important
+}
+
+@media (min-width:40em) {
+    .sm-show {
+        display: block!important
+    }
+}
+
+@media (min-width:52em) {
+    .md-show {
+        display: block!important
+    }
+}
+
+@media (min-width:64em) {
+    .lg-show {
+        display: block!important
+    }
+}
+
+@media (min-width:40em) {
+    .sm-hide {
+        display: none!important
+    }
+}
+
+@media (min-width:52em) {
+    .md-hide {
+        display: none!important
+    }
+}
+
+@media (min-width:64em) {
+    .lg-hide {
+        display: none!important
+    }
+}
+
+.display-none {
+    display: none!important
+}
+
+.hide {
+    position: absolute!important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px, 1px, 1px, 1px)
 }
 
 
