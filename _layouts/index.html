@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 
 <div class=" hero clearfix p3 py4" style="height: 400px">
@@ -20,33 +21,57 @@ layout: default
     <div class="our_partners mt3">
         <div class="center mb2 grey">Participating Firms</div>
 
+
         <div class="flex flex-wrap">
+          {% for item in page.partners %}
           <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/bloomberg.png" alt="" width="140px" class="mx-auto">
+              <img src="{{ item.path }}" alt="" width="{{ item.width }}" class="mx-auto">
           </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/braintree.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/cmegroup.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/google.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/nasdaq.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/nyse.png" alt="" width="110px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/td.png" alt="" width="140px" class="mx-auto">
-          </div>
+          {% endfor %}
         </div>
     </div>
     <!-- /Our Partners -->
 
-    {% include action-bar.html %}
+    <!-- Action Bar -->
+    <div class="action_bar clearfix my2 p3 lg-flex">
+
+        {{ content }}
+
+        <div class="lg-col-10 col-12 col clearfix flex-vertical-middle">
+
+            <div class="flex flex-wrap">
+                {% for item in page.year-stats %}
+                <div class="flex-auto flex lg-mt0 mt2">
+                    <div class="left mr2">
+                        <img src="{{ item.path }}" alt="" width="100px">
+                    </div>
+                     <div class="flex-vertical-middle overflow-hidden">
+                       <div class="h2 bold">{{ item.year }}</div>
+                       <div>{{ item.text }}</div>
+                     </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        {% if page.applications_open == true %}
+              {% assign open = true %}
+        {% endif %}
+
+        <div class="lg-col-2 col-12 col clearfix lg-mt0 mt2 flex-vertical-middle">
+            <a  href="#open-modal" class="donate-btn button block center mb1 mt1 lg-mt0 p1 black">Donate</a>
+            {% if open %}
+            <a href="/get-involved" class="button block center p1 black">Apply</a>
+            {% else %}
+            <a href="/get-involved" class="button block center p1 black">Get Invovled</a>
+            {% endif %}
+        </div>
+
+    </div>
+    <!-- /Action Bar -->
+
+    {% include modal.html %}
+
 
 </div>
 
