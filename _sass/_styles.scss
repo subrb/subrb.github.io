@@ -1,5 +1,11 @@
 // Global
 
+.wrapper {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 a {
     color: #262626 !important;
 }
@@ -115,6 +121,11 @@ li::before {
     background-size: cover;
     background-position: center center;
     position: relative;
+
+    .yellow-box {
+        position: relative;
+        bottom: -100px;
+    }
 
     .hero-text {
         font-size: 34px;
