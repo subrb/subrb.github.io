@@ -1,7 +1,6 @@
 ---
 title: Greenwood Project
 timezone: UTC
-<<<<<<< HEAD
 hs_applications_open: false
 college_applications_open: true
 year-stats:
@@ -14,8 +13,6 @@ year-stats:
 - year: 2018
   path: "/assets/img/graph_2018.png"
   text: 225 Students and 24 Firms
-=======
->>>>>>> 3ef9c5c47bbfe4c153e0acf7e86f85e7f62415ab
 collections:
   posts:
     title: Posts
@@ -35,14 +32,4 @@ defaults:
     type: pages
   values:
     layout: page
-year-stats:
-- year: 2016
-  path: "/assets/img/graph_2016.png"
-  text: 120 Students and 8 Firms
-- year: 2017
-  path: "/assets/img/graph_2017.png"
-  text: 180 Students and 12 Firms
-- year: 2018
-  path: "/assets/img/graph_2018.png"
-  text: 225 Students and 24 Firms
 permalink: pretty
