@@ -1,43 +1,38 @@
 <!-- Action Bar -->
 <div class="action_bar clearfix my2 p3 lg-flex">
+
+    {{ content }}
+
     <div class="lg-col-10 col-12 col clearfix flex-vertical-middle">
 
         <div class="flex flex-wrap">
+            {% for item in page.year-stats %}
             <div class="flex-auto flex lg-mt0 mt2">
                 <div class="left mr2">
-                    <img src="/assets/img/graph_2016.png" alt="" width="100px">
+                    <img src="{{ item.path }}" alt="" width="100px">
                 </div>
                  <div class="flex-vertical-middle overflow-hidden">
-                   <div class="h2 bold">2016</div>
-                   <div>120 Students and 8 Firms</div>
+                   <div class="h2 bold">{{ item.year }}</div>
+                   <div>{{ item.text }}</div>
                  </div>
             </div>
-
-            <div class="flex-auto lg-mt0 flex mt2">
-                <div class="left mr2">
-                    <img src="/assets/img/graph_2017.png" alt="" width="100px">
-                </div>
-                 <div class="flex-vertical-middle overflow-hidden">
-                   <div class="h2 bold">2017</div>
-                   <div>180 Students and 12 Firms</div>
-                 </div>
-            </div>
-
-            <div class="flex-auto lg-mt0 flex mt2">
-                <div class="left mr2">
-                    <img src="/assets/img/graph_2018.png" alt="" width="100px">
-                </div>
-                 <div class="flex-vertical-middle overflow-hidden">
-                   <div class="h2 bold">2018</div>
-                   <div>225 Students and 24 Firms</div>
-                 </div>
-            </div>
+            {% endfor %}
         </div>
     </div>
+
+    {% if page.applications_open == true %}
+          {% assign open = true %}
+    {% endif %}
+
     <div class="lg-col-2 col-12 col clearfix lg-mt0 mt2 flex-vertical-middle">
         <a  href="#open-modal" class="donate-btn button block center mb1 mt1 lg-mt0 p1 black">Donate</a>
+        {% if open %}
+        <a href="/get-involved" class="button block center p1 black">Apply</a>
+        {% else %}
         <a href="/get-involved" class="button block center p1 black">Get Invovled</a>
+        {% endif %}
     </div>
+
 </div>
 <!-- /Action Bar -->
 
