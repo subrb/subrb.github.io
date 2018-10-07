@@ -1,6 +1,7 @@
 ---
 title: My CME Group Internship
 date: 2018-09-10 18:13:00 Z
+tags: internships wall-st college
 author: Alex Martinez
 ---
 
@@ -13,7 +14,7 @@ Thanks the Greenwood project, I landed a year-round internship at the Chicago Me
 I’m currently interning at the global command center within the CME where I’ve been immersed in my role as enterprise application system entitlement. In this role I am responsible for various tasks from responding to customer issues, providing first level troubleshooting for Globex clearing, and co-location applications to assisting the lead analyst on global marketing solutions.
 
 Along with helping the global command center process customer support cases, my role is also a key component to protecting the customer security by ensuring sensitive information is captured appropriately and only distributed to authorize parties. I manage this workload with seven screens at my desk which is an experience in itself. I work as if I’m operating a spaceship and truly honored to be providing solutions at the capital of derivatives and the largest commodity exchange in the world.
- 
+
 The Greenwood project has given me a level of exposure that I did not know was possible. Aside from the incredible connections have been making during my internship, I was also one of the Scholars selected to travel to New York this summer for a full week on Wall Street.
 
 In New York we visited several major financial firms including the CME where I was able to collaborate with teams in Chicago that correlate with teams in New York. Very few people at the CME have been able to bridge connections from New York to Chicago and I’m fortunately one of those individuals.

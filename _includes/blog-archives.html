@@ -1,39 +1,18 @@
-{% assign currentYear = site.time | date: "%Y" %}
-{% assign currentMonth = site.time | date: "%B" %}
-{% for post in site.posts %}
+<div class="post">
+    <div class="h4 bold">Archives</div>
+    <ul>
+      {% for post in site.posts %}
+        {% unless post.next %}
+          <h3>{{ post.date | date: '%b %Y ' }}</h3>
+        {% else %}
+          {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+          {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+          {% if year != nyear %}
+            <h3>{{ post.date | date: '%Y %b' }}</h3>
+          {% endif %}
+        {% endunless %}
 
-    {% assign postYear = post.date | date: "%Y" %}
-    {% assign postMonth = post.date  | date: "%B" %}
-
-    {% if forloop.first %}
-    <ol> {{ postYear}}
-        <ul>
-            <ol> {{ postMonth }}
-                <ul>
-    {% endif %}
-
-    {% if (postYear == currentYear and postMonth == currentMonth) or forloop.first %}
-        <ol><a class="underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></ol>
-    {% endif %}
-
-    <!-- I think this needs to be deleted -->
-    {% if postYear == currentYear and postMonth != currentMonth %}
-        </ul></ol>
-        <ol> {{ postMonth }}
-            <ul>
-                <ol><a class="underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></ol>
-    {% endif %}
-    <!-- /I think this needs to be deleted -->
-
-
-    {% if postYear != currentYear %}
-        </ul></ol></ul></ol>
-            <ol> {{ postYear}}
-                <ul>
-                    <ol> {{ postMonth }}
-                        <ul>
-                            <ol><a class="underline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></ol>
-    {% endif %}
-    {% assign currentYear = postYear %}
-    {% assign currentMonth = postMonth %}
-{% endfor %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+</div>

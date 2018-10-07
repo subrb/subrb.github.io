@@ -2,6 +2,7 @@
 title: I Am A Greenwood Scholar
 date: 2018-09-07 01:15:00 Z
 author: John Smith
+tags: internships college
 feature-img: assets/img/hero.jpg
 ---
 

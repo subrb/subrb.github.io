@@ -67,9 +67,34 @@
                 <!-- this only appears on post -->
 
             {% else %}
-            <div class="col-11 col lg-col-4 mt1 center archives">
-                <div class="h4 bold">Previous Posts</div>
-                {% include blog-archives.html %}
+            <div class="col-11 col lg-col-4 mt1 lg-pl4 archives">
+                <!-- {% include blog-archives.html %} -->
+                <h3>Tags</h3>
+                <div class='list-group'>
+                  {% assign tags_list = site.tags %}
+
+                  {% if tags_list.first[0] == null %}
+                    {% for tag in tags_list %}
+                    <div class="block">
+                      <a href="/tags#{{ tag }}-ref" class='list-group-item'>
+                        {{ tag }} <span class='badge'>{{ site.tags[tag].size }}</span>
+                      </a>
+                    </div>
+                    {% endfor %}
+                  {% else %}
+                    {% for tag in tags_list %}
+                    <div class="block">
+                      <a href="/tags#{{ tag[0] }}-ref" class='list-group-item'>
+                        {{ tag[0] }} <span class='badge'>{{ tag[1].size }}</span>
+                      </a>
+                    </div>
+                    {% endfor %}
+                  {% endif %}
+
+                  {% assign tags_list = nil %}
+                </div>
+
+
             </div>
             {% endif %}
 
