@@ -2,7 +2,6 @@
 layout: page
 ---
 
-
 {% for tag in site.tags %}
   <h2 class='tag-header capitalize h3' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
   <ul>

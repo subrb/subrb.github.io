@@ -1,7 +1,10 @@
 ---
 title: My CME Group Internship
 date: 2018-09-10 18:13:00 Z
-tags: internships wall-st college
+tags:
+- internships
+- wall-st
+- college
 author: Alex Martinez
 ---
 
