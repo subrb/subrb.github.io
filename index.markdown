@@ -1,5 +1,5 @@
 ---
-layout: index
+title: Home Page Partners
 partners:
 - path: "/assets/img/sponsors/bloomberg.png"
   width: 140px
@@ -15,5 +15,6 @@ partners:
   width: 110px
 - path: "/assets/img/sponsors/td.png"
   width: 140px
+layout: index
 ---
 
