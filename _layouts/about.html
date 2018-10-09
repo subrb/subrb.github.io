@@ -24,21 +24,13 @@
         <div class="about_us">
             <div class="bg-white px4 py2">
                 <div class="col-12 mx-auto clearfix">
+                    {% for item in page.about-blurb %}
                     <div class="lg-col-4 col-12 col center lg-p3">
-                        <img src="/assets/img/icons/about_illustration_1.svg" alt="" class="mb3">
-                        <div class="h3 bold mb0">Best in Field</div>
-                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
+                        <img src="{{ item.path }}" alt="" class="mb3">
+                        <div class="h3 bold mb0">{{ item.title }}</div>
+                        <p class="mt1">{{ item.text }}</p>
                     </div>
-                    <div class="lg-col-4 col-12 col center lg-p3">
-                        <img src="/assets/img/icons/about_illustration_2.svg" alt="" class="mb3">
-                        <div class="h3 bold mb0">Internships</div>
-                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
-                    </div>
-                    <div class="lg-col-4 col-12 col center lg-p3">
-                        <img src="/assets/img/icons/about_illustration_3.svg" alt="" class="mb3">
-                        <div class="h3 bold mb0">One Mission</div>
-                        <p class="mt1">Our educational field trips to big banks and trading firms. As a result of our exposure initiatives, recent college graduates have received (Jan 2018) employment offers </p>
-                    </div>
+                    {% endfor %}
                 </div>
             </div>
 

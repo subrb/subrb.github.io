@@ -1,5 +1,11 @@
 // Global
 
+.wrapper {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 a {
     color: #262626 !important;
 }
@@ -12,7 +18,6 @@ a {
     border-bottom: 3px solid #ffd950;
     display: inline-block;
 }
-
 
 .bg-gold {
     background-color: #FFC900 !important;
@@ -40,6 +45,10 @@ a {
 
 .bg-grey {
     background-color: #fafafa !important;
+}
+
+.capitalize {
+    text-transform: capitalize;
 }
 
 .flex-align-middle {
@@ -115,6 +124,11 @@ li::before {
     background-size: cover;
     background-position: center center;
     position: relative;
+
+    .yellow-box {
+        position: relative;
+        bottom: -100px;
+    }
 
     .hero-text {
         font-size: 34px;
@@ -385,6 +399,13 @@ li::before {
             top: 1px;
         }
     }
+}
+
+.list-group-item {
+    font-family: Roboto Mono,Source Code Pro,Menlo,Consolas,Liberation Mono,monospace;
+    border: 1px solid #e8e8e8;
+    background-color: #eef;
+    padding: 0 6px;
 }
 
 // Get Involved

@@ -2,16 +2,12 @@
 layout: default
 ---
 
-<div class=" hero clearfix p3 py4">
-
-  <div class="sm-col sm-col-6 bg-center sm-show">
-        &nbsp;
-  </div>
+<div class=" hero clearfix p3 py4" style="height: 400px">
 
 
-  <div class="hero-text sm-col sm-col-6 lg-p4">
+  <div class="lg-col-6 col-10 center mx-auto m4">
 
-    <div class="lg-h1 bg-yellow py1 px2 h2 bold sm-show">Introducing Minority Students To The Financial Industry</div>
+    <div class="lg-h2 bg-yellow yellow-box py1 px2 h2 bold sm-show lg-m4">Introducing Minority Students To The Financial Industry</div>
 
   </div>
 </div>
@@ -24,33 +20,20 @@ layout: default
     <div class="our_partners mt3">
         <div class="center mb2 grey">Participating Firms</div>
 
+
         <div class="flex flex-wrap">
+          {% for item in page.partners %}
           <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/bloomberg.png" alt="" width="140px" class="mx-auto">
+              <img src="{{ item.path }}" alt="" width="{{ item.width }}" class="mx-auto">
           </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/braintree.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/cmegroup.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/google.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/nasdaq.png" alt="" width="140px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/nyse.png" alt="" width="110px" class="mx-auto">
-          </div>
-          <div class=" flex-auto flex-align-middle center">
-              <img src="assets/img/sponsors/td.png" alt="" width="140px" class="mx-auto">
-          </div>
+          {% endfor %}
         </div>
     </div>
     <!-- /Our Partners -->
 
+    <!-- Action Bar -->
     {% include action-bar.html %}
+    <!-- /Action Bar -->
 
 </div>
 
