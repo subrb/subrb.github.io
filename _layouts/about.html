@@ -10,12 +10,12 @@
         {% include header.html %}
 
         <div class="title bg-green white lg-py2 h3 bold">
-            <div class="col-11 lg-col-10 mx-auto">
+            <div class="col-11 lg-col-10 mx-auto lg-py0 py2">
                 {{ page.title }}
             </div>
         </div>
 
-        <div class="bg-grey inner-page">
+        <div class="bg-grey inner-page py2">
             <div class="col-11 lg-col-10 mx-auto lg-py3">
                 {{ content }}
             </div>
@@ -34,7 +34,7 @@
                 </div>
             </div>
 
-            <div class="about-hero">
+            <div class="about-hero sm-show">
                 <div class="yellow-box bg-gold lg-col-7 col-10 center mx-auto p3">
                     <div class="headline">Check out stories and updates from our students, partners and supporters</div>
                     <a href="/blog" class="button">Read Our Blog</a>
@@ -43,11 +43,11 @@
 
             <div class="bg-grey lg-p4">
 
-                    <div class="h3 bold mb3">Meet Our Board</div>
+                    <div class="h3 bold lg-mb3 mb1 mt2 lg-mt0 center">Meet Our Board</div>
 
                     <div class="flex flex-wrap mxn1">
                         {% for item in page.people %}
-                        <div class="sm-col sm-col-4 px1 center mb3">
+                        <div class="col-12 lg-col-4 px1 center mb3">
                             <div class="content p3 thumbnail">
                                 <div class="avatar">
                                     <img src="{{ item.path }}" alt="" width="115px" class="mb3">
