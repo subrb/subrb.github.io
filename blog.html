@@ -18,9 +18,9 @@ layout: page
           </header>
           <div class="excerpt">
             {{ post.content | strip_html | truncate: "650" }}
-            {% if post.feature-img %}
+            {% if post.author-image %}
             <div class="post-img my2">
-               <img src="{{ site.baseurl }}/{{ post.feature-img }}" >
+               <img src="{{ post.author-image }}" >
             </div>
             {% endif %}
             <a class="underline block mt2" href="{{ post.url | prepend: site.baseurl }}">

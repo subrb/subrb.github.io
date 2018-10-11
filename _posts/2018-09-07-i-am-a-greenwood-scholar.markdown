@@ -4,7 +4,8 @@ date: 2018-09-07 01:15:00 Z
 tags:
 - internships
 - college
-author: John Smith
+author-name: Jen Smith
+author-image: "/assets/img/author-bio.jpg"
 feature-image: "assets/img/hero.jpg"
 ---
 

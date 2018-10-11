@@ -16,23 +16,20 @@
         </div>
 
 
-        {% if page.feature-img %}
+        {% if page.feature-image %}
         <header class="blogPost-hero center px3 py4 white bg-gray bg-cover bg-center lg-mb3 mb2"
-          style="background-image: url({{ site.baseurl }}/{{ page.feature-img }})">
+          style="background-image: url({{ site.baseurl }}/{{ page.feature-image }})">
           <h1 class="h1 h0-responsive caps my2 bold">
             {{ page.title }}
           </h1>
-          <h3 class="h2 h0-responsive caps mb4 mt2 regular">
-              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span itemprop="name">by {{ page.author }}</span>
-              </span>
-          </h3>
+
           {% if page.date %}
           <time class="h3 h0-responsive" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             {{ page.date | date: date_format }}
           </time>
           {% endif %}
+
         </header>
 
         {% else %}
@@ -42,11 +39,6 @@
            <h1 class="h1 h0-responsive caps lg-my3 my2 bold">
                {{ page.title }}
              </h1>
-             <h3 class="h3 h0-responsive caps mb3 mt1 regular">
-                 <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                   <span itemprop="name"> {{ page.author }}</span>
-                 </span>
-             </h3>
 
              {% if page.date %}
              <time class="h4 mb2 h0-responsive block" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -58,16 +50,43 @@
         </div>
         {% endif %}
 
-        <div class="inner-page col-12 lg-col-10 mx-auto clearfix">
+        <div class="inner-page blogPost col-12 lg-col-10 mx-auto clearfix">
             <div class="col-12 lg-col-8 col">
                 {{ content }}
             </div>
 
+            <!-- only shows up on posts -->
             {% if page.id %}
+            <div class="col-12 lg-col-4 col center lg-px4">
+                <div class="mb2">Written by</div>
+               <div class="thumbnail block bg-white">
+                  <div class="image-frame" style="background-image: url({{ page.author-image}})">
+                    &nbsp;
+                  </div>
+                  <div class="p1 center">
+                      <div class="bold green">{{ page.author-name }}</div>
+                  </div>
+               </div>
 
-                <!-- this only appears on post -->
+                <div class="lg-mt4 mt2">
+                    <div class="mb2">Tags</div>
 
+                   {% for tag in page.tags %}
+                   <a href="/tags#{{ tag | slugify }}-ref">
+                      <code class="highligher-rouge px1 mr2">
+                          {{ tag | capitalize}}
+                      </code>
+                    </a>
+                   {% endfor %}
+                </div>
+
+            </div>
             {% else %}
+
+
+            <!-- /only shows up on posts -->
+
+
             <div class="col-11 col lg-col-4 mt1 lg-pl4 p3 lg-p0 archives">
                 {% include blog-archives.html %}
                 <div class="h3">Tags</div>
