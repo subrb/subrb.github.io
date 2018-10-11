@@ -6,7 +6,7 @@ tags:
 - college
 author-name: Jen Smith
 author-image: "/assets/img/author-bio.jpg"
-feature-image: "assets/img/hero.jpg"
+feature-image: assets/img/hero.jpg
 ---
 
 Hello, my name is Brandy Wayne and I am an incoming Freshman at Bradley University double majoring in Political Science and Computer Science with a Minor in Spanish.
