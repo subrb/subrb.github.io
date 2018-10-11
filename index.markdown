@@ -1,5 +1,5 @@
 ---
-title: Home Page Partners
+title: Home Page
 partners:
 - path: "/assets/img/sponsors/bloomberg.png"
   width: 140px
