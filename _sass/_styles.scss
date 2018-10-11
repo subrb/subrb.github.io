@@ -122,12 +122,13 @@ li::before {
 .hero {
     background-image: url("/assets/img/get-involved/hero.jpg");
     background-size: cover;
-    background-position: center center;
+    background-position: center 0px;
     position: relative;
 
     .yellow-box {
         position: relative;
-        bottom: -100px;
+        bottom: 64px;
+        opacity: .7;
     }
 
     .hero-text {
@@ -308,8 +309,9 @@ li::before {
 
         .yellow-box {
             position: relative;
-            top: 100px;
+            top: 150px;
             color: white;
+            opacity: .8;
 
             .headline {
                 font-family: 'Playfair Display', serif;
