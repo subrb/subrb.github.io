@@ -5,8 +5,8 @@ tags:
 - internships
 - Nasdaq
 author-name: Nia Khaan
-author-image: "/uploads/Nia%20Headshot.jpg"
-feature-image: "/uploads/IMG_2064.jpg"
+author-image: "/assets/img/author-bio.jpg"
+feature-image: assets/img/hero.jpg
 ---
 
 Every internship is supposed to challenge the student. Whether it's learning new skills, redefining our career path, or learning to network across individual boundaries, internships give students the opportunity to polish our professional brand and take risks.
