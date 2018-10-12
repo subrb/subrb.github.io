@@ -1,6 +1,6 @@
 ---
 title: My Greenwood Experience
-date: 2018-10-12 22:50:00 Z
+date: 2017-11-12 22:50:00 Z
 categories:
 - Internship
 tags:
