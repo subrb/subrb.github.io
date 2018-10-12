@@ -9,7 +9,7 @@ tags:
 - 2018 Wall St. Tour
 - Wall Street
 author-name: Hayes Bynum III
-author-image: "/uploads/DSC_1687%20(1).jpg"
+author-image: "/uploads/DSC_1687.jpg"
 feature-image: "/uploads/IMG_2850.jpg"
 ---
 
