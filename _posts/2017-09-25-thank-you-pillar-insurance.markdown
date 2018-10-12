@@ -25,4 +25,6 @@ At Pillar Insurance, I learned what it takes to be a successful entrepreneur. My
 
 ![JourneeCUBS_edited.jpg](/uploads/JourneeCUBS_edited.jpg)
 
-**### Thank you Greenwood Project for this tremendous opportunity.**
+At Pillar Insurance, I learned what it takes to be a successful entrepreneur. My experiences at Pillar have increased my love for business, and have inspired me to work harder to achieve success in the industry. I hope to continue learning about both entrepreneurship and finance in college. I will be sure to take all of my notes and words of wisdom with me on my journey into the business world.
+
+Thank you Greenwood Project for this tremendous opportunity.
