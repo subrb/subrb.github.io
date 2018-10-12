@@ -189,9 +189,10 @@ li::before {
         border: 1px solid #0F645D;
         font-size: 15px;
         letter-spacing: 0px;
-        padding: 11px 20px;
+        padding: 13px 20px;
         display: inline-block;
         border-left: none;
+        cursor: pointer;
     }
 }
 
@@ -355,10 +356,19 @@ li::before {
 
 // Blog
 
+.blogPost {
+    .image-frame {
+        width: 100%;
+        height: 250px;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
 .blogPost-hero {
+    height: 350px !important;
     position: relative;
     width: 100%;
-    height: 100%;
 
     &:before {
         content: '';

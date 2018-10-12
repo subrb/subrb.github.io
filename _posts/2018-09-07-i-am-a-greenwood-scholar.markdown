@@ -4,8 +4,9 @@ date: 2018-09-07 01:15:00 Z
 tags:
 - internships
 - college
-author: John Smith
-feature-img: assets/img/hero.jpg
+author-name: Jen Smith
+author-image: "/assets/img/author-bio.jpg"
+feature-image: assets/img/hero.jpg
 ---
 
 Hello, my name is Brandy Wayne and I am an incoming Freshman at Bradley University double majoring in Political Science and Computer Science with a Minor in Spanish.

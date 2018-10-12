@@ -11,6 +11,13 @@ images:
   path: "/assets/img/little-about-us.jpg"
 ---
 
+{% if site.hs_applications_open == true %}
+<div class="applications-open lg-p3 p2 mb3">
+    <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
+    <a href="#" class="button">Apply now</a>
+</div>
+{% endif %}
+
 Greenwood Project takes HS & College students to the offices of our corporate partners for a tour and to learn from employees of what their company does and the many career paths available to students. Lunch & Learn events can spark interest and increase awareness of the business.
 
 Program runs July through August
