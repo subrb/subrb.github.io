@@ -1,7 +1,5 @@
 ---
 title: Greenwood Project
-url: "http://www.greenwoodproject.org"
-description: Introducing minority students to the financial industry
 timezone: UTC
 collections:
   posts:
@@ -22,6 +20,8 @@ defaults:
     type: pages
   values:
     layout: page
+url: http://www.greenwoodproject.org
+description: Introducing minority students to the financial industry
 hs_applications_open: false
 college_applications_open: true
 year-stats:
