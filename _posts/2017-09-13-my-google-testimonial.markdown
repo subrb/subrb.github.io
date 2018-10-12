@@ -17,3 +17,13 @@ Before visiting Google, I hadn't considered a career at the company. However, af
 
 ![IMG_9324.JPG.jpg](/uploads/IMG_9324.JPG.jpg)
 
+
+
+Nia Khaan
+
+Cornell University | Class of 2020
+
+College of Agricultural and Life Sciences | Communication 
+
+w: https://www.linkedin.com/in/nia-khaan-86687a126 
+
