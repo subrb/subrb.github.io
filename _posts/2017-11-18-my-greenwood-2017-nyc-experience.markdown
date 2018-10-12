@@ -1,6 +1,6 @@
 ---
 title: My Greenwood 2017 NYC Experience
-date: 2018-10-12 22:58:00 Z
+date: 2017-11-18 22:58:00 Z
 categories:
 - 2017 Wall St. Tour
 tags:
