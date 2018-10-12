@@ -1,5 +1,5 @@
 ---
-title: My RCG Internship testimonial
+title: My RCG Internship Testimonial
 date: 2017-09-25 22:16:00 Z
 categories:
 - Internship
