@@ -15,7 +15,7 @@ feature-image: "/uploads/IMG_9621_edited.jpg"
 
 My name is Donald Harris. I am a recent graduate of Knox College where I majored in Economics and minored in Business (with a focus in Marketing) and Sociology. In January, I will be starting my career as a credit analyst at MB Financial Bank.
 
-[DSC_0259.JPG](/uploads/DSC_0259.JPG)
+![DSC_0259.JPG](/uploads/DSC_0259.JPG)
 
 This past summer, I had the honor of being a part of the Greenwood Project and through the program, I interned at Budo Group. During my time at Budo, I developed a competitive marketing analysis to help improve their marketing strategies. I also proposed various designs for the company’s website. It was great bringing my skill set to Budo but what I enjoyed most about the internship was gaining a better understanding of how a trading firm operates. From having conversations with traders to learning about the technology side of the industry, it provided me with an overall aspect of what goes on in a trading firm.
 
