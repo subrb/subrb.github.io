@@ -23,5 +23,5 @@ The business trip to New York, visiting various financial institutions, broadene
 
 The biggest thing I've learned through this internship is that no one knows everything. I don't have to know everything, and companies seek students with the willingness to acquire knowledge. I'm forever grateful for this opportunity and will continue to support the Greenwood Project.
 
-[IMG_9622.JPG](/uploads/IMG_9622.JPG)
+![IMG_9622.JPG](/uploads/IMG_9622.JPG)
 
