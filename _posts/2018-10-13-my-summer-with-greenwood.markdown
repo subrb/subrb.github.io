@@ -21,7 +21,7 @@ In addition to being a student-athlete, I am apart of multiple extra-curricular 
 
 During this summer I was fortunate to be selected to participate in the Greenwood Project. This has been the most eventful and productive summer of my life. I came into the program intending to expand my knowledge on the financial industry and the stock market specifically, but Bevon and the Greenwood team pushed us to do more than just that.
 
-[IMG_2589.JPG](/uploads/IMG_2589.JPG)
+![IMG_2589.JPG](/uploads/IMG_2589.JPG)
 
 We were trained in daily workshops encompassing company valuation and an intro to stock and bonds. We also attended multiple lunch and learn events at companies such as Goldman Sachs, UBS, Google, Salesforce, CME, and many others. There, I learned crucial interviewing skills, networking tips, resume tips, and the importance of branding myself. Lastly, I composed research analysis on one of the top microprocessing companies, Advanced Micro Devices, and presented a final project that assessed earning reports valuation and balance sheets. This was one of my favorite parts of the program as I learned how to properly value a company and it’s stock which really pushed my interest for the stock market and the financial industry as a whole.
 
