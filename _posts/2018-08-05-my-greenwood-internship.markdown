@@ -26,4 +26,4 @@ Additionally, while working under the Financial Operation Manager, I am continua
 
 Overall, I’ve really enjoyed my experience at Sumo.  The hands-on work and the welcoming staff allow me to not only see how my work is valuable, but it has also helped me gain a general understanding of the firm’s role in trading. I am excited to continue assisting in Sumo’s growth for the duration of this summer while learning at the same time.
 
-[IMG_2594.JPG](/uploads/IMG_2594.JPG)
+![IMG_2594.JPG](/uploads/IMG_2594.JPG)
