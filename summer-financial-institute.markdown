@@ -3,11 +3,11 @@ title: The Summer Financial Institute
 date: 2018-09-06 22:08:00 Z
 images:
 - name: Google
-  path: "/assets/img/little-about-us.jpg"
+  path: "/uploads/IMG_3647.jpg"
 - name: NASDAQ
-  path: "/assets/img/little-about-us.jpg"
+  path: "/uploads/IMG_2842.jpg"
 - name: Braintree
-  path: "/assets/img/little-about-us.jpg"
+  path: "/uploads/IMG_3881.jpg"
 layout: summer-financial-institute
 ---
 
