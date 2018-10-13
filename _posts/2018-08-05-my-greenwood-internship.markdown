@@ -17,11 +17,7 @@ Hi, my name is Robert Whitmore IV, and I am a rising Junior at the University of
 
 This summer, I have had the pleasure to intern with Greenwood Projects partner, Sumo Capital, in the Accounts Receivable Department. 
 
-Duties of the internship include;
-
-* Supporting the firm’s aim to increase the efficiency of bookkeeping by using my knowledge of GAAP.
-
-* Leveraging the billing data from the more detailed accounting software, QuickBooks.
+Duties of the internship include; Supporting the firm’s aim to increase the efficiency of bookkeeping by using my knowledge of GAAP. Leveraging the billing data from the more detailed accounting software, QuickBooks.
 
 Additionally, while working under the Financial Operation Manager, I am continually increasing my familiarity with Microsoft Excel, and how it’s functions & formulas may be used to increase scalability, also aiding in accounting efficiency.
 
