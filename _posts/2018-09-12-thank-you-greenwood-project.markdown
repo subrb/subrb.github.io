@@ -17,9 +17,9 @@ feature-image: "/uploads/IMG_3918_edited.jpg"
 
 For the past two summers, I have been fortunate enough to be a Greenwood Project scholar and intern. Last Summer, I was an intern for Rosenthal Collins Group and Pillar Insurance Services, where I gained numerous skills in trading, risk, cybersecurity, and insurance.
 
-![IMG_3918_edited.jpg](/uploads/IMG_3918_edited.jpg)
+![IMG_3918_edited.jpg](/uploads/IMG_3918_edited.jpg)  This summer has really broadened my financial knowledge. My experience has increased my ambition to be successful in the financial industry and learn more about it. Overall, Greenwood has given me the opportunity to get a head start on my career and helped me to explore another realm of the financial industry. I am beyond grateful.
 
 This summer, I, along with 20 other scholars, was immersed in fundamental analysis, financial literacy workshops, and an intro to stocks. Furthermore, we were assigned groups and had to properly value a company and its stock, using the skills we learned through our workshops. I composed research analysis on electronic commerce and cloud computing company, Amazon; and presented a final stock pitch that assessed earning reports, valuation, and balance sheets. In addition to researching and workshops, we visited multiple trading, banking, and tech firms, such as CME Group, Salesforce, JP Morgan Chase, UBS, and many others. Each company provided us with valuable tips and skills that will well equip us for branding ourselves.
 
 ![IMG_0026.JPG.jpg](/uploads/IMG_0026.JPG.jpg)
-
+Thank you, Greenwood Project, for another tremendous opportunity!
