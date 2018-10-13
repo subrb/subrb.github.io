@@ -1,6 +1,6 @@
 ---
 title: My Summer with Greenwood
-date: 2018-10-13 00:09:00 Z
+date: 2018-08-08 00:09:00 Z
 categories:
 - OSC
 - High School Financial Institute
