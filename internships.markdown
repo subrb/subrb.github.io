@@ -15,7 +15,7 @@ In its first two years, the Greenwood Project brought about immediate and high i
 
 #### PROGRAM DETAILS
 
-### 2019 Internship Timeline 
+2019 Internship Timeline 
 * September 19, 2018: Application Open 
 * Oct 15, 2018: Application Deadline
 * April 1, 2019: Internship Offers Extended
