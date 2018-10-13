@@ -16,6 +16,7 @@ Hi, my name is Robert Whitmore IV, and I am a rising Junior at the University of
 ![IMG_2982.jpg](/uploads/IMG_2982.jpg)
 
 This summer, I have had the pleasure to intern with Greenwood Projects partner, Sumo Capital, in the Accounts Receivable Department. 
+![sumocapital_web_v1.png](/uploads/sumocapital_web_v1.png)
 
 Duties of the internship include; Supporting the firm’s aim to increase the efficiency of bookkeeping by using my knowledge of GAAP. Leveraging the billing data from the more detailed accounting software, QuickBooks.
 
