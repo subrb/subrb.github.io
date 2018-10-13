@@ -11,17 +11,12 @@ layout: internships
 
 Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
 
-In its first two years, the Greenwood Project brought about immediate and high impact change with its programs. Perhaps the most impactful experience for students has been the real-world exposure they have gotten to the financial industry. Greenwood has also left a lasting impression on our partner firms.
-
 #### PROGRAM DETAILS
+Application Requirements:
 
-2019 Internship Timeline 
-* September 19, 2018: Application Open 
-* Oct 15, 2018: Application Deadline
-* April 1, 2019: Internship Offers Extended
-* June 3, 2019: Start of Internship
-* Aug 9, 2019: End of Internship
-
+While your discipline or major are not important, we are looking for students with an outstanding record of academic achievement and an interest in the financial markets. You must have strong critical thinking and communication skills along with excellent analytical, quantitative and interpersonal skills. You’ll need to be able to work independently and with teams to produce accurate, detailed work under pressure.
+ 
+To be considered for our program a Cumulative GPA of 3.0 or Higher is Preferred.
 
 *   The internship program runs June through August.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
@@ -29,5 +24,12 @@ In its first two years, the Greenwood Project brought about immediate and high i
 *   Corporate partners, with Greenwood’s guidance, develop detailed work programs for the Scholar to maximize the effectiveness of their time with the partner.
 *   Scholars shadow specific employees and develop a mentor-mentee relationship that has, thus far, lasted well beyond the internship.
 *   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
+
+### 2019 Internship Timeline 
+* September 19, 2018: Application Open 
+* Oct 15, 2018: Application Deadline
+* April 1, 2019: Internship Offers Extended
+* June 3, 2019: Start of Internship
+* Aug 9, 2019: End of Internship
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
