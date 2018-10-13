@@ -15,6 +15,14 @@ In its first two years, the Greenwood Project brought about immediate and high i
 
 #### PROGRAM DETAILS
 
+### 2019 Internship Timeline 
+* September 19, 2018: Application Open 
+* Oct 15, 2018: Application Deadline
+* April 1, 2019: Internship Offers Extended
+* June 3, 2019: Start of Internship
+* Aug 9, 2019: End of Internship
+
+
 *   The internship program runs June through August.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
