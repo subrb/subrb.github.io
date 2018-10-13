@@ -25,4 +25,4 @@ Thanks to the Greenwood Project, not only was I able to land an internship at th
 
 The Greenwood Project is a place where talent is paired with opportunity. In today’s world, being smart and talented is not always enough for people from underserved communities. We need someone on the inside to open the door, giving us an opportunity to show our talent and this is exactly what the Greenwood Project is doing. I am grateful for all the opportunities that the Greenwood Project has given me thus far and plan on staying involved with the program as much as possible. I’m excited for the future growth of the program and can’t wait to see it blossom!
 
-[IMG_3056.JPG](/uploads/IMG_3056.JPG)
+![IMG_3056.JPG](/uploads/IMG_3056.JPG)
