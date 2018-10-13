@@ -9,6 +9,8 @@ images:
 layout: internships
 ---
 
+Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
+
 In its first two years, the Greenwood Project brought about immediate and high impact change with its programs. Perhaps the most impactful experience for students has been the real-world exposure they have gotten to the financial industry. Greenwood has also left a lasting impression on our partner firms.
 
 #### PROGRAM DETAILS
@@ -18,7 +20,6 @@ In its first two years, the Greenwood Project brought about immediate and high i
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
 *   Corporate partners, with Greenwood’s guidance, develop detailed work programs for the Scholar to maximize the effectiveness of their time with the partner.
 *   Scholars shadow specific employees and develop a mentor-mentee relationship that has, thus far, lasted well beyond the internship.
-*   Greenwood Scholars are paid as hourly employees by the foundation, remuneration also includes transportation and attire costs.
-*   Scholars make a final presentation to the Greenwood team which must explain what their corporate sponsor does, how they do it, and why the company adds value to the economy.
+*   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
