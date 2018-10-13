@@ -9,7 +9,7 @@ tags:
 - High School Financial Institute
 - OSC
 author-name: Nasir Johnson
-author-image: "/uploads/DSC_1562%20(1).jpg"
+author-image: "/uploads/DSC_1562.jpg"
 feature-image: "/uploads/IMG_4286%20(1).jpg"
 ---
 
