@@ -35,7 +35,7 @@ year-stats:
   path: "/assets/img/graph_2018.png"
   text: 225 Students and 24 Firms
 permalink: pretty
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 6
 paginate_path: /blog/page:num/
 
