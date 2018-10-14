@@ -10,6 +10,8 @@ images:
   path: "/uploads/IMG_3881.jpg"
 - name: UBS
   path: "/uploads/UBS.jpg"
+- name: Salesforce
+  path: "/uploads/IMG_4384.jpg"
 layout: summer-financial-institute
 ---
 
