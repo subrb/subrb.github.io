@@ -13,7 +13,7 @@ images:
 - name: Salesforce
   path: "/uploads/IMG_4384.jpg"
 - name: Federal Reserve Bank
-  path: "/uploads/FedReserveBank_1_50.jpg"
+  path: "/uploads/FedBankResized.jpg"
 - name: Cboe
   path: "/uploads/Cboe_1_50.jpg"
 - name: First Midwest Bank
