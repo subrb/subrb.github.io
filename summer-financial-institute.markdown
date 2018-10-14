@@ -30,7 +30,7 @@ layout: summer-financial-institute
 
 * * *
 
-#### Summer Financial Institute- 6 week Program
+#### High School Summer Financial Institute - 6 week Program
 
 High School students are immersed in an intensive 6-week program. The curriculum includes financial literacy, educational field trips, simulated trading, soft skills training, leadership and professional development workshops, and tons of exposure to the financial services and tech industry.
 
