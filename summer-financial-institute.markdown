@@ -11,7 +11,7 @@ images:
 - name: UBS
   path: "/uploads/UBS_Resized.jpg"
 - name: Salesforce
-  path: "/uploads/IMG_4384.jpg"
+  path: "/uploads/Salesforce_Resized.jpg"
 - name: Federal Reserve Bank
   path: "/uploads/FedBankResized.jpg"
 - name: Cboe
