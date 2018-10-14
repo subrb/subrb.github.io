@@ -16,8 +16,8 @@ images:
   path: "/uploads/FedReserveBank.jpg"
 - name: Cboe
   path: "/uploads/Cboe.jpg"
-- name: Nasdaq
-  path: "/uploads/IMG_2842.jpg"
+- name: First Midwest Bank
+  path: "/uploads/FMBank.JPG"
 layout: summer-financial-institute
 ---
 
