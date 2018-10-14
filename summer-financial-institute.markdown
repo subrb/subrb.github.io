@@ -7,7 +7,7 @@ images:
 - name: NASDAQ
   path: "/uploads/IMG_2842.jpg"
 - name: Braintree
-  path: "/uploads/IMG_3881.jpg"
+  path: "/uploads/BrainTree_Resized-440c07.jpg"
 - name: UBS
   path: "/uploads/UBS.jpg"
 - name: Salesforce
