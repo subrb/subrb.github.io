@@ -13,11 +13,11 @@ images:
 - name: Salesforce
   path: "/uploads/IMG_4384.jpg"
 - name: Federal Reserve Bank
-  path: "/uploads/FedReserveBank.jpg"
+  path: "/uploads/FedReserveBank_1_50.jpg"
 - name: Cboe
-  path: "/uploads/Cboe.jpg"
-- name: Nasdaq
-  path: "/uploads/IMG_2842.jpg"
+  path: "/uploads/Cboe_1_50.jpg"
+- name: First Midwest Bank
+  path: "/uploads/FMBank_1_50.jpg"
 layout: summer-financial-institute
 ---
 
