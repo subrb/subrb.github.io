@@ -16,8 +16,8 @@ images:
   path: "/uploads/FedReserveBank.jpg"
 - name: Cboe
   path: "/uploads/Cboe.jpg"
-- name: NYSE
-  path: "/uploads/IMG_3056.JPG"
+- name: Nasdaq
+  path: "/uploads/IMG_2842.jpg"
 layout: summer-financial-institute
 ---
 
