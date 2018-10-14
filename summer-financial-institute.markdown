@@ -8,6 +8,8 @@ images:
   path: "/uploads/IMG_2842.jpg"
 - name: Braintree
   path: "/uploads/IMG_3881.jpg"
+- name: UBS
+  path: "/uploads/UBS.jpg"
 layout: summer-financial-institute
 ---
 
