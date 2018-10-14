@@ -9,7 +9,7 @@ images:
 - name: Braintree
   path: "/uploads/BrainTree_Resized-440c07.jpg"
 - name: UBS
-  path: "/uploads/UBS.jpg"
+  path: "/uploads/UBS_Resized.jpg"
 - name: Salesforce
   path: "/uploads/IMG_4384.jpg"
 - name: Federal Reserve Bank
