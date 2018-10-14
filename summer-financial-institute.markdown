@@ -17,7 +17,7 @@ images:
 - name: Cboe
   path: "/uploads/Cboe.jpg"
 - name: First Midwest Bank
-  path: "/uploads/FMBank.JPG"
+  path: "/uploads/FMBank-95b302.JPG"
 layout: summer-financial-institute
 ---
 
