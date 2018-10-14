@@ -12,6 +12,8 @@ images:
   path: "/uploads/UBS.jpg"
 - name: Salesforce
   path: "/uploads/IMG_4384.jpg"
+- name: Federal Reserve Bank
+  path: "/uploads/FedReserveBank.jpg"
 layout: summer-financial-institute
 ---
 
