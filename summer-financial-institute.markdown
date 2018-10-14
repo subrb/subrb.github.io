@@ -14,6 +14,8 @@ images:
   path: "/uploads/IMG_4384.jpg"
 - name: Federal Reserve Bank
   path: "/uploads/FedReserveBank.jpg"
+- name: Cboe
+  path: "/uploads/Cboe.jpg"
 layout: summer-financial-institute
 ---
 
