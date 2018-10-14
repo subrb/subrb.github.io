@@ -15,7 +15,7 @@ images:
 - name: Federal Reserve Bank
   path: "/uploads/FedBankResized.jpg"
 - name: Cboe
-  path: "/uploads/Cboe_1_50.jpg"
+  path: "/uploads/Cboe_Resized.jpg"
 - name: First Midwest Bank
   path: "/uploads/FMBank_1_50.jpg"
 layout: summer-financial-institute
