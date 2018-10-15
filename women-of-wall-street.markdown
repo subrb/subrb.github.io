@@ -7,13 +7,13 @@ images:
 layout: w-o-w
 ---
 
-The finance industry is very male-dominated, that's why Greenwood Project thought it necessary to launch its Women of Wall Street (W.O.W) speaking series.
+The finance industry is male-dominated, so we launched a Women of Wall Street (W.O.W.) speaking series to show our female students as many success stories as possible.
 
-Past W.O.W events were hosted by Metropolitan Family Services, Chicago Mercantile Exchange (CME) & Cboe Global Markets
+Past W.O.W events were hosted by Metropolitan Family Services, Chicago Mercantile Exchange (CME) & Cboe Global Markets.
 
-Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as Tech.
+Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as technology.
 
-Event open to High School and College students.
+The event open to High School and College students.
 
 #### W.O.W DETAILS
 
@@ -27,4 +27,4 @@ W.O.W events provide students with the opportunity to hear the current voice of 
 
 #### W.O.W SCHEDULE
 
-W.O.W events are held twice per year
+W.O.W events are held twice per year.

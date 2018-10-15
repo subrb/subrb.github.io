@@ -3,19 +3,19 @@ title: The Summer Financial Institute
 date: 2018-09-06 22:08:00 Z
 images:
 - name: Google
-  path: "/uploads/IMG_3647.jpg"
+  path: "/uploads/IMG_3647-ce9bec.jpg"
 - name: NASDAQ
   path: "/uploads/IMG_2842.jpg"
 - name: Braintree
-  path: "/uploads/IMG_3881.jpg"
+  path: "/uploads/BrainTree_Resized-440c07.jpg"
 - name: UBS
-  path: "/uploads/UBS.jpg"
+  path: "/uploads/UBS_Resized.jpg"
 - name: Salesforce
-  path: "/uploads/IMG_4384.jpg"
+  path: "/uploads/Salesforce_Resized.jpg"
 - name: Federal Reserve Bank
-  path: "/uploads/FedReserveBank_1_50.jpg"
+  path: "/uploads/FedBankResized.jpg"
 - name: Cboe
-  path: "/uploads/Cboe_1_50.jpg"
+  path: "/uploads/Cboe_Resized.jpg"
 - name: First Midwest Bank
   path: "/uploads/FMBank_1_50.jpg"
 layout: summer-financial-institute
