@@ -20,7 +20,7 @@ people:
   bio: Director Of External Affairs, Office of the President, Cook County Board
 - name: Jessica Ashley Davis, Esq.
   path: "/assets/img/board-members/2.png"
-  bio: General Counsel at The Will Group
+  bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Adrian Velazquez
   path: "/assets/img/board-members/3.png"
   bio: Options Floor Broker at X-FAX-Change Financial Access
