@@ -23,7 +23,7 @@ people:
   bio: General Counsel at The Will Group
 - name: Adrian Velazquez
   path: "/assets/img/board-members/3.png"
-  bio: Options Floor Broker at X-FAX-Change Financial Access (XFA)
+  bio: Options Floor Broker at X-FAX-Change Financial Access
 - name: Michael Piper
   path: "/assets/img/board-members/4.png"
   bio: Managing Director/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
