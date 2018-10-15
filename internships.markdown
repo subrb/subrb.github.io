@@ -12,12 +12,7 @@ layout: internships
 Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
 
 #### PROGRAM DETAILS
-Application Requirements:
-
-While your discipline or major are not important, we are looking for students with an outstanding record of academic achievement and an interest in the financial markets. You must have strong critical thinking and communication skills along with excellent analytical, quantitative and interpersonal skills. You’ll need to be able to work independently and with teams to produce accurate, detailed work under pressure.
  
-*To be considered for our program a Cumulative GPA of 3.0 or Higher is Preferred.*
-
 *   The internship program runs June through August.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
