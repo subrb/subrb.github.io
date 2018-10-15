@@ -12,9 +12,8 @@ about-blurb:
     and unmatched exposure to the financial industry.
 - title: One Mission
   path: "/assets/img/icons/about_illustration_3.svg"
-  text: Our educational field trips to big banks and trading firms. As a result of
-    our exposure initiatives, recent college graduates have received (Jan 2018) employment
-    offers
+  text: Our goal is to build a true diversity pipeline for minority students to enter
+    the financial services industry.
 people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
