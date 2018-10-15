@@ -11,7 +11,7 @@ The finance industry is male-dominated, so we launched a Women of Wall Street (W
 
 Past W.O.W events were hosted by Metropolitan Family Services, Chicago Mercantile Exchange (CME) & Cboe Global Markets.
 
-Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as Tech.
+Due to the popularity of our W.O.W events, we are now partnering with companies in other industries such as technology.
 
 The event open to High School and College students.
 
