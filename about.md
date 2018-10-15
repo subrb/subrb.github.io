@@ -1,6 +1,5 @@
 ---
 title: About Us
-layout: about
 about-blurb:
 - title: Best in Field
   path: "/assets/img/icons/about_illustration_1.svg"
@@ -36,6 +35,7 @@ people:
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Chief Strategy Officer at Context Asset Management
+layout: about
 ---
 
 #### Organization Background
@@ -45,4 +45,6 @@ institute for high school students.
 
 In many cases, our programming gives young people strong motivation to succeed in their remaining high school tenure and also a compelling reason to attend college.
 
-The Greenwood Impact: As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies.. Other students have changed their college majors as they are now interested in financial services opportunities.
+**The Greenwood Impact 
+**
+As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies.. Other students have changed their college majors as they are now interested in financial services opportunities.
