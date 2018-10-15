@@ -8,9 +8,8 @@ about-blurb:
     offers
 - title: Internships
   path: "/assets/img/icons/about_illustration_2.svg"
-  text: Our educational field trips to big banks and trading firms. As a result of
-    our exposure initiatives, recent college graduates have received (Jan 2018) employment
-    offers
+  text: Greenwood students have gained real-world experience, networking connections,
+    and unmatched exposure to the financial industry.
 - title: One Mission
   path: "/assets/img/icons/about_illustration_3.svg"
   text: Our educational field trips to big banks and trading firms. As a result of
