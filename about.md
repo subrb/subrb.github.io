@@ -40,8 +40,7 @@ layout: about
 
 #### Organization Background
 
-Greenwood Project introduces our youth to careers within the financial industry via paid summer internships, educational field trips and our summer financial
-institute for high school students.
+Greenwood Project introduces our youth to careers within the financial industry via paid summer internships, educational field trips and our summer financial institute for high school students.
 
 In many cases, our programming gives young people strong motivation to succeed in their remaining high school tenure and also a compelling reason to attend college.
 
