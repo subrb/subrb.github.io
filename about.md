@@ -3,9 +3,8 @@ title: About Us
 about-blurb:
 - title: Best in Field
   path: "/assets/img/icons/about_illustration_1.svg"
-  text: Our educational field trips to big banks and trading firms. As a result of
-    our exposure initiatives, recent college graduates have received (Jan 2018) employment
-    offers
+  text: The Greenwood Project model works! As a result of our programs, our college
+    grads continue to receive employment offers after completion of their internship.
 - title: Internships
   path: "/assets/img/icons/about_illustration_2.svg"
   text: Greenwood students have gained real-world experience, networking connections,
