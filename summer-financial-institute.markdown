@@ -22,7 +22,7 @@ layout: summer-financial-institute
 ---
 
 {% if site.hs_applications_open == true %}
-<div class="applications-open lg-p3 p2 mb3">
+<div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
     <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
     <a href="https://www.123formbuilder.com/form-4317963/2019-HS-Student-Application" class="button">Apply now</a>
 </div>
