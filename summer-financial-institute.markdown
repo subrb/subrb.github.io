@@ -36,7 +36,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 
 Program Schedule: July through August
 Location: DePaul University Loop + Company Visits
-Students: High School Juniors & Seniors
+Students: Current High School Juniors & Seniors
 
 Workshops and Curriculum
 
