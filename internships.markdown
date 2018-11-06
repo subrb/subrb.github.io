@@ -1,7 +1,7 @@
 ---
 title: Internships
 date: 2018-09-06 22:08:00 Z
-applications_open: true
+applications_open: false
 images:
 - path: "/uploads/IMG_8983.JPG"
 - path: "/assets/img/internship-2.jpg"
