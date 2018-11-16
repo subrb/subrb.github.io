@@ -17,7 +17,7 @@ people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
   bio: Director Of External Affairs, Office of the President, Cook County Board
-- name: Jessica Ashley Davis, Esq.
+- name: Jessica Ashley Garmon, Esq
   path: "/assets/img/board-members/2.png"
   bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Adrian Velazquez
@@ -31,7 +31,7 @@ people:
   bio: CIO of Karman Line Capital and founder of Option Pit
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
-  bio: Chief Strategy Officer at Context Asset Management
+  bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
 layout: about
 ---
 
