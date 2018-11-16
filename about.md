@@ -17,7 +17,7 @@ people:
 - name: John Roberson
   path: "/assets/img/board-members/1.png"
   bio: Director Of External Affairs, Office of the President, Cook County Board
-- name: Jessica Ashley Garmon, Esq
+- name: Jessica Ashley Garmon Esq
   path: "/assets/img/board-members/2.png"
   bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Adrian Velazquez
