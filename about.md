@@ -41,4 +41,4 @@ Greenwood Project introduces our youth to careers within the financial industry 
 
 #### The Greenwood Impact 
 
-As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies.. Other students have changed their college majors as they are now interested in financial services opportunities.
+As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies. Other students have changed their college majors as they are now interested in financial services opportunities.
