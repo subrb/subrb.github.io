@@ -6,7 +6,7 @@ categories:
 tags:
 - Greenwood News
 author-name: Bevon Joseph
-author-image: "/uploads/IMG_0942.JPG"
+author-image: "/uploads/Elois_Bevon_Headshot.v4300.png"
 feature-image: "/uploads/Elois_Bevon_Headshot.v4300.png"
 ---
 
