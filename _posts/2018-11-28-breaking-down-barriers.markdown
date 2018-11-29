@@ -16,4 +16,4 @@ For decades, financial institutions have been pledging to diversify their employ
 
 ![Article page 2.PNG](/uploads/Article%20page%202.PNG)
 
-Publication credit to [EQDerivatives](http://eqderivatives.com/)
+**Publication credit to [EQDerivatives](http://eqderivatives.com/)**
