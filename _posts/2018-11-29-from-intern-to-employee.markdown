@@ -9,7 +9,7 @@ tags:
 - internship
 author-name: Darnell Glover
 author-image: "/uploads/HEIC-2.jpg"
-feature-image: "/uploads/IMG_1994.jpg"
+feature-image: "/uploads/IMG_2643.jpg"
 ---
 
 Hi, my name is Darnell Glover, and I was recently converted to a full time auditor at Cboe Global Markets from the internship position I was placed in thanks to the Greenwood Project.
