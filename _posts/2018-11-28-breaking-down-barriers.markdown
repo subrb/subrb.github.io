@@ -3,7 +3,7 @@ title: Breaking Down Barriers
 date: 2018-11-28 23:28:00 Z
 ---
 
-[Eqderivatives Article.pdf](/uploads/Eqderivatives%20Article.pdf)
+For decades, financial institutions have been pledging to diversify their employees. Many have committed huge resources to this effort but with limited success. Now, a nonprofit founded by former hedge fund staffers is stepping in to help out. Elinor Comlay met with the Greenwood Project
 
 ![Article page 1.PNG](/uploads/Article%20page%201.PNG)
 
