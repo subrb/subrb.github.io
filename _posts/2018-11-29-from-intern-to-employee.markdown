@@ -8,7 +8,7 @@ tags:
 - jobs
 - internship
 author-name: Darnell Glover
-author-image: "/uploads/IMG_2787.jpg"
+author-image: "/uploads/HEIC-2.jpg"
 feature-image: "/uploads/IMG_1994.jpg"
 ---
 
