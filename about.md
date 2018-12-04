@@ -24,7 +24,7 @@ people:
   path: "/assets/img/board-members/3.png"
   bio: Options Floor Broker at X-FAX-Change Financial Access
 - name: Michael Piper
-  path: "/assets/img/board-members/4.png"
+  path: "/assets/img/board-members/4.jpg"
   bio: Managing Director/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
@@ -39,6 +39,6 @@ layout: about
 
 Greenwood Project introduces youth to careers within the financial industry via paid summer internships, educational field trips and our summer financial institute for high school students. In many cases, our programming gives young people strong motivation to succeed in their remaining high school tenure and also a compelling reason to attend college.
 
-#### The Greenwood Impact 
+#### The Greenwood Impact
 
 As a result of our exposure initiatives, recent college graduates have received employment offers from top financial companies. Other students have changed their college majors as they are now interested in financial services opportunities.

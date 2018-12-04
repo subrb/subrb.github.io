@@ -332,6 +332,12 @@ li::before {
     }
 }
 
+.thumbnail .avatar {
+    img {
+        border-radius: 150px;
+    }
+}
+
 .w-o-w {
 
     .thumbnail {
