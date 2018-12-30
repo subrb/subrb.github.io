@@ -1,5 +1,5 @@
 ---
-title: From Greenwood to Associate Engineer
+title: From Greenwood Scholar to Associate Engineer
 date: 2018-12-30 15:15:00 Z
 categories:
 - Internship
