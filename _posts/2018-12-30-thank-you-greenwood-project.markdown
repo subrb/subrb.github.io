@@ -14,7 +14,7 @@ author-image: "/uploads/Francisco%20Headshot.jpg"
 feature-image: "/uploads/Francisco%20Picture2.png"
 ---
 
-My name is Francisco Enriquez III, and I am now a full-time associate engineer at the Chicago Trading Company thanks to Bevon and The Greenwood Project.
+My name is Francisco Enriquez III, and I am now a full-time associate engineer at the [Chicago Trading Company](http://chicagotrading.com) thanks to Bevon and The Greenwood Project.
 
 ![Francisco Picture2.png](/uploads/Francisco%20Picture2.png)
 
