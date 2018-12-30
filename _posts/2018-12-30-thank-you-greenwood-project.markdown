@@ -1,6 +1,14 @@
 ---
 title: Thank you, Greenwood Project!
 date: 2018-12-30 15:15:00 Z
+categories:
+- Internship
+- entry level
+- technology
+tags:
+- Chicago Trading Company
+- internships
+- DePaul University
 author-name: Francisco Enriquez III
 author-image: "/uploads/Francisco%20Picture2.png"
 feature-image: "/uploads/Francisco%20Picture2.png"
