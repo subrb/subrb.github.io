@@ -10,7 +10,7 @@ tags:
 - internships
 - DePaul University
 author-name: Francisco Enriquez III
-author-image: "/uploads/Francisco%20Picture2.png"
+author-image: "/uploads/Francisco%20Headshot.jpg"
 feature-image: "/uploads/Francisco%20Picture2.png"
 ---
 
@@ -23,6 +23,8 @@ I first got into contact with Bevon after my friend Alex Martinez helped us conn
 Now, 16 weeks later, I’m loving it here at the Chicago Trading Company. It’s fast paced, provides you opportunity to grow, and is a friendly environment. This position has shown me how things are done in a more corporate environment. 
 
 My dad used to work at the Chicago Mercantile Exchange and I would always dream of working at a company like that, and now, everyday I wake up excited to go to work.
+
+![Francisco Picture1.png](/uploads/Francisco%20Picture1.png)
 
 The important thing to takeaway here is that without my friends Alex, Bevon, and the help of The Greenwood Project, I would not be where I am right now. I was working at a small dental office with around 20-50 employees and struggling to pay my tuition at DePaul and now I’m working in a corporate environment that will help me grow and I can worry less about my tuition. Both my dad and mom are from Mexico and they came to the United States after marriage because of the opportunities here. My parents were so proud after they heard the great news.
 
