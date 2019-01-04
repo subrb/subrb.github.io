@@ -1,5 +1,5 @@
 ---
-title: Thank You Greenwood Project
+title: Working Greenwood Project
 date: 2017-11-18 23:06:00 Z
 categories:
 - 2017 Wall St. Tour
