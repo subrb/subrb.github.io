@@ -1,5 +1,5 @@
 ---
-title: Thank you, Greenwood Project!
+title: Thanks, Greenwood Project!
 date: 2018-09-12 00:02:00 Z
 categories:
 - OSC
