@@ -23,7 +23,7 @@ Greenwood believes that the best part of an internship is that it teaches a youn
 ### 2019 Internship Timeline 
 * September 19, 2018: Application Open 
 * November 5, 2018: Application Deadline
-* April 1, 2019: Internship Offers Extended
+* May 28-31: Orientation week at DePaul Loop Campus
 * June 3, 2019: Start of Internship
 * Aug 9, 2019: End of Internship
 
