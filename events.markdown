@@ -33,3 +33,11 @@ Purchase Tickets - Auction Donations - Become a Sponsor / General Donations
 **Level 2 Sponsor $2,500**: (5 complimentary tickets), Sponsor’s logo and name will appear on: Event banner and on Greenwood's event webpage and social media
 
 **Level 1 Sponsor $1,000**: (2 complimentary tickets), Sponsor’s logo and name will appear on: Greenwood's event webpage and social media
+
+**Take a trip down memory lane with links to our 2018 event photos!**
+
+[2018 Greenwood Project Fundraiser](https://flic.kr/s/aHsmixgccS)
+
+**If you have any questions about the event, \
+please contact Bevon Joseph\
+at 646-208-9120 or [Bevon.Joseph@greenwoodproject.org](mailto: Bevon.joseph@greenwoodproject.org)**
