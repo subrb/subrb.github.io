@@ -8,7 +8,7 @@ layout: internships
 
 **Greenwood Project Annual Fundraiser**
 
-Friday, April 12, 2019
+> Friday, April 12, 2019
 ROOF on theWit
 201 N State Street Chicago IL
 6:00 p.m
