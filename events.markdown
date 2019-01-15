@@ -34,7 +34,7 @@ Purchase Tickets - Auction Donations - Become a Sponsor / General Donations
 
 **Level 1 Sponsor $1,000**: (2 complimentary tickets), Sponsor’s logo and name will appear on: Greenwood's event webpage and social media
 
-Take a trip down memory lane with links to our 2018 event photos!
+**Take a trip down memory lane with links to our 2018 event photos!**
 
 **[2018 GREENWOOD PROJECT ANNUAL FUNDRAISER](https://flic.kr/s/aHsmixgccS)**
 
