@@ -16,6 +16,8 @@ Rooftop on theWit
 
 201 N State Street Chicago IL
 
+## **Open Bar and Silent Auction**
+
 **There are many ways to support our event this year!**
 
 Purchase Tickets - Auction Donations - Become a Sponsor / General Donations
