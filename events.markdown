@@ -4,7 +4,7 @@ date: 2019-01-15 03:25:00 Z
 images:
 - path: "/uploads/2019_Fundraiser_Flyer"
 - path: "/uploads/ROOF%20121527.jpg"
-- path: "/uploads/theWitnoDT.JPG"
+- path: "/uploads/theWit%20exterior.png"
 layout: internships
 ---
 
