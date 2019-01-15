@@ -8,4 +8,4 @@ layout: internships
 
 **Greenwood Project Annual Fundraiser**
 
-Friday, April 12, 2019
+Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
