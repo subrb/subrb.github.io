@@ -13,3 +13,5 @@ Friday April 12th at 6:00pm
 Rooftop on theWit
 
 201 N State Street Chicago IL
+
+**There are many ways to support our event this year!**
