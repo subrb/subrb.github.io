@@ -40,4 +40,4 @@ Purchase Tickets - Auction Donations - Become a Sponsor / General Donations
 
 **[2018 GREENWOOD PROJECT ANNUAL FUNDRAISER](https://flic.kr/s/aHsmixgccS)**
 
-*If you have any questions about the event, please contact Bevon Joseph at 646-208-9120 or \[Bevon.Joseph@greenwoodproject.org\](mailto: Bevon.joseph@greenwoodproject.org)*
+*If you have any questions about the event, please contact Bevon Joseph at 646-208-9120 or [Bevon.Joseph@greenwoodproject.org](mailto:Bevon.Joseph@greenwoodproject.org)*
