@@ -25,7 +25,7 @@ people:
   bio: Options Floor Broker at X-FAX-Change Financial Access
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
-  bio: Managing Director/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
+  bio: Principal/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: CIO of Karman Line Capital and founder of Option Pit
