@@ -1,7 +1,6 @@
 ---
 title: Breaking Down Barriers
 date: 2018-11-28 23:28:00 Z
-published: false
 categories:
 - Greenwood News
 tags:
