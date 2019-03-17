@@ -12,7 +12,7 @@ tags:
 - chicago
 - thewit
 author-name: Greenwood Events
-author-image: "/uploads/GP_capital_g_logo.png"
+author-image: "/uploads/GP%202019%20Fundraiser%20Flyer.jpg"
 feature-image: "/uploads/GP%202019%20Fundraiser%20Flyer.jpg"
 ---
 
