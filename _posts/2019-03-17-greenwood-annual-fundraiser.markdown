@@ -16,8 +16,6 @@ author-image: "/uploads/GP%202019%20Fundraiser%20Flyer.jpg"
 feature-image: "/uploads/GP%202019%20Fundraiser%20Flyer.jpg"
 ---
 
-**WE NEED YOU!**
-
 As you know, the Greenwood Project makes an impact by introducing academically ambitious minority students to the financial industry. In just under four years we have exposed close to 400 students (HS & College) to possible careers in the financial industry. The Greenwood Project model works! As a result of our programs, our college grads continue to receive employment offers after completion of their internship. It truly takes a village to do this work, and we thank all our partners for their support over the last three years.
 
 ![GP 2019 Fundraiser Flyer.jpg](/uploads/GP%202019%20Fundraiser%20Flyer.jpg)
