@@ -25,7 +25,5 @@ We are asking for your support with our upcoming fundraiser. Each year in an eff
 To be a sponsor for this event, please contact us at info@greenwoodproject.org.  We would love to have you attend if possible. You can purchase tickets or make a general donation [HERE](https://greenwoodfundraiser2019.splashthat.com/). 
  
 Thanks!
-**Bevon Joseph
-President**
  
 *Greenwood Project is an IRS approved 501(c)(3) nonprofit organization (EIN: 81-1990763)*
