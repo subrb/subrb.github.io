@@ -20,12 +20,12 @@ As you know, the Greenwood Project makes an impact by introducing academically a
 
 [![GP 2019 Fundraiser Flyer.jpg](/uploads/GP%202019%20Fundraiser%20Flyer.jpg)](https://greenwoodfundraiser2019.splashthat.com/)
  
-I am writing to ask for your support with our upcoming fundraiser. Each year in an effort to raise money to help us meet our financial goals, we host this event. This year’s fundraiser will be held on Friday, April 12, 2019, at the Rooftop on theWit. We expect a great turnout, but more importantly, this will be a night of community. The funds raised from this event support our Summer Internship Program, Lunch & Learn Events, Women of Wall Street Speaking Series, New York Wall Street Tour, High School Summer Program, and career readiness workshops. Many of our scholars will be in attendance so you will have to the opportunity to hear from them directly. 
+We are asking for your support with our upcoming fundraiser. Each year in an effort to raise money to help us meet our financial goals, we host this event. This year’s fundraiser will be held on Friday, April 12, 2019, at the Rooftop on theWit. We expect a great turnout, but more importantly, this will be a night of community. The funds raised from this event support our Summer Internship Program, Lunch & Learn Events, Women of Wall Street Speaking Series, New York Wall Street Tour, High School Summer Program, and career readiness workshops. Many of our scholars will be in attendance so you will have to the opportunity to hear from them directly. 
  
-To make a donation or be a sponsor for this event, please email or complete the attached donation form. You may also mail your donation to the address provided. We would love to have you attend if possible. You can purchase tickets or make a general donation here: https://greenwoodfundraiser2019.splashthat.com/
- 
-Please feel free to pass this info along to other individuals/firms that may be interested. If you have any questions, please don't hesitate to contact me. 
+To be a sponsor for this event, please contact us at info@greenwoodproject.org.  We would love to have you attend if possible. You can purchase tickets or make a general donation [HERE](https://greenwoodfundraiser2019.splashthat.com/). 
  
 Thanks!
+Bevon Joseph
+President
  
 Greenwood Project is an IRS approved 501(c)(3) nonprofit organization (EIN: 81-1990763)
