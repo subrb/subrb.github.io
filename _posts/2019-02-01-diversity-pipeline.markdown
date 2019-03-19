@@ -1,5 +1,5 @@
 ---
-title: ON A MISSION TO BUILD A TRUE DIVERSITY PIPELINE FOR FINANCIAL SERVICES
+title: On A Mission To Build A True Diversity Pipeline For Financial Services
 date: 2019-02-01 03:23:00 Z
 categories:
 - diversity
