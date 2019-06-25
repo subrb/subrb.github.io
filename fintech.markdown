@@ -1,7 +1,6 @@
 ---
 title: High School Fintech Program
 date: 2019-06-25 20:09:00 Z
-published: false
 ---
 
 [IMG_8304.PNG](/uploads/IMG_8304.PNG)
