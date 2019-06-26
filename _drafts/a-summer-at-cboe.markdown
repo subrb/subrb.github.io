@@ -2,7 +2,8 @@
 title: A Summer at CBOE
 date: 2019-06-26 14:59:00 Z
 author-image: "/uploads/SydneyCBOE.JPG"
-Field name: 
+author-name: Sydney Taylor
+feature-image: "/uploads/IMG_5455.JPG"
 ---
 
 My name is Sydney Taylor and I’m a rising junior Economics major, French and Business Administration double minor at Howard University. At school, I serve as the Treasurer
