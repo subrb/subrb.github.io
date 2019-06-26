@@ -21,7 +21,6 @@ Compensation: $600 Stipend
 Attire: Greenwood Project attire provided
 Transportation: CTA passes provided
 
-[FinTechFlyer.PNG](/uploads/FinTechFlyer.PNG) 
 
 Program Details:
 
@@ -46,3 +45,5 @@ Professional Development Workshops:
 * Presentation Skills 
 * Social Media Etiquette
 * Exploring Careers in Financial Services and STEM
+
+![FinTechFlyer-2eb2eb.PNG](/uploads/FinTechFlyer-2eb2eb.PNG)
