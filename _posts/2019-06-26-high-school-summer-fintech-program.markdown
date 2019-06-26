@@ -46,4 +46,4 @@ Professional Development Workshops:
 * Social Media Etiquette
 * Exploring Careers in Financial Services and STEM
 
-[IMG_8304 (1)-877ac4.PNG](/uploads/IMG_8304%20(1)-877ac4.PNG)
+![IMG_8304 (1)-877ac4.PNG](/uploads/IMG_8304%20(1)-877ac4.PNG)
