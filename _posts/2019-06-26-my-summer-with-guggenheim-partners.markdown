@@ -12,6 +12,7 @@ tags:
 - Internships
 - Technology
 - IT
+- College Cohort
 author-image: "/uploads/Kevin_Headshot.png"
 ---
 
