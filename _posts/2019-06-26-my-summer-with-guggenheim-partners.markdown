@@ -2,6 +2,16 @@
 title: My Summer with Guggenheim Partners
 date: 2019-06-26 16:56:00 Z
 published: false
+categories:
+- Internship
+- entry level
+- '2019'
+tags:
+- Washington University-St.Louis
+- Guggenheim Partners
+- Internships
+- Technology
+- IT
 author-image: "/uploads/Kevin_Headshot.png"
 ---
 
