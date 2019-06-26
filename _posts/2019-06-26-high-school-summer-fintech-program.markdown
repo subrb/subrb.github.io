@@ -3,8 +3,8 @@ title: High School Summer Fintech Camp - "Learning how to code for a career in F
 date: 2019-06-26 17:50:00 Z
 published: false
 feature-image: "/uploads/IMG_8303%20(1).PNG"
-author-image: 
-Field name: 
+author-image: "/uploads/Screen%20Shot%202019-06-26%20at%203.25.36%20PM.png"
+author-name: Greenwood Project
 ---
 
 Greenwood Project will be launching a 6-week Fintech camp for ten (10) HS rising juniors and seniors to teach them how to code for a career in Fintech. This program will be a mix of lab/classroom work and experiential learning.
