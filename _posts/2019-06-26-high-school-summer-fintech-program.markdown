@@ -20,7 +20,8 @@ Location: Loop - Downtown Chicago
 Compensation: $600 Stipend
 Attire: Greenwood Project attire provided
 Transportation: CTA passes provided
- 
+
+[FinTechFlyer.PNG](/uploads/FinTechFlyer.PNG) 
 
 Program Details:
 
