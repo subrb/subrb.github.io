@@ -1,6 +1,7 @@
 ---
 title: My Summer with Guggenheim Partners
 date: 2019-06-26 16:56:00 Z
+published: false
 author-image: "/uploads/Kevin_Headshot.png"
 ---
 
