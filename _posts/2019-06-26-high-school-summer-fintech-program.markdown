@@ -42,6 +42,6 @@ Professional Development Workshops:
 * Financial Literacy (Credit, Student Loans, Banking, Investing)
 * Public Speaking
 * Verbal and Written Communication
-Presentation Skills 
+* Presentation Skills 
 * Social Media Etiquette
 * Exploring Careers in Financial Services and STEM
