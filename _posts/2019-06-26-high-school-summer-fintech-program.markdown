@@ -2,7 +2,7 @@
 title: High School Summer Fintech Camp - "Learning how to code for a career in Fintech"
 date: 2019-06-26 17:50:00 Z
 feature-image: "/uploads/IMG_8303%20(1).PNG"
-author-image: "/uploads/Screen%20Shot%202019-06-26%20at%203.25.36%20PM.png"
+author-image: "/uploads/GP_capital_g_logo.png"
 author-name: Greenwood Project
 ---
 
