@@ -20,5 +20,5 @@ During my time as an administrative assistant at Northwestern Mutual I’ve had 
 
 Them, among the many other leaders at NM, and the individuals who volunteer their time to the Greenwood Project have all helped me evolve into a much stronger, prepared, and successful person in just a matter a months. 
 
-I’m excited to continue expanding my network and learn about the different positions available within the finance industry in order to pursue a career in the business world one day. 
+I’m excited to continue expanding my network and to learn about the different positions available within the finance industry in order to pursue a career in the business world one day. Many thanks to the Greenwood Project for this opportunity. 
 
