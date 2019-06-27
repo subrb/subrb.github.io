@@ -12,6 +12,9 @@ tags:
 - Agribusiness
 - internships
 - College Cohort
+author-image: "/uploads/DSC_3078.jpg"
+author-name: Derrick Denton
+feature-image: "/uploads/NYsurprise.jpeg"
 ---
 
 My name is Derrick Denton. I am a rising junior at the University of Illinois Urbana-Champaign. I’m majoring in Agribusiness with a concentration in markets management and commodities. Since beginning college, the task of securing an internship was stressful to me. After facing rejection from multiple firms since freshman year, the Greenwood Project was generous enough to give me an unmatched opportunity. 
