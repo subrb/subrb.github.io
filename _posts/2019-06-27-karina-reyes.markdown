@@ -1,5 +1,5 @@
 ---
-title: Thanks to the Greenwood Project
+title: So-Called Under-qualified
 date: 2019-06-27 15:11:00 Z
 published: false
 author-image: "/uploads/DSC_3238.jpg"
