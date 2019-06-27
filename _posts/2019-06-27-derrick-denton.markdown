@@ -2,10 +2,16 @@
 title: An Unmatched Opportunity
 date: 2019-06-27 14:26:00 Z
 published: false
+categories:
+- Internship
+- finance
+- '2019'
 tags:
 - Deloitte
 - University of Illinois Urbana-Champaign
 - Agribusiness
+- internships
+- College Cohort
 ---
 
 My name is Derrick Denton. I am a rising junior at the University of Illinois Urbana-Champaign. I’m majoring in Agribusiness with a concentration in markets management and commodities. Since beginning college, the task of securing an internship was stressful to me. After facing rejection from multiple firms since freshman year, the Greenwood Project was generous enough to give me an unmatched opportunity. 
