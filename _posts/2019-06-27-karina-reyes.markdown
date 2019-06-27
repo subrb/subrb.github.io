@@ -4,7 +4,7 @@ date: 2019-06-27 15:11:00 Z
 published: false
 author-image: "/uploads/DSC_3238.jpg"
 author-name: Karina Reyes
-featured-image: "/uploads/KarinaNWM.jpeg"
+feature-image: "/uploads/KarinaNWM.jpeg"
 ---
 
 My name is Karina Reyes and thanks to the Greenwood Project, I was able to land my first internship at Northwestern Mutual Chicago this summer. 
