@@ -1,7 +1,6 @@
 ---
 title: The American Dream Is Possible
 date: 2019-06-26 16:56:00 Z
-published: false
 categories:
 - Internship
 - entry level
@@ -23,4 +22,5 @@ My name is Kevin Avila. I was born in Mexico and moved to Chicago when I was 10.
 ![20190626_130631.png](/uploads/20190626_130631.png)
 
 I am very thankful for all the opportunities the Greenwood Project has introduced me to, including my current internship at Guggenheim Partners, as an IT Service Desk and Customer Service Intern, I am working on a database transfer project while helping other employees around the country troubleshoot technical issues. Guggenheim's involvement in the community also enables me to give back to the community through volunteer events, such as engaging with elementary students through outdoor games and nutrition-based activities.
-As a Greenwood Scholar, I have been learning a lot about professional development, networking, financial literacy and many other aspects of the financial industry.
+
+As a Greenwood Scholar, I have been learning a lot about professional development, networking, financial literacy, and many other aspects of the financial industry. My passion for IT was something that I believed could only be executed through technology companies. However, Greenwood took a chance with me and showed me that I can do what I love in any industry I choose, especially the financial industry.
