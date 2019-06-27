@@ -21,7 +21,7 @@ My name is Derrick Denton. I am a rising junior at the University of Illinois Ur
 
 This summer I was afforded an opportunity to attend the Deloitte Amplify Your Fit Conference. I learned about Deloitte’s culture, explored consulting, and was informed about other pursuable careers within the company. Learning about different working styles allowed me to identify my goals in small groups and gain insight on how the company achieves its purpose. Nonetheless, this would have not been possible without the Greenwood Project which connected me to this opportunity. 
 
-[DerrickDeloitte.PNG](/uploads/DerrickDeloitte.PNG)
+![DerrickDeloitte.PNG](/uploads/DerrickDeloitte.PNG)
 
 As a scholar of Greenwood, I have developed a deeper understanding of financial literacy and money management. As soon as I started, I realized the importance creating your own personal brand to aid you in networking. Being and intern at Option Pit this summer has allowed me to navigate Bloomberg terminals , observing trading floors and sitting in office spaces of hedge funds. The Greenwood Project has broadened my horizons and has created limitless opportunities for me. Not only am I learning essential skills to make myself a viable candidate in the financial sector, but they are also forming me into a more well rounded individual. 
 
