@@ -11,7 +11,7 @@ tags:
 - Agribusiness
 - internships
 - College Cohort
-author-image: "/uploads/DSC_3078.jpg"
+author-image: "/uploads/image1.jpg"
 author-name: Derrick Denton
 feature-image: "/uploads/NYsurprise.jpeg"
 ---
