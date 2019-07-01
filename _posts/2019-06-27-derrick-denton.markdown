@@ -1,7 +1,6 @@
 ---
 title: An Unmatched Opportunity
 date: 2019-06-27 14:26:00 Z
-published: false
 categories:
 - Internship
 - finance
