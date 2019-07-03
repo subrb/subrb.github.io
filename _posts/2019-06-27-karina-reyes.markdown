@@ -2,6 +2,14 @@
 title: '"Underqualified"'
 date: 2019-06-27 15:11:00 Z
 published: false
+categories:
+- entry level
+- '2019'
+tags:
+- internships
+- Illinois State University
+- Northwestern Mutual
+- College Cohort
 author-image: "/uploads/DSC_3238.jpg"
 author-name: Karina Reyes
 feature-image: "/uploads/KarinaNWM.jpeg"
