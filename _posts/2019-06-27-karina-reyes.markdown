@@ -1,7 +1,6 @@
 ---
 title: '"Underqualified"'
 date: 2019-06-27 15:11:00 Z
-published: false
 categories:
 - entry level
 - '2019'
