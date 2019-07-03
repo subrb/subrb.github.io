@@ -22,4 +22,5 @@ My name is Amber Toussaint and I am a recent graduate of Malcolm X College, a ci
 ![Image from iOS-ee05ab.png](/uploads/Image%20from%20iOS-ee05ab.png)
 
 I have always wanted to know more about investing and the different ways of utilizing the market to achieve financial freedom. The Greenwood project has allowed me to begin my journey in investing, with intentions to use the knowledge gained throughout my future portfolios to come. Aside from technicals skills, this experience has also improved my soft skills too. Being in an environment where you are the only person of color can be intimidating, but this internship has shown me more than a million reasons why I am just as deserving as my counterparts to be in these spaces.
+
 As a result of my progress this summer, I have been chosen to represent Greenwood on their annual New York trip to wall street. I began this summer with an open mind towards the world of finance, not really sure where to fit in. Now I am looking for ways to connect my engineering passion with finance. This program has already immersed me into a community of experts, New York is the second phase of this rewarding experience.
