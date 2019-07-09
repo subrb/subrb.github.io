@@ -11,6 +11,9 @@ tags:
 - Northwestern Mutual
 - College Cohort
 - University of Illinois at Chicago
+author-image: "/uploads/Image%20from%20iOS%20(1).png"
+Author-name: Miguel Gomez
+feature-image: "/uploads/Chicago%20Skyline%20and%20Lake%20Michigan%20Cloudscape%20Day%20to%20Night-ee1048.png"
 ---
 
 My name is Miguel Gomez, and I am a rising senior at the University of Illinois at Chicago. I am an Economics Major who has always had the interest to work within the financial industry. The biggest challenge that I faced through my college career did not have the
