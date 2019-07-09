@@ -11,7 +11,7 @@ tags:
 - Northwestern Mutual
 - College Cohort
 - University of Illinois at Chicago
-author-image: "/uploads/Image%20from%20iOS%20(1).png"
+author-image: "/uploads/DSC_3204.png"
 Author-name: Miguel Gomez
 feature-image: "/uploads/Chicago%20Skyline%20and%20Lake%20Michigan%20Cloudscape%20Day%20to%20Night-ee1048.png"
 ---
