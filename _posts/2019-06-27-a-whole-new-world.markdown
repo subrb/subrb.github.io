@@ -1,7 +1,6 @@
 ---
 title: A Whole New World
 date: 2019-06-27 15:45:00 Z
-published: false
 categories:
 - Internship
 - entry level
