@@ -1,6 +1,7 @@
 ---
 title: Valuing My Future
 date: 2019-07-08 13:01:00 Z
+published: false
 categories:
 - entry level
 - '2019'
@@ -9,7 +10,7 @@ tags:
 - University of Illinois Urbana-Champaign
 - Cboe
 - College Cohort
-author-image: "/uploads/IMG_4706.png"
+author-image: "/uploads/DSC_3174.png"
 author-name: Arsema Tesfai
 feature-image: "/uploads/3CC31454-52F3-4218-8C85-F894C6A7BC11.png"
 ---
