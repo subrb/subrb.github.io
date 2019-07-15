@@ -1,5 +1,5 @@
 ---
-title: Valuing My Future
+title: The Future Is My Canvas
 date: 2019-07-08 13:01:00 Z
 published: false
 categories:
