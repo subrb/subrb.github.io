@@ -23,4 +23,4 @@ Through the Greenwood Project, I am interning at Oak Street Real Estate Capital,
 
 ![Jonny and Southwest-32c96c.png](/uploads/Jonny%20and%20Southwest-32c96c.png)
 
- Yes, the Greenwood Project has been a great experience in regards to the finance industry, but most importantly, they provided me a support system for my education, for my career and as a long-term mentor.  Knowing that I have a group of like-minded and supportive peers and mentors, has given me the ultimate confidence that my dreams can become a reality.
+Yes, the Greenwood Project has been a great experience in regards to the finance industry, but most importantly, they provided me a support system for my education, for my career and as a long-term mentor.  Knowing that I have a group of like-minded and supportive peers and mentors, has given me the ultimate confidence that my dreams can become a reality.
