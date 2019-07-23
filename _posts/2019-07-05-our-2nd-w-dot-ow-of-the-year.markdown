@@ -1,5 +1,5 @@
 ---
-title: Our 5th Annual W.O.W.
+title: The 5th Annual W.O.W.
 date: 2019-07-05 03:21:00 Z
 published: false
 categories:
