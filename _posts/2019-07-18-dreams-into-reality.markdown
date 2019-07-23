@@ -7,9 +7,14 @@ categories:
 - finance
 - '2019'
 - 2019 Wall Street
+- diversity
 tags:
 - University of Illinois Urbana-Champaign
 - Oak Street Real Estate Capital
+- college
+- Wall Street
+- internship
+- Agribusiness
 author-name: Jonathan Hernandez
 author-image: "/uploads/Jonny%20Hernandez.png"
 Feature-image: "/uploads/Jonny's%20Action%20Pic.png"
