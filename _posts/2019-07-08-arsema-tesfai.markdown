@@ -12,7 +12,7 @@ tags:
 - College Cohort
 author-image: "/uploads/DSC_3174.png"
 author-name: Arsema Tesfai
-Feature-image: 
+Feature-image: "/uploads/IMG_9133.HEIC.heif"
 ---
 
 My name is Arsema Tesfai and I am a rising sophomore at the University of Illinois at Urbana-Champaign majoring in Political Science and minoring in Business. In the fall, I will serve as fundraiser chair for a mentoring organization on campus. I am interested in learning more about stocks, bonds, trades, and investing; as well as the allocation of money to different institutions like Chicago Public Schools. Through the Greenwood Project, I am interning at Chicago Board Options Exchange with Business First AM and Angela Miles. There I work on sales, production, marketing, and business news stories. Last week at Business First AM, I worked on booking a guest to speak on a news segment called Politics and Money as the subject matter corresponds with my major. I also tracked social media progress using an organized spreadsheet. Because Business First AM is relatively new to Instagram, I have been able to work on giving the page a fresh start with new ideas while watching the followers grow organically.
