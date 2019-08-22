@@ -17,7 +17,7 @@ feature-image: "/uploads/DSC_0071.JPG"
 
 My name is Niya Yates and I am a Senior at Whitney Young Magnet High School. I have been studying Japanese at Whitney for three years and I plan to continue studying it throughout college. I have won second place at the Japan Bowl, a state-wide Japanese academic competition for the State of Illinois. Using my computer science skills, I have also developed a website as well as a video game.
 
-![72241147-E360-4A56-92D7-D8D06F4BA524.jpg](/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg)
+![72241147-E360-4A56-92D7-D8D06F4BA524.jpg](/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg)!
 
 This summer, I joined the Greenwood Project's 6-week Fintech Coding Boot Camp. During this program, I learned to code in Python with the programming software called Jupyter Notebook. Also, Greenwood gave me guidance on how to write a resume, give an elevator pitch, and how to present myself in a corporate setting. I got to put these soft skills that I learned during the program to use when I went on companies Lunch and Learns. During the Lunch and Learns, I would visit companies such as Braintree, IDEX, and the Chicago Trading Company, and I had the opportunity to sit with actual employees of these companies and connect with them. As a result of that, I learned a lot about job titles I didn’t even know existed, and I received lots of guidance for my future.
 
