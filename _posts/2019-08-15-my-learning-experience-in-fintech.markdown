@@ -12,7 +12,7 @@ tags:
 - High School Cohort
 author-image: "/uploads/Niya%20Yates%20Headshot.png"
 author-name: Niya Yates
-feature-image: "/uploads/Niya%20Yates%20.png"
+feature-image: "/uploads/Kwintyn%20.png"
 ---
 
 My name is Niya Yates and I am a Senior at Whitney Young Magnet High School. I have been studying Japanese at Whitney for three years and I plan to continue studying it throughout college. I have won second place at the Japan Bowl, a state-wide Japanese academic competition for the State of Illinois. Using my computer science skills, I have also developed a website as well as a video game.
