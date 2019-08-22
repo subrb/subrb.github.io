@@ -12,7 +12,7 @@ tags:
 - De La Salle Institute
 author-image: "/uploads/Joshuah%20Thorton.png"
 author-name: 'Joshua Thornton '
-feature-image: "/uploads/IMG_9318.jpg"
+feature-image: "/uploads/IMG_9282.jpg"
 ---
 
 My name is Joshua Thornton, and I am a rising senior at De La Salle Institute. While at De La Salle, I am the Captain of our Men’s Varsity Basketball Team, an avid member of the Investment Club, Treasurer of the French Club and a National Honors Society Member. When I attend college, I plan on majoring in Business Finance and minoring in Accounting. This past summer, the Greenwood Project has helped me get connections in both fields. 
