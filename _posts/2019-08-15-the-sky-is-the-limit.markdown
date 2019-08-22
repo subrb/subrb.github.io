@@ -9,8 +9,8 @@ tags:
 - internships
 - Kenwood Academy High School
 - High School Cohort
-author-name: Joi Mays
 author-image: "/uploads/Joi.png"
+author-name: Joi Mays
 feature-image: "/uploads/IMG_9638.HEIC.png"
 ---
 
