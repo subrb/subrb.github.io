@@ -1,6 +1,7 @@
 ---
 title: A Mentor For Life
 date: 2019-08-17 21:59:00 Z
+published: false
 categories:
 - entry level
 - Greenwood Project Financial Institute
