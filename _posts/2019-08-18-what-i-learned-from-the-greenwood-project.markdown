@@ -8,8 +8,8 @@ tags:
 - Eisenhower High School
 - Link Unlimited Scholar
 - lunch and learn
-author-name: Kwintyn Essex
 author-image: "/uploads/DSC_8820.jpg"
+author-name: Kwintyn Essex
 feature-image: "/uploads/DSC_0026.JPG"
 ---
 
