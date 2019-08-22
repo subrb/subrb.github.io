@@ -11,8 +11,8 @@ tags:
 - internships
 - lunch and learn
 - High School Financial Institute
-author-name: Miciah Sanders
 author-image: "/uploads/Michiah%20Sanders.png"
+author-name: Miciah Sanders
 feature-image: "/uploads/Miciah%20Sanders.png"
 ---
 
