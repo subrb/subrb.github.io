@@ -16,6 +16,8 @@ feature-image: "/uploads/EMMA.png"
 
 My name is Emmanuella Nwokenkwo and I am a recent graduate of Thornwood High School. While at Thornwood, I was a student-athlete for 3 years playing volleyball, National Honors Society member, and Vice president of Student Council. I will be attending the University of Illinois Urbana-Champaign in the fall majoring in Business Finance. 
 
+![DSC_0084.JPG](/uploads/DSC_0084.JPG)
+
 This summer, I joined the Greenwood Project Financial Institute to learn more about the financial industry and build my social capital by networking with different people from various companies we visited. This summer I was able to attend 20 plus companies that range from investment banking to FinTech companies. I learned so much about the different careers within the financial industry, and I went from having 0 connections on LinkedIn to 105 connections in just six weeks. Going into the program I was only aware of careers such as a financial advisor, but the Greenwood Project exposed me to asset management, private wealth management, portfolio management, and many other careers that have given me more options and fields to explore in the future. Learning about the different work styles of each career has given me an insight into what I want to do in the future. 
 
 ![EMMA-8806ef.png](/uploads/EMMA-8806ef.png)
