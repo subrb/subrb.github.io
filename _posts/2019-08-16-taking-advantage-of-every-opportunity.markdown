@@ -9,8 +9,8 @@ tags:
 - High School Financial Institute
 - Thornwood High School
 - University of Illinois Urbana-Champaign
+author-image: "/uploads/Emma%20Headshot-038ec1.png"
 author-name: Emmanuella Nwokenkwo
-author-image: "/uploads/Emma%20Headshot.png"
 feature-image: "/uploads/EMMA.png"
 ---
 
