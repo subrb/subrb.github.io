@@ -13,18 +13,14 @@ Greenwood believes that the best part of an internship is that it teaches a youn
 
 #### PROGRAM DETAILS
  
-*   The internship program runs June through August.
+*   The internship program runs May through August.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
 *   Corporate partners, with Greenwood’s guidance, develop detailed work programs for the Scholar to maximize the effectiveness of their time with the partner.
 *   Scholars shadow specific employees and develop a mentor-mentee relationship that has, thus far, lasted well beyond the internship.
 *   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
 
-### 2019 Internship Timeline 
-* September 19, 2018: Application Open 
-* November 5, 2018: Application Deadline
-* May 28-31: Orientation week at DePaul Loop Campus
-* June 3, 2019: Start of Internship
-* Aug 9, 2019: End of Internship
+### 2020 Internship Timeline 
+* Stay Tuned for more. 
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
