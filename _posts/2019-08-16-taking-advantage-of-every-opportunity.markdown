@@ -22,7 +22,7 @@ This summer, I joined the Greenwood Project Financial Institute to learn more ab
 
 ![EMMA-8806ef.png](/uploads/EMMA-8806ef.png)
 
-During the program, the high school cohort was split into two groups to pitch a stock to potential investors. I have been learning a lot about what to look for when picking a stock, keeping up with current news, and overall understanding the stock market lingo. As a result of my involvement in the Greenwood Project, I am currently investing in 3 stocks through the Robinhood App.
+During the program, the high school cohort was split into two groups to pitch a stock to potential investors. I have been learning a lot about what to look for when picking a stock, keeping up with current news, and understanding the stock market lingo. As a result of my involvement in the Greenwood Project, I am currently investing in 3 stocks through the Robinhood App.
 
 I had no knowledge of investing prior to coming into the program and now I have my own brokerage account, this again proves how effective the Greenwood Program is. Besides the amazing knowledge I gained from the Greenwood Project about investing, I also grew my relationship with employees from two companies we visited for a Lunch and Learn event, Goldman Sachs and IDEX for potential internship opportunities in the future. These are companies that I never thought I would be given the opportunity to work for prior to the Greenwood Project.
 
