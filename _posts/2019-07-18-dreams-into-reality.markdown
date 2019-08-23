@@ -14,8 +14,8 @@ tags:
 - Wall Street
 - internship
 - Agribusiness
-author-name: Jonathan Hernandez
 author-image: "/uploads/Jonny%20Hernandez.png"
+author-name: Jonathan Hernandez
 Feature-image: "/uploads/GUYS%20IN%20NY.pdf"
 ---
 
