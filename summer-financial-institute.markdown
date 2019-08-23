@@ -51,7 +51,7 @@ The program culminates with a graduation ceremony with student presentations.
 
 It is critical that students stay engaged and continuously learning after completing our programs. As a result, each graduate of this program receives a funded brokerage account.
 
-#### Application Opens in October 2018 for 2019 Positions
+#### Application Opens in October 2019 for 2020 cohort
 
 * * *
 
