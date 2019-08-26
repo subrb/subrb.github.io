@@ -19,4 +19,6 @@ My name is Kwintyn Essex and I am a rising Senior at Eisenhower High School. I a
 
 This Summer at the Greenwood Project, I was introduced to the coding language of Python. I learned basic coding terminology and learned how to create a program to track my spending. Besides learning to code, the Greenwood Project took me to many different companies to learn about finance careers. I was able to network and learn about the finance world which is something I would have never been exposed to if not for the Greenwood Project. I learned a lot at the Greenwood Project, but one of the most important things I learned that I can always take with me is my elevator pitch.
 
+![IMG_0185.jpg](/uploads/IMG_0185.jpg)
+
 All in all, Greenwood has been an enlightening experience that I will always remember. Greenwood has opened doors for me, but it is my job to step through them. Greenwood has given me a new perspective on the finance world and is an all-around great program. I hope to further my knowledge of coding and continue to explore the many ways I could use this knowledge of programming in the finance world. 
