@@ -10,7 +10,7 @@ tags:
 - lunch and learn
 author-image: "/uploads/DSC_8820.jpg"
 author-name: Kwintyn Essex
-feature-image: "/uploads/DSC_0026.JPG"
+feature-image: "/uploads/IMG_9791.jpg"
 ---
 
 My name is Kwintyn Essex and I am a rising Senior at Eisenhower High School. I am a Link Unlimited Scholar and an Assistant Instructor at a Martial Arts School. This summer, I participated in the Greenwood Project's FinTech  Cohort. I wanted to get a basic understanding of coding in case I wanted to further my knowledge for a career choice later in life, and I believed a summer interning for an organization that thrived in introducing students into the finance and technology world would be the best way to do that. I have always been interested in science and technology, and this program helped me realized that I could explore my interest even though I am in high school.
