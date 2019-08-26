@@ -18,6 +18,6 @@ My name is Joi Mays and I am a rising senior at Kenwood Academy High School. I a
 
 ![IMG_9638.HEIC-79a3cf.png](/uploads/IMG_9638.HEIC-79a3cf.png)
 
-I was part of the Greenwood Project Financial Institute Cohort, which meant that every day for six weeks we would visit a company. We went from Wall Street powerhouses like Goldman Sachs to large international manufacturing companies like Panduit, to powerful technology-based companies like Braintree. At each company, we were allowed to network with the employees, interns, and even some of the senior leaders. It was amazing to see how many companies have diversity initiatives specifically geared towards students like myself.
+I was part of the Greenwood Project Financial Institute Cohort, which meant that we visited a company a day for six weeks. We went from Wall Street powerhouses like Goldman Sachs to large international manufacturing companies like Panduit, to powerful technology-based companies like Braintree. At each company, we networked with the employees, interns, and even some of the senior leaders. It was amazing to see how many companies have diversity initiatives specifically geared towards students like myself.
 
-The Greenwood project has taught me that there's a career for me in financial services, and with hard work and dedication to my goals, the only limits for me are the ones I put on myself.
+The Greenwood project has taught me that there is a career for me in financial services, and with hard work and dedication to my goals, the only limits for me are the ones I put on myself.
