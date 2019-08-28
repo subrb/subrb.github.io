@@ -17,11 +17,12 @@ feature-image: "/uploads/DSC_0071.JPG"
 
 My name is Niya Yates and I am a senior at Whitney Young Magnet High School. I have been studying Japanese at Whitney for three years and I plan to continue studying it throughout college. I won second place at the Japan Bowl, a state-wide Japanese academic competition for the State of Illinois. Using my computer science skills, I have also developed a website as well as a video game.
 
-![72241147-E360-4A56-92D7-D8D06F4BA524.jpg](/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg)
+![IMG_9531.jpg](/uploads/IMG_9531.jpg)
 
 This summer, I joined the Greenwood Project's 6-week Fintech Coding Boot Camp. During this program, I learned to code in Python with the programming software called Jupyter Notebook. Also, Greenwood gave me guidance on how to write a resume, create an elevator pitch, and how to present myself in a corporate setting. I got to put these soft skills to use when I went on companies Lunch and Learn events with Greenwood. During the Lunch and Learn events, we visited companies such as Braintree, IDEX, and Chicago Trading Company, and I had the opportunity to network with the employees of these companies. As a result of the Greenwood Project, I learned a lot about job titles I didn’t even know existed, and I received lots of guidance for my future.
 
-![IMG_9531.jpg](/uploads/IMG_9531.jpg)
+
+![72241147-E360-4A56-92D7-D8D06F4BA524.jpg](/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg)
 
 Greenwood has had a strong impact on my life because, without the Greenwood Project, I would not have the exposure to the corporate world I have today. Through the Greenwood Project, I was able to be exposed to the financial technology industry, which was completely new to me, and connect with people I would never have been able to network with outside of this program. 
 
