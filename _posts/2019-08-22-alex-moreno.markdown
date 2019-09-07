@@ -16,6 +16,8 @@ feature-image: "/uploads/Alex%20Moreno%20.png"
 
 My name is Alex Moreno and I am a rising freshman at the University of Illinois at Urbana Champaign. During high school, I was student-athlete playing soccer and baseball, a mentor, and a translator for international students. Additionally, I also participated in the National Hispanic Institute, a leadership program. 
 
+![DSC_0197.jpg](/uploads/DSC_0197.jpg)
+
 Going into University, I was undeclared, but after participating in the Greenwood project this summer, and seeing all the opportunities available to me in financial services, I've realized that I want to major in economics. Coming from a low-income community, all I saw growing up were mechanics, carpenters, and gang members. A couple of my close friends did not make it all the way through high school and a major reason for that was the lack of professional individuals and mentors that we could look up to in our communities. 
 
 ![IMG_9746.jpg](/uploads/IMG_9746.jpg)
