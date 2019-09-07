@@ -16,7 +16,7 @@ feature-image: "/uploads/Alex%20Moreno%20.png"
 
 My name is Alex Moreno and I am a rising freshman at the University of Illinois at Urbana Champaign. During high school, I was student-athlete playing soccer and baseball, a mentor, and a translator for international students. Additionally, I also participated in the National Hispanic Institute, a leadership program. 
 
-![DSC_0197.jpg](/uploads/DSC_0197.jpg)
+![IMG_9361.jpg](/uploads/IMG_9361.jpg)
 
 Going into University, I was undeclared, but after participating in the Greenwood project this summer, and seeing all the opportunities available to me in financial services, I've realized that I want to major in economics. Coming from a low-income community, all I saw growing up were mechanics, carpenters, and gang members. A couple of my close friends did not make it all the way through high school and a major reason for that was the lack of professional individuals and mentors that we could look up to in our communities. 
 
@@ -28,6 +28,6 @@ This summer I interned with the Greenwood Project to build my social capital and
  
 Joining the Greenwood Project just after graduating high school has been the best choice I could have made for my future. I cannot thank Bevon Joseph and his wife Elois enough for starting this program to introduce minority students like myself to the financial industry, because without this opportunity I would not have this type of access. One big highlight for me this summer was meeting the Federal Reserve Bank Chairman, Charlie Evans. 
 
-![IMG_9361.jpg](/uploads/IMG_9361.jpg)
+![DSC_0197.jpg](/uploads/DSC_0197.jpg)
 
 Being the first in my family to participate in the Greenwood Project, allowed me to break a cycle in my family and gave me the opportunity to show my younger siblings that there is no limit to the things one can do. When there are great people such as Bevon and Elois willing to help, it is our duty to participate in order to get these types of positions in the industry for black and brown students. The Greenwood Project taught me that you although you might be very smart and doing well in school, without social capital it will be that much harder to break into the financial services industry. Thank you, Greenwood!
