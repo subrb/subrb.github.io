@@ -24,8 +24,6 @@ Going into University, I was undeclared, but after participating in the Greenwoo
  
 This summer I interned with the Greenwood Project to build my social capital and to network with individuals such as CEO’s, partners, recruiters at the many firms we visited. This summer with Greenwood I experienced what a day in the life of a financial professional was like, and saw first-hand how the markets affect a firms profitability. Being able to visit more than 20 companies in only six weeks was such an advantage because I got to explore different work environments and get an idea for which direction my career path may take me. I also learned about the many positions in the industry that I had no idea even existed. 
 
-![IMG_9746.jpg](/uploads/IMG_9746.jpg)
- 
 Joining the Greenwood Project just after graduating high school has been the best choice I could have made for my future. I cannot thank Bevon Joseph and his wife Elois enough for starting this program to introduce minority students like myself to the financial industry, because without this opportunity I would not have this type of access. One big highlight for me this summer was meeting the Federal Reserve Bank Chairman, Charlie Evans. 
 
 ![DSC_0197.jpg](/uploads/DSC_0197.jpg)
