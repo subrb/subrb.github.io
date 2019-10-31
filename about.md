@@ -32,6 +32,12 @@ people:
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
+- name: Victor Jones
+  path: 
+  bio: 
+- name: Erich Tengelsen
+  path: 
+  bio: 
 layout: about
 ---
 
