@@ -23,7 +23,7 @@ defaults:
 url: http://www.greenwoodproject.org
 description: Introducing minority students to the financial industry
 hs_applications_open: false
-college_applications_open: false
+college_applications_open: true
 year-stats:
 - year: 2016
   path: "/assets/img/graph_2016.png"
