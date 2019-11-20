@@ -9,7 +9,7 @@ partners:
   width: 140px
 - path: "/assets/img/sponsors/google.png"
   width: 140px
-- path: "/uploads/nasdaq.jpg"
+- path: "/assets/img/sponsors/nasdaq.ong"
   width: 140px
 - path: "/assets/img/sponsors/nyse.png"
   width: 110px
