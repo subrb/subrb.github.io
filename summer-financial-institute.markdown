@@ -43,7 +43,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 * Transportation: CTA passes provided
 
 #### Workshops and Curriculum
-**
+
 *   Week 1 - Greenwood Project Orientation
 *   Week 2 - Building Your Brand
 *   Week 3 - Financial Literacy
