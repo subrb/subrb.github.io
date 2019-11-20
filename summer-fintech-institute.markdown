@@ -17,7 +17,7 @@ images:
 - name: 
   path: "/uploads/Cboe_Resized.jpg"
 - name: 
-  path: "/uploads/FMBank_1_50.jpg"
+  path: "/uploads/72241147-E360-4A56-92D7-D8D06F4BA524%20(1).jpg"
 layout: summer-financial-institute
 ---
 
