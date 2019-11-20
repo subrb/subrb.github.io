@@ -39,8 +39,8 @@ Our Fintech program teaches students how to code using Python as they gain expos
 
 The goal of the Greenwood Project Fintech program is to teach students how to code with a focus on the Fintech industry. The program combines classroom work with experiential learning. Students partner with software developers from various Fintech firms, working on a capstone project with a demo day at the conclusion of the program. There will also be a focus on soft skills, professional development, and financial literacy. Python is the coding language students will be learning.
 
-* Audience: HS Juniors & Seniors (no coding experience necessary)
-* Min GPA: 3.0 (students must have an interest in STEM/coding)
+* Audience: HS Juniors & Seniors, No coding experience necessary
+* Min GPA: 3.0, Students must have an interest in STEM/coding
 * Schedule: July - August | Mon to Thur 9:00am - 2:00pm
 * Location: Loop - Downtown Chicago
 * Compensation: $600 Stipend
