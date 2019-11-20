@@ -34,16 +34,16 @@ layout: summer-financial-institute
 
 High School students are immersed in an intensive 6-week program. The curriculum includes financial literacy, educational field trips, simulated trading, soft skills training, leadership and professional development workshops, and tons of exposure to the financial services and tech industry.
 
-Audience: Juniors & Seniors
-Min GPA: 3.0
-Schedule: July - August (Mon to Thur)
-Location: Downtown Chicago (Loop)
-Compensation: $600 Stipend
-Attire: Greenwood Project attire provided
-Transportation: CTA passes provided
+* Audience: Juniors & Seniors
+* Min GPA: 3.0
+* Schedule: July - August
+* Location: Downtown Chicago
+* Compensation: $600 Stipend
+* Attire: Greenwood Project attire provided
+* Transportation: CTA passes provided
 
-Workshops and Curriculum
-
+**Workshops and Curriculum
+**
 *   Week 1 - Greenwood Project Orientation
 *   Week 2 - Building Your Brand
 *   Week 3 - Financial Literacy
