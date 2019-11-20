@@ -33,45 +33,16 @@ layout: summer-financial-institute
 #### High School Summer FinTech Institute
 
 
-Greenwood Project will be launching a 6-week Fintech camp for ten (10) HS rising juniors and seniors to teach them how to code for a career in Fintech. This program will be a mix of lab/classroom work and experiential learning.
+What is Fintech? : products and companies that employ newly developed digital and online technologies in the banking and financial services industries
 
+Our Fintech program teaches students how to code using Python as they gain exposure to the Fintech industry careers. Students work with professional software developers and engineers from top Fintech firms. Students will also participate in a 24hr hackathon event.
 
-All Greenwood’s programs are offered to our students at no cost given their socio-economic background.
-
-
-Greenwood Project 2019 Summer Fintech Camp – “Learning how to code for a career in Fintech”
-
-
+The goal of the Greenwood Project Fintech program is to teach students how to code with a focus on the Fintech industry. The program combines classroom work with experiential learning. Students partner with software developers from various Fintech firms, working on a capstone project with a demo day at the conclusion of the program. There will also be a focus on soft skills, professional development, and financial literacy. Python is the coding language students will be learning.
 
 Audience: HS Juniors & Seniors (no coding experience necessary)
 Min GPA: 3.0 (students must have an interest in STEM/coding)
-Schedule: July 1 - August 8 | Mon to Thurs. 9:00am - 2:00pm
+Schedule: July - August | Mon to Thur 9:00am - 2:00pm
 Location: Loop - Downtown Chicago
 Compensation: $600 Stipend
 Attire: Greenwood Project attire provided
 Transportation: CTA passes provided
-
-
-Program Details:
-
-Greenwood structured “Learning how to code” curriculum specifically designed for HS students.
-20 total hours per week (Mon-Thurs, 9am-2pm)
-10 hours of lab time with an instructor each week at DePaul University Loop campus.
-10 hours of experiential learning each week with software developers from partnering firms.
-Students will be working towards a capstone project with a demo day at the end of the program.
-Students will participate in the Greenwood Project’s soft skills and professional development workshops.
-
-
-Professional Development Workshops
-
-Building your brand
-Networking Tips
-Resume workshop & Mock interviews
-Leadership & Teamwork
-Dressing for Success
-Financial Literacy (Credit, Student Loans, Banking, Investing)
-Public Speaking
-Verbal and Written Communication
-Presentation Skills
-Social Media Etiquette
-Exploring Careers in Financial Services and STEM
