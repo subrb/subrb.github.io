@@ -34,9 +34,13 @@ layout: summer-financial-institute
 
 High School students are immersed in an intensive 6-week program. The curriculum includes financial literacy, educational field trips, simulated trading, soft skills training, leadership and professional development workshops, and tons of exposure to the financial services and tech industry.
 
-Program Schedule: July through August
-Location: DePaul University Loop + Company Visits
-Students: Current High School Juniors & Seniors
+Audience: Juniors & Seniors
+Min GPA: 3.0
+Schedule: July - August (Mon to Thur)
+Location: Downtown Chicago (Loop)
+Compensation: $600 Stipend
+Attire: Greenwood Project attire provided
+Transportation: CTA passes provided
 
 Workshops and Curriculum
 
@@ -51,7 +55,7 @@ The program culminates with a graduation ceremony with student presentations.
 
 It is critical that students stay engaged and continuously learning after completing our programs. As a result, each graduate of this program receives a funded brokerage account.
 
-#### Application Opens in October 2019 for 2020 cohort
+#### Application Period: November 20 - December 18 for 2020 cohort
 
 * * *
 
