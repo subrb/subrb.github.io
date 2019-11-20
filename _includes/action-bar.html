@@ -29,7 +29,7 @@
         {% if site.college_applications_open == true %}
         <a href="/internships" class="button block center p1 black">College Summer Internship Program</a>
         {% endif %}
-        {% if site.college_applications_open == true || if site.hs_fintech_applications_open == true || site.hs_financial_applications_open == true %}
+        {% if site.college_applications_open == false && if site.hs_fintech_applications_open == false && site.hs_financial_applications_open == false %}
         <a href="/get-involved" class="button block center p1 black">Get Invovled</a>
         {% endif %}
     </div>
