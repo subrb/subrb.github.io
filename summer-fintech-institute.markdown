@@ -2,21 +2,21 @@
 title: Summer High School FinTech Program
 date: 2019-06-26 17:23:00 Z
 images:
-- name: Google
-  path: "/uploads/IMG_3647-ce9bec.jpg"
-- name: NASDAQ
-  path: "/uploads/IMG_2842.jpg"
-- name: Braintree
-  path: "/uploads/BrainTree_Resized-440c07.jpg"
-- name: UBS
-  path: "/uploads/UBS_Resized.jpg"
-- name: Salesforce
+- name: 
+  path: "/uploads/IMG_9746.jpg"
+- name: 
+  path: "/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg"
+- name: 
+  path: "/uploads/Niya%20Yates%20Headshot.png"
+- name: 
+  path: "/uploads/IMG_1919%20(1).jpg"
+- name: 
   path: "/uploads/Salesforce_Resized.jpg"
-- name: Federal Reserve Bank
+- name: 
   path: "/uploads/FedBankResized.jpg"
-- name: Cboe
+- name: 
   path: "/uploads/Cboe_Resized.jpg"
-- name: First Midwest Bank
+- name: 
   path: "/uploads/FMBank_1_50.jpg"
 layout: summer-financial-institute
 ---
