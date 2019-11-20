@@ -9,7 +9,7 @@ images:
 - name: 
   path: "/uploads/Niya%20Yates%20Headshot.png"
 - name: 
-  path: "/uploads/IMG_1919%20(2).jpg"
+  path: "/uploads/DSC_0225.jpg"
 - name: 
   path: "/uploads/Salesforce_Resized.jpg"
 - name: 
