@@ -21,6 +21,8 @@ Greenwood believes that the best part of an internship is that it teaches a youn
 *   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
 
 ### 2020 Internship Timeline 
-* Stay Tuned for more. 
+* November: Application open
+* May - June: Internship training program in progress
+* July to Aug: Internships in progress 
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
