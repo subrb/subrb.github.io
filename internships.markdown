@@ -17,10 +17,6 @@ Greenwood's Summer Internship Program combines three weeks of academic instructi
 
 Applicants must be in attendance for the entire length of the program in order to be considered.
 
-Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume. Continuing education helps Scholars attain domain knowledge in the finance industry.
-
-Scholars make a final presentation at the end of the internship.
-
 #### PROGRAM DETAILS
  
 *   The internship program runs May through August.
