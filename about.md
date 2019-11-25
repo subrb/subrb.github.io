@@ -14,15 +14,15 @@ about-blurb:
   text: Our ultimate goal is to build a true diversity pipeline for minority students
     to enter the financial services industry.
 people:
-- name: John Roberson
-  path: "/assets/img/board-members/1.png"
-  bio: Director Of External Affairs, Office of the President, Cook County Board
+- name: Victor Jones
+  path: "/uploads/Victor_HS_0.jpeg"
+  bio: CEO, Dough
 - name: Jessica Ashley Garmon Esq
   path: "/assets/img/board-members/2.png"
   bio: Chief Operating Officer and General Counsel at The Will Group
-- name: Adrian Velazquez
-  path: "/assets/img/board-members/3.png"
-  bio: Options Floor Broker at X-FAX-Change Financial Access
+- name: Erich Tengelsen
+  path: "/uploads/erich-tengelsen-2017.jpg"
+  bio: Co-Founder at Ridgeline Ventures
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
   bio: Principal/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
