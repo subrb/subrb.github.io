@@ -16,28 +16,23 @@ about-blurb:
 people:
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
-  bio: CEO, Dough
+  bio: Greenwood Secretary | CEO, Dough
 - name: Jessica Ashley Garmon Esq
   path: "/assets/img/board-members/2.png"
   bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Erich Tengelsen
   path: "/uploads/erich-tengelsen-2017.jpg"
-  bio: Co-Founder at Ridgeline Ventures
+  bio: Greenwood Treasurer | Co-Founder at Ridgeline Ventures
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
-  bio: Principal/Co-Head of Fixed Income Sales at Sandler O'Neill & Partners
+  bio: Greenwood Board Chair | Principal/Co-Head of Fixed Income Sales at Sandler
+    O'Neill & Partners
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: CIO of Karman Line Capital and founder of Option Pit
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
-- name: Victor Jones
-  path: 
-  bio: 
-- name: Erich Tengelsen
-  path: 
-  bio: 
 layout: about
 ---
 
