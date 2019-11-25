@@ -16,7 +16,7 @@ about-blurb:
 people:
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
-  bio: Greenwood Secretary | CEO, Dough
+  bio: Greenwood Secretary | CEO at dough
 - name: Jessica Ashley Garmon Esq
   path: "/assets/img/board-members/2.png"
   bio: Chief Operating Officer and General Counsel at The Will Group
