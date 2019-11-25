@@ -14,28 +14,28 @@ about-blurb:
   text: Our ultimate goal is to build a true diversity pipeline for minority students
     to enter the financial services industry.
 people:
-- name: Victor Jones
-  path: "/uploads/Victor_HS_0.jpeg"
-  bio: Greenwood Secretary | CEO at dough
-- name: Jessica Ashley Garmon Esq
-  path: "/assets/img/board-members/2.png"
-  bio: Chief Operating Officer and General Counsel at The Will Group
-- name: Erich Tengelsen
-  path: "/uploads/erich-tengelsen-2017.jpg"
-  bio: Greenwood Treasurer | Co-Founder at Ridgeline Ventures
+- name: Bevon & Elois Joseph
+  path: "/uploads/IMG_4738.jpg"
+  bio: Greenwood Project Founders
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
   bio: Greenwood Board Chair | Principal/Co-Head of Fixed Income Sales at Sandler
     O'Neill & Partners
+- name: Victor Jones
+  path: "/uploads/Victor_HS_0.jpeg"
+  bio: Greenwood Secretary | CEO at dough
+- name: Erich Tengelsen
+  path: "/uploads/erich-tengelsen-2017.jpg"
+  bio: Greenwood Treasurer | Co-Founder at Ridgeline Ventures
+- name: Jessica Ashley Garmon Esq
+  path: "/assets/img/board-members/2.png"
+  bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: CIO of Karman Line Capital and founder of Option Pit
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
-- name: Bevon & Elois Joseph
-  path: "/uploads/IMG_4738.jpg"
-  bio: Greenwood Project Founders
 layout: about
 ---
 
