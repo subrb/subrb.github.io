@@ -33,6 +33,9 @@ people:
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
+- name: Bevon & Elois Joseph
+  path: "/uploads/IMG_4738.jpg"
+  bio: Greenwood Project Founders
 layout: about
 ---
 
