@@ -6,4 +6,3 @@ Field name:
 layout: internships
 ---
 
-![img-news-hero.jpg](/uploads/img-news-hero.jpg)
