@@ -7,3 +7,9 @@ layout: about
 ![Daily-Herald-Logo-e1536084464390.jpg](/uploads/Daily-Herald-Logo-e1536084464390.jpg)
 
 Northwestern Mutual-Chicago Partners with Greenwood Project.
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
