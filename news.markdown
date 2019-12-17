@@ -6,4 +6,4 @@ layout: about
 
 |  | |
 |--|--|
-| ![nasdaq.png](/uploads/nasdaq.png) width="150" height="100"| Northwestern Mutual-Chicago Partners with Greenwood Project|
+| ![nasdaq.png] 512x397, 20%(/uploads/nasdaq.png)| Northwestern Mutual-Chicago Partners with Greenwood Project|
