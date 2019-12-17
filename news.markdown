@@ -6,4 +6,4 @@ layout: about
 
 Column 1 | Column 2 | Column 3
 --- | --- | ---
-| [Northwestern Mutual-Chicago Partners with Greenwood Project](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
+![northwestern-mutual_owler_20190729_064406_original.jpg](/uploads/northwestern-mutual_owler_20190729_064406_original.jpg)| [Northwestern Mutual-Chicago Partners with Greenwood Project](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
