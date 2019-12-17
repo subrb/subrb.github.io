@@ -6,4 +6,4 @@ layout: about
 
 |  | |
 |--|--|
-| ![nasdaq.png|512x397,50%](/uploads/nasdaq.png)| Northwestern Mutual-Chicago Partners with Greenwood Project|
+| ![Coca-Cola Foundation.png](/uploads/Coca-Cola%20Foundation.png)| Northwestern Mutual-Chicago Partners with Greenwood Project|
