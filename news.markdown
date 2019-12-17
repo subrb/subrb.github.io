@@ -4,12 +4,7 @@ date: 2019-11-25 17:00:00 Z
 layout: about
 ---
 
-![Daily-Herald-Logo-e1536084464390.jpg](/uploads/Daily-Herald-Logo-e1536084464390.jpg)
-
-Northwestern Mutual-Chicago Partners with Greenwood Project.
-
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
