@@ -6,8 +6,8 @@ layout: about
 
 |  | |
 |--|--|
-| ![img-news-hero.jpg](/uploads/img-news-hero.jpg) | Northwestern Mutual-Chicago Partners with Greenwood Project|
-| ![Coca-Cola Foundation.png](/uploads/Coca-Cola%20Foundation.png) | Diversity Pipeline For The Financial Industry|
+| ![nasdaq.png](/uploads/nasdaq.png){:height="50%" width="50%"}| Northwestern Mutual-Chicago Partners with Greenwood Project|
+| ![Coca-Cola Foundation.png](/uploads/Coca-Cola%20Foundation.png)| Diversity Pipeline For The Financial Industry|
 |  | Diversity Pipeline For The Financial Industry|
 |  | Diversity Pipeline For The Financial Industry|
 |  | Diversity Pipeline For The Financial Industry|
