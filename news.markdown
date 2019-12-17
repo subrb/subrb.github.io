@@ -6,5 +6,4 @@ layout: about
 
 Column 1 | Column 2 | Column 3
 --- | --- | ---
-**Things** | _Don't_ | [Need](http://makeuseof.com)
-To | *__Look__* | `Pretty`
+| [Northwestern Mutual-Chicago Partners with Greenwood Project](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
