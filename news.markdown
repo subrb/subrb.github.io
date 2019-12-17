@@ -7,6 +7,3 @@ layout: about
 |  | |
 |--|--|
 | ![nasdaq.png](/uploads/nasdaq.png)| Northwestern Mutual-Chicago Partners with Greenwood Project|
-|  | Diversity Pipeline For The Financial Industry|
-|  | Diversity Pipeline For The Financial Industry|
-|  | Diversity Pipeline For The Financial Industry|
