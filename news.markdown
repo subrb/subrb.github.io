@@ -12,6 +12,6 @@ layout: about
 
 **November 2019 - Northwestern Mutual - Chicago** has formed a partnership with Greenwood Project, a non-profit organization that introduces high-achieving minority high school and college students from under-resourced communities to careers in financial services.\
 
-![thestreet logo (1).png](/uploads/thestreet%20logo%20(1).png)
+[![thestreet logo (1).png](/uploads/thestreet%20logo%20(1).png)](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
 **July 2019 - Greenwood Project: Tomorrow's Portfolio Managers - **Zev Fima, Research Analyst with [ActionAlertsPLUS](https://aap.thestreet.com/), had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.
