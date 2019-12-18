@@ -6,6 +6,6 @@ layout: about
 
 # News!
 
-![1.jpeg](/uploads/1.jpeg)
+![1.jpeg](/uploads/1.jpeg){ width=50% }
 
 Northwestern Mutual--Chicago has formed a partnership with Greenwood Project, a non-profit organization that introduces high-achieving minority high school and college students from under-resourced communities to careers in financial services.
