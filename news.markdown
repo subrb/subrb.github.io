@@ -24,6 +24,10 @@ layout: about
 
 **[April 2019 - Bevon Joseph, A Leader for Career Access - ](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)**[An immigrant from Trinidad, graduate business student Bevon Joseph has forged his own path in tech, finance and nonprofit management since coming to the United States at 18 years old.](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)
 
+[![cha-logo_0 (1).png](/uploads/cha-logo_0%20(1).png)](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)
+
+[May 2019 - Civic leader mentors help youth with "Career Talks" during CHA/BIG Brother BIG Sister event. ](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)
+
 [![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
 **[July 2017 - Nasdaq Spotlight - The Greenwood Project](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)**[ - Bevon Joseph, President of the Greenwood Project sat down with Jill Malandrino, Global Markets Reporter for Nasdaq at the company's MarketSite in Times Square. The two discussed the organization's goals.](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
