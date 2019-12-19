@@ -1,7 +1,7 @@
 ---
 title: News
 date: 2019-11-25 17:00:00 Z
-layout: about
+layout: default
 ---
 
 [![comcast.png](/uploads/comcast.png)](https://comcastnewsmakers.com/Videos/2019/12/10/Elois-Joseph)
