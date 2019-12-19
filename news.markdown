@@ -12,9 +12,9 @@ layout: about
 
 **November 2019 - Northwestern Mutual - Chicago** has formed a partnership with Greenwood Project, a non-profit organization that introduces high-achieving minority high school and college students from under-resourced communities to careers in financial services.
 
-![Cboe new logo (1).png](/uploads/Cboe%20new%20logo%20(1).png)
+[![Cboe new logo (1).png](/uploads/Cboe%20new%20logo%20(1).png)](http://www.cboe.com/video/?mediaId=e9a9cc043b5246b982ae208146290506)
 
-**October 2019 - Greenwood Project and Cboe Global Markets ring the Bell for Financial Literacy** - Greenwood high school and college scholars rang the closing bell of the Cboe Global Markets exchange as part of the World Federation of Exchanges (WFE) ‘Ring the Bell for Financial Literacy’ Initiative. This year, IOSCO and the WFE are working in partnership on a new initiative to support WIW called ‘Ring the Bell for Financial Literacy.’ WFE is inviting members to hold bell-ringing ceremonies during WIW to promote the importance of financial literacy and to raise awareness of WIW 2019.
+**[October 2019 - Greenwood Project and Cboe Global Markets ring the Bell for Financial Literacy](http://www.cboe.com/video/?mediaId=e9a9cc043b5246b982ae208146290506)**[ - Greenwood high school and college scholars rang the closing bell of the Cboe Global Markets exchange as part of the World Federation of Exchanges (WFE) ‘Ring the Bell for Financial Literacy’ Initiative. This year, IOSCO and the WFE are working in partnership on a new initiative to support WIW called ‘Ring the Bell for Financial Literacy.’ WFE is inviting members to hold bell-ringing ceremonies during WIW to promote the importance of financial literacy and to raise awareness of WIW 2019.](http://www.cboe.com/video/?mediaId=e9a9cc043b5246b982ae208146290506)
 
 [![thestreet logo (1) (1).png](/uploads/thestreet%20logo%20(1)%20(1).png)](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
