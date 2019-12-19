@@ -4,9 +4,9 @@ date: 2019-11-25 17:00:00 Z
 layout: default
 ---
 
-[![WBlairLogo (1).png](/uploads/WBlairLogo%20(1).png)](https://www.williamblair.com/News-Items/2019/December/19/Community-Partnership-Program-Goes-Global.aspx?utm_source=social&utm_medium=twitter&utm_campaign=CommunityEngagement&utm_content=CommunityPartners-Announcement-2020-2021)
+![WBlairLogo (1).png](/uploads/WBlairLogo%20(1).png)
 
-[December 2019 - WILLIAM BLAIR'S COMMUNITY PARTNERSHIP PROGRAM GOES GLOBAL - Heading into a new decade, William Blair has decided to expand its popular community partners program to its global offices. In December, the firm announced 11 new partnerships that continue a nine-year-old initiative that began in Chicago.](https://www.williamblair.com/News-Items/2019/December/19/Community-Partnership-Program-Goes-Global.aspx?utm_source=social&utm_medium=twitter&utm_campaign=CommunityEngagement&utm_content=CommunityPartners-Announcement-2020-2021)
+**[December 2019 - WILLIAM BLAIR'S COMMUNITY PARTNERSHIP PROGRAM GOES GLOBAL ](https://www.williamblair.com/News-Items/2019/December/19/Community-Partnership-Program-Goes-Global.aspx?utm_source=social&utm_medium=twitter&utm_campaign=CommunityEngagement&utm_content=CommunityPartners-Announcement-2020-2021)**[- Heading into a new decade, William Blair has decided to expand its popular community partners program to its global offices. In December, the firm announced 11 new partnerships that continue a nine-year-old initiative that began in Chicago.](https://www.williamblair.com/News-Items/2019/December/19/Community-Partnership-Program-Goes-Global.aspx?utm_source=social&utm_medium=twitter&utm_campaign=CommunityEngagement&utm_content=CommunityPartners-Announcement-2020-2021)
 
 [The community partnerships expand and support—both financially and in employees' volunteer time—local nonprofits that work to strengthen their communities.](https://www.williamblair.com/News-Items/2019/December/19/Community-Partnership-Program-Goes-Global.aspx?utm_source=social&utm_medium=twitter&utm_campaign=CommunityEngagement&utm_content=CommunityPartners-Announcement-2020-2021)
 
