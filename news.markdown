@@ -16,9 +16,9 @@ layout: about
 
 **October 2019 - Greenwood Project and Cboe Global Markets ring the Bell for Financial Literacy** - Greenwood high school and college scholars rang the closing bell of the Cboe Global Markets exchange as part of the World Federation of Exchanges (WFE) ‘Ring the Bell for Financial Literacy’ Initiative. This year, IOSCO and the WFE are working in partnership on a new initiative to support WIW called ‘Ring the Bell for Financial Literacy.’ WFE is inviting members to hold bell-ringing ceremonies during WIW to promote the importance of financial literacy and to raise awareness of WIW 2019.
 
-![thestreet logo (1) (1).png](/uploads/thestreet%20logo%20(1)%20(1).png)
+[![thestreet logo (1) (1).png](/uploads/thestreet%20logo%20(1)%20(1).png)](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
-**July 2019 - Greenwood Project: Tomorrow's Portfolio Managers** - Zev Fima, Research Analyst with [ActionAlertsPLUS](https://aap.thestreet.com/), had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.
+**[July 2019 - Greenwood Project: Tomorrow's Portfolio Managers](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)**[ - Zev Fima, Research Analyst with ActionAlertsPLUS, had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
 [![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
