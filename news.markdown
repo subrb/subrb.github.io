@@ -20,6 +20,10 @@ layout: about
 
 **July 2019 - Greenwood Project: Tomorrow's Portfolio Managers** - Zev Fima, Research Analyst with [ActionAlertsPLUS](https://aap.thestreet.com/), had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.
 
+![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)
+
+**Nasdaq Spotlight: The Greenwood Project **- Bevon Joseph, President of the Greenwood Project sat down with Jill Malandrino, Global Markets Reporter for Nasdaq at the company's MarketSite in Times Square. The two discussed the organizations goals.
+
 ![ro-logo-18-100 (1).png](/uploads/ro-logo-18-100%20(1).png)
 
 **September 2016 - Minorities gain financial skills with guru Chris Gardner and Bevon Joseph** - Bevon Joseph is hoping to give minorities an invaluable resource, marketable financial skills, and that is why he launched The Greenwood Project. Read on to learn more about the knowledge Joseph plans to impart to young people about working in the financial services industry.
