@@ -26,7 +26,7 @@ layout: about
 
 [![cha-logo_0 (1).png](/uploads/cha-logo_0%20(1).png)](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)
 
-[May 2019 - Civic leader mentors help youth with "Career Talks" during CHA/BIG Brother BIG Sister event.](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)
+**[May 2019](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)**[ - Civic leader mentors help youth with "Career Talks" during CHA/BIG Brother BIG Sister event.](https://www.thecha.org/news-media/news/civic-leader-mentors-help-youth-career-talks-during-cha/big-brother-big-sister)
 
 [![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
