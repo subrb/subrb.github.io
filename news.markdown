@@ -4,9 +4,9 @@ date: 2019-11-25 17:00:00 Z
 layout: about
 ---
 
-![comcastnewsmakers-banner-738x432 (1).png](/uploads/comcastnewsmakers-banner-738x432%20(1).png)
+[![comcastnewsmakers-banner-738x432 (1).png](/uploads/comcastnewsmakers-banner-738x432%20(1).png)](https://comcastnewsmakers.com/Videos/2019/12/10/Elois-Joseph)
 
-**December 2019 - Diversity Pipeline For The Financial Industry -** The Greenwood Project seeks out academically ambitious & career and goal-oriented students to show them opportunities that exist in the financial workforce. This program helps students become familiar with the business process & offers opportunities.
+**[December 2019 - Diversity Pipeline For The Financial Industry -](https://comcastnewsmakers.com/Videos/2019/12/10/Elois-Joseph)**[ The Greenwood Project seeks out academically ambitious & career and goal-oriented students to show them opportunities that exist in the financial workforce. This program helps students become familiar with the business process & offers opportunities.](https://comcastnewsmakers.com/Videos/2019/12/10/Elois-Joseph)
 
 [![NM_Logo (1).png](/uploads/NM_Logo%20(1).png)](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
 
