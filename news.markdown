@@ -8,9 +8,9 @@ layout: about
 
 **December 2019 - Diversity Pipeline For The Financial Industry -** The Greenwood Project seeks out academically ambitious & career and goal-oriented students to show them opportunities that exist in the financial workforce. This program helps students become familiar with the business process & offers opportunities.
 
-![NM_Logo (1).png](/uploads/NM_Logo%20(1).png)
+[![NM_Logo (1).png](/uploads/NM_Logo%20(1).png)](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
 
-**November 2019 - Northwestern Mutual - Chicago** has formed a partnership with Greenwood Project, a non-profit organization that introduces high-achieving minority high school and college students from under-resourced communities to careers in financial services.
+**[November 2019 - Northwestern Mutual - Chicago](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)**[ has formed a partnership with Greenwood Project, a non-profit organization that introduces high-achieving minority high school and college students from under-resourced communities to careers in financial services.](https://www.dailyherald.com/submitted/20191107/northwestern-mutual-chicago-partners-with-greenwood-project)
 
 [![Cboe new logo (1).png](/uploads/Cboe%20new%20logo%20(1).png)](http://www.cboe.com/video/?mediaId=e9a9cc043b5246b982ae208146290506)
 
