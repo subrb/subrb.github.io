@@ -26,7 +26,7 @@ layout: about
 
 [![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
-**[Nasdaq Spotlight - The Greenwood Project](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)**[ - Bevon Joseph, President of the Greenwood Project sat down with Jill Malandrino, Global Markets Reporter for Nasdaq at the company's MarketSite in Times Square. The two discussed the organization's goals.](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
+**[July 2017 - Nasdaq Spotlight - The Greenwood Project](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)**[ - Bevon Joseph, President of the Greenwood Project sat down with Jill Malandrino, Global Markets Reporter for Nasdaq at the company's MarketSite in Times Square. The two discussed the organization's goals.](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
 ![ro-logo-18-100 (1).png](/uploads/ro-logo-18-100%20(1).png)
 
