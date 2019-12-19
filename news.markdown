@@ -20,6 +20,10 @@ layout: about
 
 **[July 2019 - Greenwood Project: Tomorrow's Portfolio Managers](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)**[ - Zev Fima, Research Analyst with ActionAlertsPLUS, had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
+[![standard (1).png](/uploads/standard%20(1).png)](https://business.depaul.edu/news-events/Pages/201905/coleman-center-purpose-pitch-competition.aspx)
+
+**[June 2019 - DePaul Alumni and Students Pitch Startups at Purpose Pitch Competition - ](https://business.depaul.edu/news-events/Pages/201905/coleman-center-purpose-pitch-competition.aspx)**[Six DePaul alumni and students pitched their purpose-driven businesses at the Coleman Entrepreneurship Center​’s third annual Purpose Pitch Competition May 14. More than 250 people attended the competition, which was held at 1871, Chicago’s tech business incubator. ](https://business.depaul.edu/news-events/Pages/201905/coleman-center-purpose-pitch-competition.aspx)
+
 [![Driehaus-Business-Exchange-nameplate-3-temhid (1).png](/uploads/Driehaus-Business-Exchange-nameplate-3-temhid%20(1).png)](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)
 
 **[April 2019 - Bevon Joseph, A Leader for Career Access - ](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)**[An immigrant from Trinidad, graduate business student Bevon Joseph has forged his own path in tech, finance and nonprofit management since coming to the United States at 18 years old.](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)
