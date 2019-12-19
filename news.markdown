@@ -20,6 +20,10 @@ layout: about
 
 **[July 2019 - Greenwood Project: Tomorrow's Portfolio Managers](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)**[ - Zev Fima, Research Analyst with ActionAlertsPLUS, had a chance to sit down with three bright minds from Greenwood Project to discuss what they, as the next generation of investors, are watching.](https://www.thestreet.com/video/tomorrow-s-portfolio-managers-15018544)
 
+[![Driehaus-Business-Exchange-nameplate-3-temhid (1).png](/uploads/Driehaus-Business-Exchange-nameplate-3-temhid%20(1).png)](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)
+
+**[April 2019 - Bevon Joseph, A Leader for Career Access - ](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)**[An immigrant from Trinidad, graduate business student Bevon Joseph has forged his own path in tech, finance and nonprofit management since coming to the United States at 18 years old.](https://blogs.depaul.edu/business-exchange/2019/04/25/a-leader-for-career-access/)
+
 [![nasdaq-5cabca.png](/uploads/nasdaq-5cabca.png)](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
 
 **[Nasdaq Spotlight - The Greenwood Project](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)**[ - Bevon Joseph, President of the Greenwood Project sat down with Jill Malandrino, Global Markets Reporter for Nasdaq at the company's MarketSite in Times Square. The two discussed the organization's goals.](https://www.nasdaq.com/articles/nasdaq-spotlight-greenwood-project-2017-07-28)
