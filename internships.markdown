@@ -28,6 +28,7 @@ Applicants must be in attendance for the entire length of the program in order t
 
 ### 2020 Internship Timeline 
 * November: Application open
+* January 27, 2020: Deadline
 * May - June: Internship training program in progress
 * July to Aug: Internships in progress 
 
