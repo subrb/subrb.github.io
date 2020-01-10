@@ -47,4 +47,4 @@ The goal of the Greenwood Project Fintech program is to teach students how to co
 * Attire: Greenwood Project attire provided
 * Transportation: CTA passes provided
 
-**Application Period: November 20 - December 18 for 2020 cohort**
+**Application Period: November 20 - January 27 for 2020 cohort**
