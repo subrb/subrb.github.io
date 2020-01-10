@@ -53,7 +53,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 
 The program culminates with a graduation ceremony with student presentations.
 
-#### Application Period: November 20 - December 18 for 2020 cohort
+#### Application Period: November 20 - January 27 for 2020 cohort
 
 * * *
 
