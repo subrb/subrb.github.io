@@ -22,7 +22,7 @@ defaults:
     layout: page
 url: http://www.greenwoodproject.org
 description: Introducing minority students to the financial industry
-hs_financial_applications_open: true
+hs_financial_applications_open: false
 hs_fintech_applications_open: true
 college_applications_open: true
 year-stats:
