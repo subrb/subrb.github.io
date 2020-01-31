@@ -19,8 +19,7 @@ people:
   bio: Greenwood Project Founders
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
-  bio: Greenwood Board Chair | Principal/Co-Head of Fixed Income Sales at Sandler
-    O'Neill & Partners
+  bio: Greenwood Board Chair | Managing Director at Piper Sandler
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
   bio: Greenwood Secretary | CEO at dough
