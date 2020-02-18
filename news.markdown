@@ -6,7 +6,7 @@ layout: default
 
 ![nasdaq-2-09c3ba.png](/uploads/nasdaq-2-09c3ba.png)
 
-[February 2020 - **Greenwood Project Rings the Opening Bell** Greenwood Project, a Chicago based non-profit introducing academically talented minority students to careers in finance, visited the Nasdaq MarketSite in Times Square in honor of Black History Month. In honor of the occasion, Bevon Joseph, CEO, rang the Opening Bell.](https://www.nasdaq.com/events/greenwood-project-rings-the-opening-bell)
+**[February 2020** - **Greenwood Project Rings the Opening Bell** Greenwood Project, a Chicago based non-profit introducing academically talented minority students to careers in finance, visited the Nasdaq MarketSite in Times Square in honor of Black History Month. In honor of the occasion, Bevon Joseph, CEO, rang the Opening Bell.](https://www.nasdaq.com/events/greenwood-project-rings-the-opening-bell)
 
 ![WBlairLogo (1).png](/uploads/WBlairLogo%20(1).png)
 
