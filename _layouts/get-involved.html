@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="pop-up">
+        <a href="#" class="close-popup">CLOSE</a>
+        <a href="https://secure.lglforms.com/form_engine/s/Ss_NgTcUa76as8hExKjSuA">
+            <img src="/assets/img/pop-up.png" alt="" width="100%">
+        </a>
+    </div>
+
+    <div class="wrapper">
+
+        {% include header.html %}
+
+        <div class="title bg-green white lg-py2 h3 bold">
+            <div class="col-11 lg-col-10 mx-auto lg-py0 py2">
+                {{ page.title }}
+            </div>
+        </div>
+
+        <div class="bg-grey inner-page">
+            <div class="col-11 lg-col-10 mx-auto lg-py3">
+                {{ content }}
+            </div>
+        </div>
+
+        {% include action-bar.html %}
+
+        {% include footer.html %}
+
+    </div>
+
+  </body>
+
+</html>
