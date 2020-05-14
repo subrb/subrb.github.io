@@ -1,7 +1,7 @@
 ---
 title: Greenwood Project Continues Mission During COVID-19
 date: 2020-05-14 15:30:00 Z
-author-image: "/uploads/IMG_4738-054043.jpg"
+author-image: "/uploads/Screen%20Shot%202019-09-26%20at%2011.20.04%20AM.png"
 author-name: 'The Greenwood Project '
 feature-image: "/uploads/IMG_9746.jpg"
 ---
