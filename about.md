@@ -35,6 +35,9 @@ people:
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
+- name: Kwesi Smith
+  path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
+  bio: Global Senior Research Analyst at William Blair
 layout: about
 ---
 
