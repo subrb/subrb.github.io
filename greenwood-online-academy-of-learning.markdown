@@ -4,13 +4,13 @@ date: 2020-06-16 00:34:00 Z
 layout: internships
 ---
 
-VIRTUAL PROGRAMMING OFFERINGS
-
+**VIRTUAL PROGRAMMING OFFERINGS
+**
 Historically, the Greenwood Project has hosted live events, internships, and other programming for students
 each summer. With the onset of COVID-19, we have worked hard to bring all of our programming online.
 
-VIRTUAL CAREER TALKS
-
+**VIRTUAL CAREER TALKS
+**
 Live networking events have, historically, been a
 significant part of any Greenwood Scholar’s
 experience. Since we can no longer meet industry
@@ -23,8 +23,8 @@ Greenwood Scholars, we are now making these
 available to any high school or college student
 interested in the finance industry.
 
-VIRTUAL FINANCIAL CERTIFICATION PROGRAMS
-
+**VIRTUAL FINANCIAL CERTIFICATION PROGRAMS
+**
 This is a new program, born out of our desire to
 continue supporting students during COVID-19.
 Especially now, we want to help students build an
@@ -36,8 +36,8 @@ entry-level financial certification exams. Exams:
 Bloomberg BMC, CFA Institute Investment Foundations,
 Securities Industry Essentials® (SIE®).
 
-VIRTUAL CAREER READINESS & FINANCE INDUSTRY COURSES
-
+**VIRTUAL CAREER READINESS & FINANCE INDUSTRY COURSES
+**
 Each summer, the Greenwood Project hosts institutes for
 those Greenwood Scholars who are not taking on an
 internship. These were conducted live over the course of
