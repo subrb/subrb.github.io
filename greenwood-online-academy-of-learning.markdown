@@ -21,7 +21,13 @@ Live networking events have, historically, been a significant part of any Greenw
 
 **Virtual Financial Certification Programs**
 
-This is a new program, born out of our desire to continue supporting students during COVID-19. Especially now, we want to help students build an extremely strong resume. We want them to stand out when hiring resumes at financial corporations. So, we launched a program called “Investing in the Future of Finance” that offers scholarships for students to take entry-level financial certification exams. Exams: Bloomberg BMC, CFA Institute Investment Foundations, Securities Industry Essentials® (SIE®).
+This is a new program, born out of our desire to continue supporting students during COVID-19. Especially now, we want to help students build an extremely strong resume. We want them to stand out when hiring resumes at financial corporations. So, we launched a program called “Investing in the Future of Finance” that offers scholarships for students to take entry-level financial certification exams. 
+
+* Bloomberg BMC
+
+* CFA Institute Investment Foundations
+
+* Securities Industry Essentials® (SIE®).
 
 **Virtual Career Readiness & Finance Industry Courses**
 
