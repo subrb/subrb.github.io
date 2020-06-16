@@ -1,6 +1,11 @@
 ---
 title: Greenwood Online Academy of Learning
 date: 2020-06-16 00:34:00 Z
+images:
+- "/uploads/DSC_8718-2.jpg"
+- "/uploads/DSC_3097-2.jpg"
+- "/uploads/2019%20NYSE-2.JPG"
+- "/uploads/IMG_0057-2.jpg"
 layout: internships
 ---
 
