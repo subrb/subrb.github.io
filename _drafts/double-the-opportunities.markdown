@@ -16,7 +16,7 @@ tags:
 
 My name is Fatima Gutierrez and I am a rising Junior at Bradley University double majoring in Management and Leadership and Management Information System-Business Analytics with a minor in Spanish. 
 
-I first heard about the Greenwood Project during my freshman year at Bradley. I was reading the flyer posted on the wall while waiting for the elevators and I saw two words “Minority” and “Internships.” That was the moment I knew I had to look into this company.  Later in spring, I was able to meet Bevon at our spring career fair where I learned more about the Greenwood Project’s values and mission. Although I did not apply that summer, I always kept them in mind and later applied my sophomore year for Summer 2020. 
+I first heard about the Greenwood Project during my freshman year at Bradley. I was reading the flyer posted on the wall while waiting for the elevators and I saw two words “Minority” and “Internships.” That was the moment I knew I had to look into this company.  Later in spring, I was able to meet Bevon Joseph, the Co-founder and President of Greenwood, at our spring career fair where I learned more about the Greenwood Project’s values and mission. Although I did not apply that summer, I always kept them in mind and later applied my sophomore year for Summer 2020. 
 
 The Greenwood Project has been the best thing that has ever happened to me this summer. I have learned so much about networking, options trading, portfolio management, mortgage rates, stock investing, and the list goes on and on. Thanks to the Greenwood Project I have also been able to obtain my Bloomberg Market Concepts (BMC) Certification, study for my CFA Investment Foundation Certification, and learn how to use the Bloomberg Terminal. 
 
