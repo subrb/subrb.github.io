@@ -7,6 +7,9 @@ tags:
 - opportunities
 - University of Illinois Urbana-Champaign
 - College Cohort
+author-image: "/uploads/Camron.png"
+author-name: Camron Durr
+feature image: "/uploads/Camron_Durr.jpeg"
 ---
 
 My name is Camron Durr, a recent graduate of the University of Illinois at Urbana-Champaign majoring in Finance with a minor in the Hoeft Technology and Management Program (a joint venture between the Gies college of business and the Grainger College of Engineering). Just prior to my last semester of college I was ecstatic to receive an email from the school congratulating me for graduating into one of the strongest US economies ever. Unfortunately, a few months later the coronavirus pandemic caused many of the firms I was interviewing with, to freeze their hiring indefinitely. Around the same time, I was thankful to be accepted into the Greenwood project and from the very start, Bevon Joseph, the President of Greenwood, personally assisted me in finding employment.
