@@ -5,7 +5,7 @@ applications_open: true
 images:
 - path: "/uploads/IMG_8983.JPG"
 - path: "/assets/img/internship-2.jpg"
-- path: "/uploads/IMG_3056.JPG"
+- path: "/uploads/IMG_9120.png"
 layout: internships
 ---
 
