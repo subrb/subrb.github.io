@@ -8,6 +8,7 @@ tags:
 - Greenwood News
 - NFA
 - National Futures Assoication
+- University of Illinois Urbana-Champaign
 author-image: "/uploads/Brian_headshot.png"
 author-name: Brian Miller Jr.
 ---
