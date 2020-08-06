@@ -10,7 +10,7 @@ tags:
 - QCDC
 ---
 
-My name is Yomileigh Abdi, but everyone calls me Yomi. I am a rising Senior at Northside College Prep where I am the Editor-in-Chief of the school newspaper, a member of the Math Honor Society and in the Economics and Investment Club. This summer, I am continuing my research internship with Northwestern University where I assist a Political Science professor. I am also taking a finance course to prepare me for college.  
+My name is Yomileigh Abdi, but everyone calls me Yomi. I am a rising Senior at Northside College Prep where I am the Editor-in-Chief of the school newspaper, a member of the Math Honor Society and in the Economics and Investment Club. This summer, I am continuing my research internship with Northwestern University where I assist a Political Science professor as well as taking a finance course to prepare me for college, and interning with the Gr  
 
 ![Yomi_headshot.png](/uploads/Yomi_headshot.png)
 
