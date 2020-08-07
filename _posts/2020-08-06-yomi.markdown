@@ -1,6 +1,7 @@
 ---
 title: Not Your Typical Summer Program
 date: 2020-08-06 22:23:00 Z
+published: false
 categories:
 - High School Financial Institute
 - Greenwood News
