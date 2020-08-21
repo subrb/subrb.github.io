@@ -7,7 +7,7 @@ images:
 - name: 
   path: "/uploads/IMG_0057-2.jpg"
 - name: 
-  path: "/uploads/2019%20NYSE-2.JPG"
+  path: "/uploads/GP%20Cboe%20Bell%20Ringing.jpeg"
 layout: internships
 ---
 
