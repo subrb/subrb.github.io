@@ -12,7 +12,7 @@ author-image: "/uploads/Elijah_Action.png"
 Author-name: Elijah Crump
 ---
 
-My name is Elijah Crump and I am a Junior at Knox College where I Major in Integrative Business and Management. I am a 2020 Greenwood Scholar, and this summer proved to be one of the most unforgettable ever. I learned about the Greenwood Project during the summer of 2019 at a Knox College Black alumni event. At Knox, I am also on the men’s basketball team and a peer career leader in the career services office on campus. I am always interested in opportunities to expand my network and exposure to the business world, so I was very excited to learn about the Greenwood Project.
+My name is Elijah Crump and I am a Junior at Knox College where I Major in Integrative Business and Management. I am a 2020 Greenwood Scholar, and this summer proved to be one of the most unforgettable ever. I learned about the Greenwood Project during the summer of 2019 at a Knox College Black alumni event. At Knox, I am also on the men’s basketball team and a peer career leader in the career services office on campus. I am always interested in opportunities to expand my network and gain more exposure to the business world, so I was very excited to learn about the Greenwood Project.
 
 ![Elijah_Action.png](/uploads/Elijah_Action.png)
 
