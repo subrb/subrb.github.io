@@ -1,5 +1,5 @@
 ---
-title: From Studying Medicine to Understanding the Stock Market
+title: From Medicine to the Stock Market
 date: 2020-08-21 18:33:00 Z
 published: false
 categories:
