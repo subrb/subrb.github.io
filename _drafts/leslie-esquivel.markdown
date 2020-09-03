@@ -1,7 +1,6 @@
 ---
 title: I Am Driven to Succeed
 date: 2020-09-02 21:29:00 Z
-published: false
 categories:
 - Greenwood Project Fintech
 tags:
