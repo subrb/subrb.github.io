@@ -26,9 +26,6 @@ people:
 - name: Erich Tengelsen
   path: "/uploads/erich-tengelsen-2017.jpg"
   bio: Greenwood Treasurer | Co-Founder at Ridgeline Ventures
-- name: Jessica Ashley Garmon Esq
-  path: "/assets/img/board-members/2.png"
-  bio: Chief Operating Officer and General Counsel at The Will Group
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: CIO of Karman Line Capital and founder of Option Pit
