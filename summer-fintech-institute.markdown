@@ -2,21 +2,21 @@
 title: Summer High School FinTech Program
 date: 2019-06-26 17:23:00 Z
 images:
-- name:
+- name: 
   path: "/uploads/IMG_9746.jpg"
-- name:
+- name: 
   path: "/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg"
-- name:
+- name: 
   path: "/uploads/Niya%20Yates%20Headshot.png"
-- name:
+- name: 
   path: "/uploads/DSC_0225.jpg"
-- name:
+- name: 
   path: "/uploads/Salesforce_Resized.jpg"
-- name:
+- name: 
   path: "/uploads/FedBankResized.jpg"
-- name:
+- name: 
   path: "/uploads/Cboe_Resized.jpg"
-- name:
+- name: 
   path: "/uploads/IMG_9361.jpg"
 layout: summer-financial-institute
 ---
