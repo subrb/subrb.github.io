@@ -2,21 +2,21 @@
 title: Summer High School FinTech Program
 date: 2019-06-26 17:23:00 Z
 images:
-- name: 
+- name:
   path: "/uploads/IMG_9746.jpg"
-- name: 
+- name:
   path: "/uploads/72241147-E360-4A56-92D7-D8D06F4BA524.jpg"
-- name: 
+- name:
   path: "/uploads/Niya%20Yates%20Headshot.png"
-- name: 
+- name:
   path: "/uploads/DSC_0225.jpg"
-- name: 
+- name:
   path: "/uploads/Salesforce_Resized.jpg"
-- name: 
+- name:
   path: "/uploads/FedBankResized.jpg"
-- name: 
+- name:
   path: "/uploads/Cboe_Resized.jpg"
-- name: 
+- name:
   path: "/uploads/IMG_9361.jpg"
 layout: summer-financial-institute
 ---
@@ -24,7 +24,7 @@ layout: summer-financial-institute
 {% if site.hs_fintech_applications_open == true %}
 <div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
     <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
-    <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdI1uC2WygbsRDFVDc38SiWqgXKs7M67qmwp4JFpCnMynCO0w/viewform" class="button">Apply now</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7UxImSL4l48P-zzfhj_e6JbJB3AVAfY0DoEfn4QnWNDvOew/viewform?usp=sf_link" class="button">Apply now</a>
 </div>
 {% endif %}
 

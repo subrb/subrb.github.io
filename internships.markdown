@@ -9,6 +9,14 @@ images:
 layout: internships
 ---
 
+{% if site.college_applications_open == true %}
+<div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
+    <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScsYl2ejRgQUvGcPT0BTFZGAgUhiriSzfcLMukml82z1VQ-vw/viewform?usp=sf_link" class="button">Apply now</a>
+</div>
+{% endif %}
+
+
 Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
 
 The internship program is an intensive ten-week program culminating with a shark tank style pitch competition and funded brokerage account. Greenwood Scholars also participate in lunch and learn sessions with various employers in Chicago; visit NYC for an annual Wall Street Tour; and participate in other industry relevant events.
@@ -18,7 +26,7 @@ Greenwood's Summer Internship Program combines three weeks of academic instructi
 Applicants must be in attendance for the entire length of the program in order to be considered.
 
 #### PROGRAM DETAILS
- 
+
 *   The internship program runs May through August.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
@@ -26,10 +34,10 @@ Applicants must be in attendance for the entire length of the program in order t
 *   Scholars shadow specific employees and develop a mentor-mentee relationship that has, thus far, lasted well beyond the internship.
 *   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
 
-### 2020 Internship Timeline 
+### 2020 Internship Timeline
 * November: Application open
 * January 27, 2020: Deadline
 * May - June: Internship training program in progress
-* July to Aug: Internships in progress 
+* July to Aug: Internships in progress
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
