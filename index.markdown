@@ -13,8 +13,6 @@ partners:
   width: 140px
 - path: "/assets/img/sponsors/nyse.png"
   width: 110px
-- path: "/assets/img/sponsors/td.png"
-  width: 140px
 layout: index
 ---
 
