@@ -45,4 +45,6 @@ After this 4-week intensive training, students begin a 6-week internship with th
 
 Applicants must be in attendance for the entire length of the program in order to be considered.
 
+Our internships take place in the U.S. and require prior authorization to work in the U.S. If you are not currently a U.S. citizen or Permanent Resident, please check if your school offers CPT/OPT and is willing to sponsor your internship before applying to our program.
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScsYl2ejRgQUvGcPT0BTFZGAgUhiriSzfcLMukml82z1VQ-vw/viewform?usp=sf_link" class="button block center p1 black">Apply Here</a>
