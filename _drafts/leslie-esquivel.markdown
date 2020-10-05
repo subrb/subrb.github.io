@@ -20,8 +20,6 @@ My school only has a limited amount of computer science classes; thus, while sea
 
 Greenwood has opened various opportunities for me. I began my internship this summer with only the knowledge of one programming language, JavaScript. I left knowing two additional languages, Python and R. I can apply these languages in my career to solve financial problems such as the analysis of stocks. The Greenwood Project also demonstrated the importance of a good resume and professional etiquette, leading me to create an outstanding resume after various workshops.  
 
-[Leslie_Actionjpg](/uploads/Leslie_Actionjpg)
-
 I gained knowledge in computer science languages; I was also introduced into the world of finance. I entered with minimal experience in stocks and investing and managed to understand the importance of analyzing stocks and different investing forms. I learned about careers where finance and computer science are combined, allowing me to understand all the available opportunities for me once I earn my degree in college. 
 
 Finally, I have ended my summer with strong principles that would not have been possible without Greenwood. Regardless of the situation or the people around me, I can be successful as long as I remain motivated, confident, and driven to succeed in my chosen field. I am thankful for all the career talk speakers for elaborating on these principals. Special thanks to Bevon Joseph, the President of Greenwood, who allowed me to participate in this fantastic opportunity.
