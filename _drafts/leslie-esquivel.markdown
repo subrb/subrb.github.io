@@ -9,7 +9,7 @@ tags:
 - Python
 Autor-image: Leslie Esquivel
 Author-name: Leslie Esquivel
-feature-image: "/uploads/Leslie_Actionjpg-ef969b"
+feature-image: "/uploads/Leslie_Photo.jpg"
 ---
 
 My name is Leslie Esquivel. I am a rising Senior at John Hancock College Preparatory with a passion for math and technology. After taking multiple computer science courses and my summer with the Greenwood Project, I aspire to pursue a career in the engineering field, notably Computer Science.
