@@ -411,7 +411,7 @@ li::before {
   position: relative; }
   .hero .yellow-box {
     position: relative;
-    bottom: 64px;
+    bottom: -120px;
     opacity: .7; }
   .hero .hero-text {
     font-size: 34px;
