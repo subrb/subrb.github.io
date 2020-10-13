@@ -1,7 +1,6 @@
 $(document).ready(function() {
       $('.programs-link').click(function(){
-          $('.dropdown').slideToggle(5);
-          $('.programs-link').toggleClass('active');
+          $(this).next(".dropdown").slideToggle("fast").toggleClass('active');
       });
 
      $('.donate-btn').click(function(){

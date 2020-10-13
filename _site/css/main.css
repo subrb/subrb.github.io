@@ -202,6 +202,8 @@ pre {
   border-radius: 4px; }
   .nav .dropdown:hover {
     display: block; }
+  .nav .dropdown.apply {
+    left: 590px !important; }
 
 .nav .dropdown a {
   display: block;
