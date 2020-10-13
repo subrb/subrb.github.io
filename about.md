@@ -34,7 +34,7 @@ people:
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
-  bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair
+  bio: "Greenwood Board Chair | \nGlobal Senior Research Analyst at William Blair"
 layout: about
 ---
 
