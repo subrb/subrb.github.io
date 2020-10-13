@@ -19,7 +19,7 @@ people:
   bio: Greenwood Project Founders
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
-  bio: Greenwood Board Chair | Managing Director at Piper Sandler
+  bio: Managing Director at Piper Sandler
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
   bio: Greenwood Secretary | CEO at dough
@@ -34,7 +34,7 @@ people:
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
-  bio: Global Senior Research Analyst at William Blair
+  bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair
 layout: about
 ---
 
