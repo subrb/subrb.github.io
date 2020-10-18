@@ -202,8 +202,6 @@ pre {
   border-radius: 4px; }
   .nav .dropdown:hover {
     display: block; }
-  .nav .dropdown.apply {
-    left: 590px !important; }
 
 .nav .dropdown a {
   display: block;
@@ -228,7 +226,8 @@ pre {
   display: inline;
   float: right;
   font-size: 18px;
-  z-index: 1000; }
+  z-index: 1000;
+  position: relative; }
 
 .nav > .nav-links > a {
   display: inline-block;
@@ -244,6 +243,12 @@ pre {
 
 .nav > #nav-check {
   display: none; }
+
+.dropdown--wrapper {
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid transparent;
+  position: relative; }
 
 @media (max-width: 600px) {
   .nav > .nav-btn {

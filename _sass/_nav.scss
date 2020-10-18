@@ -29,10 +29,6 @@
     &:hover {
         display: block;
     }
-
-    &.apply {
-        left: 590px !important;
-    }
 }
 
 
@@ -67,6 +63,7 @@
   float: right;
   font-size: 18px;
   z-index: 1000;
+  position: relative;
 }
 
 .nav > .nav-links > a {
@@ -85,6 +82,13 @@
 
 .nav > #nav-check {
   display: none;
+}
+
+.dropdown--wrapper {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid transparent;
+    position: relative;
 }
 
 @media (max-width:600px) {
