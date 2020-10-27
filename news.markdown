@@ -4,6 +4,11 @@ date: 2019-11-25 17:00:00 Z
 layout: get-involved
 ---
 
+![FRBC logo-blue-png.jpg](/uploads/FRBC%20logo-blue-png.jpg)
+
+**[October 2020 - Greenwood President Bevon Joseph - The Future of Innovation in an Inclusive Chicago
+](https://www.chicagofed.org/events/project-hometown/future-of-innovation)** - [This forum is a new initiative from the Chicago Fed that aims to foster discussion around the challenges and opportunities confronting hometowns in the Seventh District. Chicago is a global hub for innovation in finance, technology, and other sectors. Yet continued innovation is not a given, and the makeup of the city’s population has not been reflected in its most innovative industries. How can Chicago’s history of innovation continue, and how can it include all residents of the city?.](https://www.chicagofed.org/events/project-hometown/future-of-innovation)
+
 ![nasdaq-2-09c3ba.png](/uploads/nasdaq-2-09c3ba.png)
 
 **[February 2020 - Greenwood Project Rings the Opening Bell](https://www.nasdaq.com/events/greenwood-project-rings-the-opening-bell)** - [Greenwood Project, a Chicago based non-profit introducing academically talented minority students to careers in finance, visited the Nasdaq MarketSite in Times Square in honor of Black History Month. In honor of the occasion, Bevon Joseph, CEO, rang the Opening Bell.](https://www.nasdaq.com/events/greenwood-project-rings-the-opening-bell)
