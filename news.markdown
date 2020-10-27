@@ -4,7 +4,7 @@ date: 2019-11-25 17:00:00 Z
 layout: get-involved
 ---
 
-![FRBC logo-blue-png (2).jpg](/uploads/FRBC%20logo-blue-png%20(2).jpg)
+![FRBC logo-blue-png (3).jpg](/uploads/FRBC%20logo-blue-png%20(3).jpg)
 
 **[October 2020 - Greenwood President Bevon Joseph - The Future of Innovation in an Inclusive Chicago
 ](https://www.chicagofed.org/events/project-hometown/future-of-innovation)** - [This forum is a new initiative from the Chicago Fed that aims to foster discussion around the challenges and opportunities confronting hometowns in the Seventh District. Chicago is a global hub for innovation in finance, technology, and other sectors. Yet continued innovation is not a given, and the makeup of the city’s population has not been reflected in its most innovative industries. How can Chicago’s history of innovation continue, and how can it include all residents of the city?.](https://www.chicagofed.org/events/project-hometown/future-of-innovation)
