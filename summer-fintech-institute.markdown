@@ -43,8 +43,8 @@ The goal of the Greenwood Project Fintech program is to teach students how to co
 * Min GPA: 3.0, Students must have an interest in coding
 * Schedule: July - August, Mon to Thur 9:00 am - 2:00 pm
 * Location: Loop - Downtown Chicago
-* Compensation: $600 Stipend
+* Compensation: $12 Per Hour Stipend
 * Attire: Greenwood Project attire provided
 * Transportation: CTA passes provided
 
-**Application Period: November 20 - January 27 for 2020 cohort**
+**Application Period: November 20 - February 1 for 2020 cohort**
