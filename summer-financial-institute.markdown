@@ -38,7 +38,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 * Min GPA: 3.0
 * Schedule: July - August
 * Location: Downtown Chicago
-* Compensation: $600 Stipend
+* Compensation: $12 Per Hour Stipend
 * Attire: Greenwood Project attire provided
 * Transportation: CTA passes provided
 
@@ -53,7 +53,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 
 The program culminates with a graduation ceremony with student presentations.
 
-#### Application Period: November 20 - January 27 for 2020 cohort
+#### Application Period: November 20 - Feburary 1 for 2021 cohort
 
 * * *
 
