@@ -19,7 +19,7 @@ layout: internships
 
 Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships help students succeed in their first job and sets them up for long-term career success, extending the value of their college degree.
 
-The internship program is an intensive ten-week program culminating with a shark tank style pitch competition and funded brokerage account. Greenwood Scholars also participate in lunch and learn sessions with various employers in Chicago; visit NYC for an annual Wall Street Tour; and participate in other industry relevant events.
+The internship program is an intensive ten-week program culminating with a shark tank style pitch competition and a funded brokerage account. Greenwood Scholars also participate in lunch and learn sessions with various employers in Chicago; visit NYC for an annual Wall Street Tour, and participate in other industry-relevant events.
 
 Greenwood's Summer Internship Program combines three weeks of academic instruction followed by seven weeks of real-world experience at a leading financial firm.  It is intensive, immersive and an incredible opportunity to explore a career in finance and investment as part of a supportive community.
 
@@ -36,7 +36,7 @@ Applicants must be in attendance for the entire length of the program in order t
 
 ### 2020 Internship Timeline
 * November: Application open
-* January 27, 2020: Deadline
+* December 1, 2020: Deadline
 * May - June: Internship training program in progress
 * July to Aug: Internships in progress
 
