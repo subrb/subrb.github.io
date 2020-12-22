@@ -61,19 +61,25 @@
                         {% endfor %}
                     </div>
 
-                   <!--  <div class="clearfix mt3 mxn3">
-                        {% for item in page.people %}
-                        <div class="thumbnail lg-col-4 col-12 col m2 center">
-                            <div class="avatar">
-                                <img src="{{ item.path }}" alt="" width="115px" class="mb3">
+                    <div class="h3 bold lg-mb3 mb1 mt2 lg-mt3 center">Meet Our Team</div>
+
+                    <div class="flex flex-wrap mxn1">
+                        {% for item in page.team %}
+                        <div class="col-12 lg-col-4 px1 center mb3">
+                            <div class="content p3 thumbnail">
+                                <div class="avatar">
+                                    <img src="{{ item.path }}" alt="" width="115px" class="mb3">
+                                </div>
+                                <div class="bold">{{ item.name }}</div>
+                                <p>
+                                    {{ item.bio }}
+                                </p>
                             </div>
-                            <div class="h3 bold">{{ item.name }}</div>
-                            <p class="mb0">
-                                {{ item.bio }}
-                            </p>
                         </div>
                         {% endfor %}
-                    </div> -->
+                    </div>
+
+
                 </div>
 
         </div>

@@ -15,7 +15,7 @@ about-blurb:
     to enter the financial services industry.
 people:
 - name: Bevon & Elois Joseph
-  path: "/uploads/IMG_4738.jpg"
+  path: "/assets/img/team/bevon-elois.jpg"
   bio: Greenwood Project Founders
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
@@ -35,6 +35,13 @@ people:
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
   bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair
+team:
+- name: Charles Turner
+  path: "/assets/img/team/charles.jpg"
+- name: Diane Rodriguez Rand
+  path: "/assets/img/team/diana.jpg"
+- name: Kevin Perkins
+  path: "/assets/img/team/kevin.jpg"
 layout: about
 ---
 
