@@ -40,8 +40,6 @@ team:
   path: "/assets/img/team/charles.jpg"
 - name: Diane Rodriguez Rand
   path: "/assets/img/team/diana.jpg"
-- name: Kevin Perkins
-  path: "/assets/img/team/kevin.jpg"
 layout: about
 ---
 
