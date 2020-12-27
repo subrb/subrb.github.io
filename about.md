@@ -38,8 +38,10 @@ people:
 team:
 - name: Charles Turner
   path: "/assets/img/team/charles.jpg"
+  bio: Program Coordinator
 - name: Diane Rodriguez Rand
   path: "/assets/img/team/diana.jpg"
+  bio: Director of Partnerships
 layout: about
 ---
 
