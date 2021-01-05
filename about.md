@@ -25,10 +25,10 @@ people:
   bio: Greenwood Secretary | CEO at dough
 - name: Erich Tengelsen
   path: "/uploads/erich-tengelsen-2017.jpg"
-  bio: Greenwood Treasurer | Co-Founder at Ridgeline Ventures
+  bio: Co-Founder at Ridgeline Ventures
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
-  bio: CIO of Karman Line Capital and founder of Option Pit
+  bio: Greenwood Treasurer | CIO of Karman Line Capital and founder of Option Pit
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
