@@ -5,7 +5,7 @@ partners:
   width: 140px
 - path: "/uploads/WB_logo.png"
   width: 140px
-- path: "/uploads/Piper_Sandler_logo.png"
+- path: "/uploads/Piper_Sandler_logo-cc831e.png"
   width: 140px
 - path: "/uploads/Cboe_Global_Markets_Logo-04f602.png"
   width: 140px
