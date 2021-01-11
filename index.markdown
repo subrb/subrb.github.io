@@ -7,8 +7,6 @@ partners:
   width: 140px
 - path: "/assets/img/sponsors/cmegroup.png"
   width: 140px
-- path: "/assets/img/sponsors/google.png"
-  width: 140px
 - path: "/assets/img/sponsors/nasdaq.png"
   width: 140px
 - path: "/assets/img/sponsors/nyse.png"
