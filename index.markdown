@@ -9,7 +9,7 @@ partners:
   width: 140px
 - path: "/assets/img/sponsors/nasdaq.png"
   width: 140px
-- path: "/assets/img/sponsors/nyse.png"
+- path: "/uploads/Peak6_logo.png"
   width: 110px
 layout: index
 ---
