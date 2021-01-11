@@ -7,7 +7,7 @@ partners:
   width: 140px
 - path: "/assets/img/sponsors/cmegroup.png"
   width: 140px
-- path: "/assets/img/sponsors/nasdaq.png"
+- path: "/uploads/Cboe_Global_Markets_Logo.png"
   width: 140px
 - path: "/uploads/Peak6_logo.png"
   width: 110px
