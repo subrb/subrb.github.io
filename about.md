@@ -23,9 +23,6 @@ people:
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
   bio: Greenwood Secretary | CEO at dough
-- name: Erich Tengelsen
-  path: "/uploads/erich-tengelsen-2017.jpg"
-  bio: Co-Founder at Ridgeline Ventures
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: Greenwood Treasurer | CIO of Karman Line Capital and founder of Option Pit
