@@ -32,6 +32,9 @@ people:
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
   bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair
+- name: Mike Rothkopf
+  path: "/uploads/Peak6_logo.png"
+  bio: Partner at PEAK6 Investments
 team:
 - name: Charles Turner
   path: "/assets/img/team/charles.jpg"
