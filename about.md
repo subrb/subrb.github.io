@@ -63,7 +63,10 @@ people:
     and Breakthrough.
 - name: Mike Rothkopf
   path: "/uploads/Peak6_logo.png"
-  bio: Partner at PEAK6 Investments
+  bio: 'Partner at PEAK6 Investments. Mike is a partner at PEAK6 Investments. Previously,
+    he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief
+    Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
+    the University of Illinois in Finance (1990). '
 team:
 - name: Charles Turner
   path: "/assets/img/team/charles.jpg"
