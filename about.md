@@ -19,10 +19,22 @@ people:
   bio: Greenwood Project Founders
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
-  bio: Managing Director at Piper Sandler
+  bio: 'Managing Director at Piper Sandler. Mike is currently a Managing Director
+    at Piper Sandler, focusing primarily on fixed income securities and capital raising.
+    In2017, he joined the board of the Greenwood Project and served as board chair
+    from 2019 -2020. His passion for helping students often takes him back to his
+    alma mater Tulane University, where he helps students understand all the different
+    job opportunities on Wall Street. '
 - name: Victor Jones
   path: "/uploads/Victor_HS_0.jpeg"
-  bio: Greenwood Secretary | CEO at dough
+  bio: 'Greenwood Secretary | CEO at dough. Victor is the CEO of Dough, the investing
+    app with unlimited commission-free stock trading, zero account minimums, and iOS
+    and Android apps filled with smart ideas. Jones’s mission is to inspire the world
+    to embrace an understanding of risk, take control of their money, and make more
+    of it. The former director of Trading and Operations at TD Ameritrade, lifelong
+    innovator, and inspiring financial storyteller has spent his entire finance career
+    in service of retail investors. In his previous role, Victor spearheaded trading
+    innovation initiatives in both the United States and Asia. '
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
   bio: Greenwood Treasurer | CIO of Karman Line Capital and founder of Option Pit.
@@ -33,10 +45,22 @@ people:
     News.
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
-  bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
+  bio: 'Managing Partner and Chief Investment Officer of Headwaters Solutions LP.
+    Matt is the Managing Partner and Chief Investment Officer at Headwaters Solutions
+    LP. He brings 20 years of experience managing global portfolios, teams, and risk
+    in multiple strategies and asset classes including Convertible, Capital Structure,
+    and Merger Arbitrage, Volatility, Correlation, Fundamental, and Quantitative to
+    the firm. Matt earned his BA from Wittenberg. Matt currently serves on the Board
+    of Directors of New York City Outward Bound Schools, is a member of the Board
+    of Directors of Chicago-based Greenwood Project, and is an active supporter of
+    the Navy SEAL Foundation. '
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
-  bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair
+  bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair. Kwesi
+    is Senior Research Analyst at William Blair focused on evaluating consumer investments.
+    He is passionate about giving back to the community and proud to serve as the
+    current Board Chair of the Greenwood Project. He is also on the board of 3Arts
+    and Breakthrough.
 - name: Mike Rothkopf
   path: "/uploads/Peak6_logo.png"
   bio: Partner at PEAK6 Investments
