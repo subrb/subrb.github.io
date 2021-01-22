@@ -62,7 +62,7 @@ people:
     current Board Chair of the Greenwood Project. He is also on the board of 3Arts
     and Breakthrough.
 - name: Mike Rothkopf
-  path: "/uploads/Peak6_logo.png"
+  path: "/uploads/IMG_4417-removebg-preview.png"
   bio: 'Partner at PEAK6 Investments. Mike is a partner at PEAK6 Investments. Previously,
     he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief
     Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
