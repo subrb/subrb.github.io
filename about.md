@@ -25,7 +25,12 @@ people:
   bio: Greenwood Secretary | CEO at dough
 - name: Mark Sebastian
   path: "/assets/img/board-members/5.png"
-  bio: Greenwood Treasurer | CIO of Karman Line Capital and founder of Option Pit
+  bio: Greenwood Treasurer | CIO of Karman Line Capital and founder of Option Pit.
+    Mark is the Chief Investment Officer at Karman Line Capital and Founder of Option
+    Pit. He is a former member of both the ChicagoBoard Options Exchange and the American
+    Stock Exchange. Mark is the resident VIX expert for Mad Money with Jim Cramer.
+    He is a frequent guest on CNBC, Fox Business News, Bloomberg, and First Business
+    News.
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: Managing Partner and Chief Investment Officer of Headwaters Solutions LP
