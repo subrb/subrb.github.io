@@ -19,7 +19,7 @@ Applicants must be in attendance for the entire length of the program in order t
 
 <h3>High School FinTech Institute Application</h3>
 
-**Due Februray 1st. Applicants will be accepted on a rolling basis.**
+**Due March 3rd. Applicants will be accepted on a rolling basis.**
 
 Students who are accepted into the Greenwood Project High School FinTech Institute will experience a 6-week introduction to coding and the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
