@@ -7,6 +7,8 @@ layout: get-involved
 
 **Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
+Program Dates: July 5 to August 13, 2021 (9-5 M-F) 
+
 Students who are accepted into the Greenwood Project High School Financial Institute will experience a 6-week introduction to the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
 Your program will take place in downtown Chicago. However, pending COVID-19 developments, this program may be all virtual. During this program, you will work to finish between 15-20 short courses about career skills and beginning financial industry topics. There will be many networking events and opportunities during the training as well, where you and your cohort will meet with financial industry companies, executives, and employees. The final project for your program is a Stock Pitch Competition. You and a small team of other scholars will use the skills built during the program to research and evaluate a company, pitch that company to potential investors, and answer questions from judges about your conclusions.
