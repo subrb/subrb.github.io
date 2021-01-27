@@ -9,6 +9,8 @@ layout: get-involved
 
 <h3>College Internship Program</h3>
 
+Applications due February 3rd. Final decisions released no later than February 20th. 
+
 You should prepare the following materials before you begin the online application. Once you start the application, you should plan to finish it at that time. You cannot save your application and work on it later. If you have the following materials prepared, the application should take less than one hour to complete.
 
 If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please email all attachments to [info@greenwoodproject.org](mailto:info@greenwoodproject.org).
@@ -22,6 +24,8 @@ If, for any reason, you cannot submit the Google Form with the attachments (typi
 *   Personal reference name, phone number, and email address
 
 <h3>High School Institutes</h3>
+
+Applications due March 3rd. Final decisions released no later than April 1st. 
 
 You should prepare the following materials before you begin the online application. Once you start the application, you should plan to finish it at that time. You cannot save your application and work on it later. If you have the following materials prepared, the application should take less than one hour to complete.
 
