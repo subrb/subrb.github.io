@@ -5,7 +5,7 @@ layout: get-involved
 
 <h3>College Internship Program Application</h3>
 
-**Due February 3. Applicants will be accepted on a rolling basis and should be expected to be contacted for an interview.**
+**Due February 3. Applicants will be accepted on a rolling basis and should be expected to be contacted for an interview. Final decisions released no later than February 20th.**
 
 Greenwood believes that the best part of an internship is that it teaches a young person about a specific industry and company. Investing in internships helps students succeed in their first job and sets them up for long-term career success. Students who are accepted into the Greenwood Project College Internship Program will be placed into a 6-week internship experience and are required to attend a 4-week intensive training. All students are paid an hourly wage throughout their 10-week experience and receive a funded brokerage account upon successful completion of the program.
 
