@@ -5,7 +5,7 @@ layout: get-involved
 
 <h3>High School Financial Institute Application</h3>
 
-**Due March 3rd. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
+**Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
 Students who are accepted into the Greenwood Project High School Financial Institute will experience a 6-week introduction to the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
@@ -19,7 +19,7 @@ Applicants must be in attendance for the entire length of the program in order t
 
 <h3>High School FinTech Institute Application</h3>
 
-**Due March 3rd. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
+**Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
 Students who are accepted into the Greenwood Project High School FinTech Institute will experience a 6-week introduction to coding and the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
