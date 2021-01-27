@@ -23,6 +23,8 @@ Applicants must be in attendance for the entire length of the program in order t
 
 **Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
+Program Dates: July 5 to August 13, 2021 (9-5 M-F) 
+
 Students who are accepted into the Greenwood Project High School FinTech Institute will experience a 6-week introduction to coding and the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
 Your program will take place in downtown Chicago. However, pending COVID-19 developments, this program may be all virtual. During this program, you will learn to code in Python and R, take a few short courses on career skills, and complete a final coding project using stock market data. There will be many networking events and opportunities during the training as well, where you and your cohort will meet with financial industry companies, executives, and employees. The final project for your program is a coding project, where you and a small team of other scholars will use the skills built during the program to develop an efficient way to manipulate stock market data using Python and R. You will present your work to financial sector employees who work with code every day.
