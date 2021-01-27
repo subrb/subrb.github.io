@@ -7,7 +7,7 @@ layout: get-involved
 
 <span style="font-weight: bold;">Application Checklist and FAQ </span>
 
-College Internship Program 
+College Internship Program (Due February 3rd, Final Decisions by February 20th) 
 
 You should prepare the following materials before you begin the online application. Once you start the application, you should plan to finish it at that time. You cannot save your application and work on it later. If you have the following materials prepared, the application should take less than one hour to complete. 
 
@@ -21,7 +21,7 @@ If, for any reason, you cannot submit the Google Form with the attachments (typi
 *   Academic reference name, phone number, and email address 
 *   Personal reference name, phone number, and email address 
 
-High School Institutes 
+High School Institutes (Due March 3rd, final decisions by April 1st) 
 
 You should prepare the following materials before you begin the online application. Once you start the application, you should plan to finish it at that time. You cannot save your application and work on it later. If you have the following materials prepared, the application should take less than one hour to complete. 
 
