@@ -5,7 +5,7 @@ layout: get-involved
 
 <h3>High School Financial Institute Application</h3>
 
-**Due February 1st. Applicants will be accepted on a rolling basis.**
+**Due March 3rd. Applicants will be accepted on a rolling basis.**
 
 Students who are accepted into the Greenwood Project High School Financial Institute will experience a 6-week introduction to the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
