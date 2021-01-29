@@ -34,6 +34,8 @@ If, for any reason, you cannot submit the Google Form with the attachments (typi
 **[Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
 **[Click Here to Download the Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)**<br>
 
+Note: Note: None of these questions will impact your admission. Mostly, this is necessary data we need to have on file for every student. It is important for our communication with you, how we design the curriculum, obtaining grants to help fund our program, and providing you with any necessary technology you need. So, please do answer all of the questions honestly and completely.
+
 *   Resume in .docx (Microsoft Word) format
 *   Resume in .pdf format
 *   500 word essay answering the prompt: “Why do you want to be a Greenwood Scholar?”
