@@ -17,8 +17,6 @@ Applicants must be in attendance for the entire length of the program in order t
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScdfmW0yKjLdHHDk0OAw7pj2TiFscZWna7SNjBUj0x1dbAAgw/viewform?usp=sf_link" class="button block center p1 black">Apply Here</a>
 
-<hr/>
-
 If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please download the 2021 High School Institutes Application and Cheat Sheet below. Complete the application and email all materials to [charles.turner@greenwoodproject.org](mailto:charles.turner@greenwoodproject.org).
 
 **[Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
@@ -28,6 +26,8 @@ If, for any reason, you cannot submit the Google Form with the attachments (typi
 *   Resume in .pdf format
 *   500 word essay answering the prompt: “Why do you want to be a Greenwood Scholar?”
 *   High school transcript
+
+<hr/>
 
 <h3>High School FinTech Institute Application</h3>
 
