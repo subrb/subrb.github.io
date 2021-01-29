@@ -31,8 +31,8 @@ You should prepare the following materials before you begin the online applicati
 
 If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please download the 2021 High School Institutes Application and Cheat Sheet below. Complete the application and email all materials to [charles.turner@greenwoodproject.org](mailto:charles.turner@greenwoodproject.org).
 
-**### [Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
-### [Click Here to Download the Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)**** <br>
+**[Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
+**[Click Here to Download the Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)**<br>
 
 *   Resume in .docx (Microsoft Word) format
 *   Resume in .pdf format
