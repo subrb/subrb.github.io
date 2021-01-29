@@ -38,7 +38,6 @@ If, for any reason, you cannot submit the Google Form with the attachments (typi
 *   Resume in .pdf format
 *   500 word essay answering the prompt: “Why do you want to be a Greenwood Scholar?”
 *   High school transcript
-*   Reference name, phone number, and email address
 
 <h3>FAQs</h3>
 
