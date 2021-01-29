@@ -29,7 +29,10 @@ Applications due March 5th. Final decisions released no later than April 1st.
 
 You should prepare the following materials before you begin the online application. Once you start the application, you should plan to finish it at that time. You cannot save your application and work on it later. If you have the following materials prepared, the application should take less than one hour to complete.
 
-If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please email all attachments to [info@greenwoodproject.org](mailto:info@greenwoodproject.org).
+If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please download the 2021 High School Institutes Application and Cheat Sheet below. Complete the application and email all materials to [charles.turner@greenwoodproject.org](mailto:charles.turner@greenwoodproject.org).
+
+[2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)
+[Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)
 
 *   Resume in .docx (Microsoft Word) format
 *   Resume in .pdf format
