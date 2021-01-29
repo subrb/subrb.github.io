@@ -19,6 +19,16 @@ Applicants must be in attendance for the entire length of the program in order t
 
 <hr/>
 
+If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please download the 2021 High School Institutes Application and Cheat Sheet below. Complete the application and email all materials to [charles.turner@greenwoodproject.org](mailto:charles.turner@greenwoodproject.org).
+
+**[Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
+**[Click Here to Download the Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)**<br>
+
+*   Resume in .docx (Microsoft Word) format
+*   Resume in .pdf format
+*   500 word essay answering the prompt: “Why do you want to be a Greenwood Scholar?”
+*   High school transcript
+
 <h3>High School FinTech Institute Application</h3>
 
 **Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
@@ -32,3 +42,13 @@ Your program will take place in downtown Chicago. However, pending COVID-19 deve
 Applicants must be in attendance for the entire length of the program in order to be considered.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7UxImSL4l48P-zzfhj_e6JbJB3AVAfY0DoEfn4QnWNDvOew/viewform?usp=sf_link" class="button block center p1 black">Apply Here</a>
+
+If, for any reason, you cannot submit the Google Form with the attachments (typically due to security settings on your network), please download the 2021 High School Institutes Application and Cheat Sheet below. Complete the application and email all materials to [charles.turner@greenwoodproject.org](mailto:charles.turner@greenwoodproject.org).
+
+**[Click Here to Download the 2021 High School Application](/uploads/2021%20High%20School%20Application.xlsx)**<br>
+**[Click Here to Download the Cheat Sheet](/uploads/2021%20Greenwood%20Project%20Application%20Cheat%20Sheet.pdf)**<br>
+
+*   Resume in .docx (Microsoft Word) format
+*   Resume in .pdf format
+*   500 word essay answering the prompt: “Why do you want to be a Greenwood Scholar?”
+*   High school transcript
