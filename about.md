@@ -16,7 +16,22 @@ about-blurb:
 people:
 - name: Bevon & Elois Joseph
   path: "/assets/img/team/bevon-elois.jpg"
-  bio: Greenwood Project Founders
+  bio: "Greenwood Project Founders | Originally from Trinidad & Tobago, Bevonmoved
+    to the United States after high school to further his education. He is a graduate
+    of DePaul University. Bevon’scareer has been exclusively in the trading industry,
+    specifically in technology. He's worked at financial institutions such as JPMorgan,
+    Morgan Stanley, UBS, Chicago Trading Company, PEAK6 Investments, and Achievement
+    Asset Management. Bevonalso worked on the trading floors of the NYSE, NYMEX, and
+    AMEX. Mr. Joseph firmly believes that kids can't be what they can't see. There
+    is no lack of talent, only a lack of opportunity. \n\nElois L. Joseph is a Co-Founder
+    of the Greenwood Project. Prior to establishing the organization, she worked on
+    the trading floor of the Chicago Board Options Exchange (Cboe). As a financial
+    professional, she attained many licenses and worked in the compliance examination
+    division for an industry regulator. Elois grew up on the west side of Chicago,
+    earned an MBA from Northern Illinois University, and a BA in Journalism from Columbia
+    College Chicago. She is proud to be the first in her family to create generational
+    wealth and to have the opportunity to teach this process to others through the
+    Greenwood Project."
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
   bio: 'Managing Director at Piper Sandler. Mike is currently a Managing Director
