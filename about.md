@@ -18,7 +18,7 @@ people:
   path: "/assets/img/team/bevon-elois.jpg"
   bio: "Greenwood Project Founders | Originally from Trinidad & Tobago, Bevon moved
     to the United States after high school to further his education. He is a graduate
-    of DePaul University. Bevon’scareer has been exclusively in the trading industry,
+    of DePaul University. Bevon’s career has been exclusively in the trading industry,
     specifically in technology. He's worked at financial institutions such as JPMorgan,
     Morgan Stanley, UBS, Chicago Trading Company, PEAK6 Investments, and Achievement
     Asset Management. Bevon also worked on the trading floors of the NYSE, NYMEX,
