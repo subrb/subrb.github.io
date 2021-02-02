@@ -11,8 +11,8 @@ layout: internships
 
 {% if site.college_applications_open == true %}
 <div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
-    <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScsYl2ejRgQUvGcPT0BTFZGAgUhiriSzfcLMukml82z1VQ-vw/viewform?usp=sf_link" class="button">Apply now</a>
+    <div class="h3">Applications are now open for college students! Please submit your information by following the link below.</div>
+    <a href="http://greenwoodproject.org/college-apply/" class="button">Apply now</a>
 </div>
 {% endif %}
 
@@ -27,17 +27,17 @@ Applicants must be in attendance for the entire length of the program in order t
 
 #### PROGRAM DETAILS
 
-*   The internship program runs May through August.
+*   The internship program runs June 7th through August 13th.
 *   Training workshops educate Scholars on all facets of the professional world from how to dress and speak to building a professional resume.
 *   Continuing education helps Scholars attain domain knowledge in the finance industry.
 *   Corporate partners, with Greenwood’s guidance, develop detailed work programs for the Scholar to maximize the effectiveness of their time with the partner.
 *   Scholars shadow specific employees and develop a mentor-mentee relationship that has, thus far, lasted well beyond the internship.
 *   Scholars make a final presentation to Greenwood staff demonstrating what they've learned in their internship.
 
-### 2020 Internship Timeline
+### 2021 Internship Timeline
 * November: Application open
-* December 1, 2020: Deadline
-* May - June: Internship training program in progress
-* July to Aug: Internships in progress
+* February 3, 2020: Deadline
+* June 5th-July 2nd: Internship training program in progress
+* July 5th-Aug 13th: Internships in progress
 
 #### To place interns at your company or for more information about sponsorship, contact us at info@greenwoodproject.org
