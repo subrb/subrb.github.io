@@ -23,8 +23,8 @@ layout: summer-financial-institute
 
 {% if site.hs_fintech_applications_open == true %}
 <div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
-    <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7UxImSL4l48P-zzfhj_e6JbJB3AVAfY0DoEfn4QnWNDvOew/viewform?usp=sf_link" class="button">Apply now</a>
+    <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.</div>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7UxImSL4l48P-zzfhj_e6JbJB3AVAfY0DoEfn4QnWNDvOew/viewform" class="button">Apply now</a>
 </div>
 {% endif %}
 
@@ -47,4 +47,4 @@ The goal of the Greenwood Project Fintech program is to teach students how to co
 * Attire: Greenwood Project attire provided
 * Transportation: CTA passes provided
 
-**Application Period: November 20 - February 1 for 2020 cohort**
+**Application Period: November 20 - March 5 for 2021 cohort**
