@@ -24,7 +24,7 @@ layout: summer-financial-institute
 {% if site.hs_financial_applications_open == true %}
 <div class="applications-open lg-p3 p2 mb3 mt3 lg-mt0">
     <div class="h3">Applications are now open for high school students! Please submit your information by following the link below.  We will review and respond within the next week.</div>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScdfmW0yKjLdHHDk0OAw7pj2TiFscZWna7SNjBUj0x1dbAAgw/viewform?usp=sf_link" class="button">Apply now</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScdfmW0yKjLdHHDk0OAw7pj2TiFscZWna7SNjBUj0x1dbAAgw/viewform" class="button">Apply now</a>
 </div>
 {% endif %}
 
@@ -53,7 +53,7 @@ High School students are immersed in an intensive 6-week program. The curriculum
 
 The program culminates with a graduation ceremony with student presentations.
 
-#### Application Period: November 20 - Feburary 1 for 2021 cohort
+#### Application Period: November 20 - March 5 for 2021 cohort
 
 * * *
 
