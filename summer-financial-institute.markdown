@@ -30,7 +30,7 @@ layout: summer-financial-institute
 
 * * *
 
-#### High School Summer Financial Institute - 6-week Program
+#### High School Summer Financial Institute - 6-week Program <br>
 
 2021 Dates: July 5 to August 13, Monday to Friday, 9-5 
 
