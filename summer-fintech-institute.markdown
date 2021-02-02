@@ -32,7 +32,7 @@ layout: summer-financial-institute
 
 #### High School Summer FinTech Institute
 
-2021 Dates: July 5th to August 13th, M-F, 9-5 
+2021 Dates: July 5th to August 13th, M-F, 9-5 <br>
 
 Application Deadline: March 5, 2021 
 
