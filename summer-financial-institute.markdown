@@ -33,6 +33,7 @@ layout: summer-financial-institute
 #### High School Summer Financial Institute - 6-week Program
 
 2021 Dates: July 5 to August 13, Monday to Friday, 9-5 
+
 Application Deadline: March 5, 2021 
 
 High School students are immersed in an intensive 6-week program. The curriculum includes financial literacy, educational field trips, simulated trading, soft skills training, leadership and professional development workshops, and tons of exposure to the financial services and tech industry. It is critical that students stay engaged and continuously learning after completing our programs. As a result, each graduate of this program receives a funded brokerage account.
