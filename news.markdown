@@ -4,6 +4,10 @@ date: 2019-11-25 17:00:00 Z
 layout: get-involved
 ---
 
+![FIA_Logo.png](/uploads/FIA_Logo.png)
+
+**[February 2021 - FIA: There is no lack of talent, only a lack of opportunity](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)** - [Greenwood Project](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)
+
 ![FRBClogo-png.jpg](/uploads/FRBClogo-png.jpg)
 
 **[October 2020 - Greenwood President Bevon Joseph - The Future of Innovation in an Inclusive Chicago
