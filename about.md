@@ -67,6 +67,15 @@ people:
     he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief
     Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
     the University of Illinois in Finance (1990). '
+- name: Angela A. Jones
+  path: 
+  bio: 
+- name: David Merjan
+  path: 
+  bio: 
+- name: Sizwe Kamara
+  path: "/uploads/sizwe.kamara%20(1).jpg"
+  bio: 
 team:
 - name: Charles Turner
   path: "/assets/img/team/charles.jpg"
