@@ -66,13 +66,15 @@ people:
     he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief
     Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
     the University of Illinois in Finance (1990). '
-- name: Angela A. Jones
+- name: |-
+    Angela A. Jones | Client Service Initiatives Manager
+    Executive Director at UBS
   path: "/uploads/Angela%20Jones.png"
   bio: 
-- name: David Merjan
+- name: David Merjan | Founder Epona Rising
   path: "/uploads/image%20(1)-b4ee37.png"
   bio: 
-- name: Sizwe Kamara
+- name: 'Sizwe Kamara | Regional Sales Director for Morgan Stanley Investment Management '
   path: "/uploads/sizwe.kamara%20(1).jpg"
   bio: Sizwe is the Regional Sales Director for Morgan Stanley Investment Management
     Solutions for the Midwest Region and has 17 years of investment experience.  Sizwe
