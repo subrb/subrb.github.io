@@ -51,9 +51,8 @@ people:
     in multiple strategies and asset classes including Convertible, Capital Structure,
     and Merger Arbitrage, Volatility, Correlation, Fundamental, and Quantitative to
     the firm. Matt earned his BA from Wittenberg. Matt currently serves on the Board
-    of Directors of New York City Outward Bound Schools, is a member of the Board
-    of Directors of Chicago-based Greenwood Project, and is an active supporter of
-    the Navy SEAL Foundation. '
+    of Directors of New York City Outward Bound Schools and is an active supporter
+    of the Navy SEAL Foundation. '
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
   bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair. Kwesi
