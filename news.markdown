@@ -8,7 +8,7 @@ layout: get-involved
 
 **[February 2021 - FIA: There is no lack of talent, only a lack of opportunity](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)** - [The Chicago non-profit introduces high achieving minority students to careers in the financial industry](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)
 
-![FRBClogo-png.jpg](/uploads/FRBClogo-png.jpg)
+![Chicago_Fed_Logo.jpg](/uploads/Chicago_Fed_Logo.jpg)
 
 **[October 2020 - Greenwood President Bevon Joseph - The Future of Innovation in an Inclusive Chicago
 ](https://www.chicagofed.org/events/project-hometown/future-of-innovation)** - [This forum is a new initiative from the Chicago Fed that aims to foster discussion around the challenges and opportunities confronting hometowns in the Seventh District. Chicago is a global hub for innovation in finance, technology, and other sectors. Yet continued innovation is not a given, and the makeup of the city’s population has not been reflected in its most innovative industries. How can Chicago’s history of innovation continue, and how can it include all residents of the city?.](https://www.chicagofed.org/events/project-hometown/future-of-innovation)
