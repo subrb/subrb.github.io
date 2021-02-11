@@ -66,23 +66,23 @@ people:
     he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief
     Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
     the University of Illinois in Finance (1990). '
-- name: |-
-    Angela A. Jones | Client Service Initiatives Manager
-    Executive Director at UBS
+- name: Angela A. Jones
   path: "/uploads/Angela%20Jones.png"
-  bio: 
-- name: David Merjan | Founder Epona Rising
+  bio: |-
+    Client Service Initiatives Manager
+    Executive Director at UBS
+- name: David Merjan
   path: "/uploads/image%20(1)-b4ee37.png"
-  bio: 
-- name: 'Sizwe Kamara | Regional Sales Director for Morgan Stanley Investment Management '
+  bio: Founder Epona Rising
+- name: Sizwe Kamara
   path: "/uploads/sizwe.kamara%20(1).jpg"
-  bio: Sizwe is the Regional Sales Director for Morgan Stanley Investment Management
-    Solutions for the Midwest Region and has 17 years of investment experience.  Sizwe
-    has held multiple positions covering both institutional and retail clients covering
-    MSIM and Van Kampen proprietary separately managed accounts, long-only funds,
-    and alternatives. Sizwe previously worked for IndexIQ covering wirehouse and RIA
-    clients. Sizwe received a B.S. in finance from the University of Massachusetts
-    Amherst.  He also holds the Chartered Alternative Investment Analyst (CAIA) Designation.
+  bio: Regional Sales Director for Morgan Stanley Investment Management Solutions
+    | Sizwe has 17 years of investment experience.  Sizwe has held multiple positions
+    covering both institutional and retail clients covering MSIM and Van Kampen proprietary
+    separately managed accounts, long-only funds, and alternatives. Sizwe previously
+    worked for IndexIQ covering wirehouse and RIA clients. Sizwe received a B.S. in
+    finance from the University of Massachusetts Amherst.  He also holds the Chartered
+    Alternative Investment Analyst (CAIA) Designation.
 team:
 - name: Charles Turner
   path: "/assets/img/team/charles.jpg"
