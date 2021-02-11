@@ -73,7 +73,7 @@ people:
     Executive Director at UBS
 - name: David Merjan
   path: "/uploads/image%20(1)-b4ee37.png"
-  bio: Founder Epona Rising
+  bio: Founder | Epona Rising
 - name: Sizwe Kamara
   path: "/uploads/sizwe.kamara%20(1).jpg"
   bio: Regional Sales Director for Morgan Stanley Investment Management Solutions
