@@ -6,6 +6,10 @@ layout: get-involved
 
 ![FIA_Logo.png](/uploads/FIA_Logo.png)
 
+**[February 2021 - FIA: NFA partners with the Greenwood Project](https://www.fia.org/articles/nfa-partners-greenwood-project)** - [The National Futures Association is partnering with the Greenwood Project, a non-profit organization that introduces high achieving minority students from Chicago to careers in the financial industry, by providing internships to its students.](https://www.fia.org/articles/nfa-partners-greenwood-project)
+
+![FIA_Logo.png](/uploads/FIA_Logo.png)
+
 **[February 2021 - FIA: There is no lack of talent, only a lack of opportunity](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)** - [The Chicago non-profit introduces high achieving minority students to careers in the financial industry.](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)
 
 ![Chicago_Fed_Logo.jpg](/uploads/Chicago_Fed_Logo.jpg)
