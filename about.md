@@ -90,6 +90,9 @@ team:
 - name: Diane Rodriguez Rand
   path: "/assets/img/team/diana.jpg"
   bio: Director of Partnerships
+- name: Andrea Wiliams
+  path: "/uploads/Andrea_Williams_Headshot.jpeg"
+  bio: Administrative Specialist
 layout: about
 ---
 
