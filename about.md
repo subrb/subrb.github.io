@@ -74,7 +74,7 @@ people:
 - name: Sizwe Kamara
   path: "/uploads/sizwe.kamara%20(1).jpg"
   bio: Regional Sales Director for Morgan Stanley Investment Management Solutions
-    | Sizwe has 17 years of investment experience.  Sizwe has held multiple positions
+    | Sizwe has 17 years of investment experience and has held multiple positions
     covering both institutional and retail clients covering MSIM and Van Kampen proprietary
     separately managed accounts, long-only funds, and alternatives. Sizwe previously
     worked for IndexIQ covering wirehouse and RIA clients. Sizwe received a B.S. in
