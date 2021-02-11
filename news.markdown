@@ -10,7 +10,7 @@ layout: get-involved
 
 ![FIA_Logo.png](/uploads/FIA_Logo.png)
 
-**[February 2021 - FIA: There is no lack of talent, only a lack of opportunity](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)** - [The Chicago non-profit introduces high achieving minority students to careers in the financial industry.](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)
+**[February 2021 - FIA: There is no lack of talent, only a lack of opportunity](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)** - [The Chicago non-profit introduces high achieving minority students to careers in the financial industry. As a result of its initiatives, around 75% of Greenwood Project students go on to full-time employment within the financial sector.](https://www.fia.org/articles/there-no-lack-talent-only-lack-opportunity-greenwood-project)
 
 ![Chicago_Fed_Logo.jpg](/uploads/Chicago_Fed_Logo.jpg)
 
