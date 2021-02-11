@@ -68,10 +68,10 @@ people:
     Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from
     the University of Illinois in Finance (1990). '
 - name: Angela A. Jones
-  path: 
+  path: "/uploads/Angela%20Jones.png"
   bio: 
 - name: David Merjan
-  path: 
+  path: "/uploads/image%20(1)-b4ee37.png"
   bio: 
 - name: Sizwe Kamara
   path: "/uploads/sizwe.kamara%20(1).jpg"
