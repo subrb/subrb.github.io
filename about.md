@@ -46,13 +46,10 @@ people:
 - name: Matthew Rowe
   path: "/assets/img/board-members/6.png"
   bio: 'Managing Partner and Chief Investment Officer of Headwaters Solutions LP.
-    Matt is the Managing Partner and Chief Investment Officer at Headwaters Solutions
-    LP. He brings 20 years of experience managing global portfolios, teams, and risk
-    in multiple strategies and asset classes including Convertible, Capital Structure,
-    and Merger Arbitrage, Volatility, Correlation, Fundamental, and Quantitative to
-    the firm. Matt earned his BA from Wittenberg. Matt currently serves on the Board
-    of Directors of New York City Outward Bound Schools and is an active supporter
-    of the Navy SEAL Foundation. '
+    Matt brings 20 years of experience managing global portfolios, teams, and risk
+    in multiple strategies and asset classes. Matt earned his BA from Wittenberg.
+    Matt currently serves on the Board of Directors of New York City Outward Bound
+    Schools and is an active supporter of the Navy SEAL Foundation. '
 - name: Kwesi Smith
   path: "/uploads/Kwesi%20Smith%20Headshot.jpeg"
   bio: Greenwood Board Chair | Global Senior Research Analyst at William Blair. Kwesi
