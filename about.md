@@ -62,12 +62,10 @@ people:
   path: "/uploads/Angela%20Jones.png"
   bio: "Client Service Initiatives Manager Executive Director at UBS\n\n<p>Angela
     Jones is a Client Service Initiatives Manager within Institutional Client Service
-    (Deputy to the Head of Institutional Client Service for the Americas region).
-    Angela is responsible for process management and ongoing development/delivery
-    of best-practice servicing standards.</p>\n \n<p>Angela is also the Head of Client
-    Onboarding for the Americas region which includes Latin America and Canada. Prior
-    to joining UBS in 1998, Angela was a Client Service Team leader at ABN/AMRO within
-    the Asset Management Group.</p>"
+    (Deputy to the Head of Institutional Client Service for the Americas region).</p>\n
+    \n<p>Angela is also the Head of Client Onboarding for the Americas region which
+    includes Latin America and Canada. Prior to joining UBS in 1998, Angela was a
+    Client Service Team leader at ABN/AMRO within the Asset Management Group.</p>"
 - name: David Merjan
   path: "/uploads/image%20(1)-b4ee37.png"
   bio: Founder | Epona Rising
