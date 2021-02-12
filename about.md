@@ -65,9 +65,18 @@ people:
     the University of Illinois in Finance (1990). '
 - name: Angela A. Jones
   path: "/uploads/Angela%20Jones.png"
-  bio: |-
-    Client Service Initiatives Manager
-    Executive Director at UBS
+  bio: "Client Service Initiatives Manager\nExecutive Director at UBS\n\n<p>Angela
+    Jones is a Client Service Initiatives Manager within Institutional Client Service
+    (Deputy to the Head of Institutional Client Service for the Americas region).
+    \ In this role, she executes on key business initiatives to augment the quality
+    of service delivered to clients.  Angela is responsible for process management
+    and ongoing development/delivery of best-practice servicing standards.</p>\n \n<p>Angela
+    is also the Head of Client Onboarding for the Americas region which includes Latin
+    America and Canada.  She, along with the global Mandate Approval team, oversees
+    all client and product onboarding and termination.  This requires close coordination
+    with all groups throughout UBS Asset Management to ensure the client’s first experience
+    with UBS is a success.</p>\n \n<p>Prior to joining UBS in 1998, Angela was a Client
+    Service Team leader at ABN/AMRO within the Asset Management Group.</p>"
 - name: David Merjan
   path: "/uploads/image%20(1)-b4ee37.png"
   bio: Founder | Epona Rising
