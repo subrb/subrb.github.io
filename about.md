@@ -19,9 +19,9 @@ people:
   bio: |-
     Greenwood Project Founders
 
-    <p>Originally from Trinidad & Tobago, Bevon moved to the United States after high school to further his education. He is a graduate of DePaul University. Bevon’scareer has been exclusively in the trading industry, specifically in technology. He's worked at financial institutions such as JPMorgan, Morgan Stanley, UBS, Chicago Trading Company, PEAK6 Investments, and Achievement Asset Management. Bevonalso worked on the trading floors of the NYSE, NYMEX, and AMEX. Mr. Joseph firmly believes that kids can't be what they can't see. There is no lack of talent, only a lack of opportunity. </p>
+    <p>Originally from Trinidad & Tobago, Bevon moved to the United States after high school to further his education. He is a graduate of DePaul University. Bevon’s career has been exclusively in the trading industry. He's worked at firms such as JPMorgan, Morgan Stanley, UBS, Chicago Trading Company, PEAK6 Investments, and Achievement Asset Management. Bevon also worked on the trading floors of the NYSE, NYMEX, and AMEX. </p>
 
-    <p>Elois Joseph: Prior to establishing the organization, she worked on the trading floor of the Chicago Board Options Exchange (Cboe). As a financial professional, she attained many licenses and worked in the compliance examination division for an industry regulator. Elois grew up on the west side of Chicago, earned an MBA from Northern Illinois University, and a BA in Journalism from Columbia College Chicago. She is proud to be the first in her family to create generational wealth and to have the opportunity to teach this process to others through the Greenwood Project.</p>
+    <p>Elois Joseph: Prior to co-founding Greenwood, she worked on the trading floor of the Chicago Board Options Exchange (Cboe). As a financial professional, she attained many licenses and worked in the compliance examination division for an industry regulator. Elois grew up on the west side of Chicago, earned an MBA from Northern Illinois University, and a BA in Journalism from Columbia College Chicago. She is proud to be the first in her family to create generational wealth and to have the opportunity to teach this process to others through the Greenwood Project.</p>
 - name: Michael Piper
   path: "/assets/img/board-members/4.jpg"
   bio: |-
@@ -60,18 +60,14 @@ people:
     <p>Mike is a partner at PEAK6 Investments. Previously, he held the titles of Chief Investment Officer (PEAK6 Performance Funds) and chief Risk Officer (PEAK 6 Capital Management). Mike holds an undergraduate degree from the University of Illinois in Finance (1990). </p>
 - name: Angela A. Jones
   path: "/uploads/Angela%20Jones.png"
-  bio: "Client Service Initiatives Manager\nExecutive Director at UBS\n\n<p>Angela
+  bio: "Client Service Initiatives Manager Executive Director at UBS\n\n<p>Angela
     Jones is a Client Service Initiatives Manager within Institutional Client Service
     (Deputy to the Head of Institutional Client Service for the Americas region).
-    \ In this role, she executes on key business initiatives to augment the quality
-    of service delivered to clients.  Angela is responsible for process management
-    and ongoing development/delivery of best-practice servicing standards.</p>\n \n<p>Angela
-    is also the Head of Client Onboarding for the Americas region which includes Latin
-    America and Canada.  She, along with the global Mandate Approval team, oversees
-    all client and product onboarding and termination.  This requires close coordination
-    with all groups throughout UBS Asset Management to ensure the client’s first experience
-    with UBS is a success.</p>\n \n<p>Prior to joining UBS in 1998, Angela was a Client
-    Service Team leader at ABN/AMRO within the Asset Management Group.</p>"
+    Angela is responsible for process management and ongoing development/delivery
+    of best-practice servicing standards.</p>\n \n<p>Angela is also the Head of Client
+    Onboarding for the Americas region which includes Latin America and Canada. Prior
+    to joining UBS in 1998, Angela was a Client Service Team leader at ABN/AMRO within
+    the Asset Management Group.</p>"
 - name: David Merjan
   path: "/uploads/image%20(1)-b4ee37.png"
   bio: Founder | Epona Rising
