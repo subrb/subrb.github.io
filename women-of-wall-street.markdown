@@ -27,4 +27,6 @@ W.O.W events provide students with the opportunity to hear the current voice of 
 
 #### W.O.W SCHEDULE
 
-W.O.W events are held once per year
+W.O.W events are held once per year.
+
+test
