@@ -1,7 +1,6 @@
 $(document).ready(function() {
       $('.programs-link').click(function(){
-          $('.dropdown').slideToggle(5);
-          $('.programs-link').toggleClass('active');
+          $(this).next(".dropdown").slideToggle("fast").toggleClass('active');
       });
 
      $('.donate-btn').click(function(){
@@ -12,5 +11,20 @@ $(document).ready(function() {
          $("#background-wrapper").removeClass("active");
      });
 
+     $(".close-popup").click(function(){
+         $(".pop-up").hide();
+     })
 
+
+});
+
+$(document).mouseup(function(e)
+{
+    var container = $(".pop-up");
+
+    // if the target of the click isn't the container nor a descendant of the container
+    if (!container.is(e.target) && container.has(e.target).length === 0)
+    {
+        container.hide();
+    }
 });

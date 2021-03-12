@@ -1,20 +1,16 @@
 ---
 title: Home Page
 partners:
-- path: "/assets/img/sponsors/bloomberg.png"
+- path: "/uploads/Morgan_Stanley_Logo_1.svg.png"
   width: 140px
-- path: "/assets/img/sponsors/braintree.png"
+- path: "/uploads/WB_logo.png"
   width: 140px
-- path: "/assets/img/sponsors/cmegroup.png"
+- path: "/uploads/Piper_Sandler_logo-cc831e.png"
   width: 140px
-- path: "/assets/img/sponsors/google.png"
+- path: "/uploads/Cboe_Global_Markets_Logo-04f602.png"
   width: 140px
-- path: "/assets/img/sponsors/nasdaq.png"
-  width: 140px
-- path: "/assets/img/sponsors/nyse.png"
+- path: "/uploads/Peak6_logo.png"
   width: 110px
-- path: "/assets/img/sponsors/td.png"
-  width: 140px
 layout: index
 ---
 

@@ -20,14 +20,17 @@
 
     <div class="lg-col-2 col-12 col clearfix lg-mt0 mt2 flex-vertical-middle">
         <a  href="#open-modal" class="donate-btn button block center mb1 mt1 lg-mt0 p1 black">Donate</a>
-        {% if site.hs_applications_open == true %}
-        <a href="/summer-financial-institute/" class="button block center p1 black mb1">HS Apply</a>
+        {% if site.hs_fintech_applications_open == true %}
+        <a href="/summer-fintech-institute/" class="button block center p1 black mb1">High School Fintech Program</a>
+        {% endif %}
+        {% if site.hs_financial_applications_open == true %}
+        <a href="/summer-financial-institute/" class="button block center p1 black mb1">High School Financial Institute</a>
         {% endif %}
         {% if site.college_applications_open == true %}
-        <a href="/internships" class="button block center p1 black">Col Apply</a>
+        <a href="/internships" class="button block center p1 black">College Summer Internship Program</a>
         {% endif %}
-        {% if site.college_applications_open == false && if site.hs_applications_open == false %}
-        <a href="/get-involved" class="button block center p1 black">Get Invovled</a>
+        {% if site.college_applications_open == false && if site.hs_fintech_applications_open == false && site.hs_financial_applications_open == false %}
+        <a href="/get-involved" class="button block center p1 black">Get Involved</a>
         {% endif %}
     </div>
 
