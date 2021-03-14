@@ -18,7 +18,7 @@ volunteer:
     to be submitted after the mock interview.
   link: https://tinyurl.com/GPMockinterviews
 - title: Mentorship
-  date: 2016-07-01 00:00:00 Z
+  date: Ongoing
   description: Greenwood Project provides each of our scholars with a mentor as a
     resource during their internship journey. Our goal is that our students build
     a strong relationship with their mentor that can continue after our program is
