@@ -375,7 +375,6 @@ a {
 .flex-align-middle {
   display: flex;
   justify-content: center;
-  flex-direction: column;
   text-align: center; }
 
 .flex-vertical-middle {
@@ -638,7 +637,7 @@ li::before {
   border-top: 1px dotted #0b4b4626;
   border-bottom: 1px dotted #0b4b4626;
   padding: 14px 0;
-  margin-bottom: 20px; }
+  margin-bottom: 10px; }
 
 #background-wrapper {
   position: fixed;

@@ -52,6 +52,7 @@
                                <div class="header-group">
                                    <div class="bold">{{ item.title }}</div>
                                    <div class="bold">{{ item.date }}</div>
+                                   <div class="bold">{{ item.date2 }}</div>
                                </div>
                              <p>{{ item.description}}</p>
                              <div class="my3">
@@ -73,16 +74,17 @@
                        To nominate a speaker for any of our panels, host a Lunch & Learn, learn more about sponsorships, or attend one of our events, please email: <a href="mailto:andrea.williams@greenwoodproject.org" style="text-decoration: underline;">andrea.williams@greenwoodproject.org</a>
                    </div>
 
-                   <div class="lg-flex flex-center">
+                   <div class="lg-flex flex-center flex-wrap">
                        {% for item in page.programs %}
-                       <div class="flexCol flex-align-middle">
+                       <div class="lg-col-6 col-12 flex-align-middle">
                            <div class="h3 p1">
                                <div class="header-group">
                                    <div class="bold">{{ item.title }}</div>
                                    <div class="bold">{{ item.date }}</div>
+                                   <div class="bold">{{ item.date2 }}</div>
                                </div>
                              <p>{{ item.description}}</p>
-                             <div class="mt3">
+                             <div class="my3">
                                 <a href="{{ item.link }}" class="button block center p1 black">Sign Up Here</a>
                               </div>
                            </div>
