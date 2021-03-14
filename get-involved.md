@@ -2,7 +2,7 @@
 title: Get Invovled
 volunteer:
 - title: High School Interviews
-  date: 2024-03-01 00:00:00 Z
+  date: 2021-03-24 15:30:00 Z
   description: 'We are currently seeking volunteers to interview our high school cohort
     candidates for admission to the program. This opportunity consists of attending
     a 30- minute training at 3:30PM CST followed by two back-to-back interview slots
