@@ -15,9 +15,93 @@
             </div>
         </div>
 
-        <div class="bg-grey inner-page">
+        <div class="bg-grey inner-page get-involved">
+
             <div class="col-11 lg-col-10 mx-auto lg-py3">
-                {{ content }}
+
+                <div class="lg-flex glex-center">
+                    <div class="flexCol flex-align-middle">
+                        <div class="image-frame">
+                            <img src="/assets/img/get-involved/3.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="flexCol flex-align-middle">
+                        <div class="image-frame">
+                            <img src="/assets/img/get-involved/4.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="flexCol flex-align-middle">
+                        <div class="image-frame">
+                            <img src="/assets/img/get-involved/5.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+               <div class="get-involved">
+                   <div class="h3 lg-h2 center lg-col-8 col-12 mx-auto mb2 mt4 bold">
+                       Volunteer Opportunities
+                   </div>
+                   <div class="h3 lg-h2 center lg-col-8 col-12 mx-auto mb4">
+                       We rely on the generosity of our volunteers. We'd love to have you get involved in our programs. Here are all the ways you can participate.
+                   </div>
+
+                   <div class="lg-flex flex-center flex-wrap">
+                       {% for item in page.volunteer %}
+                       <div class="lg-col-6 col-12 flex-align-middle">
+                           <div class="h3 p1">
+                               <div class="header-group">
+                                   <div class="bold">{{ item.title }}</div>
+                                   <div class="bold">{{ item.date }}</div>
+                               </div>
+                             <p>{{ item.description}}</p>
+                             <div class="my3">
+                                <a href="{{ item.link }}" class="button block center p1 black">Sign Up Here</a>
+                              </div>
+                           </div>
+                       </div>
+                       {% endfor %}
+                   </div>
+
+                   <div class="lg-my4 my2">
+                       <hr />
+                   </div>
+
+                   <div class="h3 lg-h2 center lg-col-8 col-12 mx-auto my2 bold">
+                       Program Events
+                   </div>
+                   <div class="h3 lg-h2 center lg-col-8 col-12 mx-auto mb4">
+                       To nominate a speaker for any of our panels, host a Lunch & Learn, learn more about sponsorships, or attend one of our events, please email: <a href="mailto:andrea.williams@greenwoodproject.org" style="text-decoration: underline;">andrea.williams@greenwoodproject.org</a>
+                   </div>
+
+                   <div class="lg-flex flex-center">
+                       {% for item in page.programs %}
+                       <div class="flexCol flex-align-middle">
+                           <div class="h3 p1">
+                               <div class="header-group">
+                                   <div class="bold">{{ item.title }}</div>
+                                   <div class="bold">{{ item.date }}</div>
+                               </div>
+                             <p>{{ item.description}}</p>
+                             <div class="mt3">
+                                <a href="{{ item.link }}" class="button block center p1 black">Sign Up Here</a>
+                              </div>
+                           </div>
+                       </div>
+                       {% endfor %}
+                   </div>
+
+
+
+                   <div class="block my3">
+                       <img src="/assets/img/get-involved/1.jpg" alt="">
+                   </div>
+
+                   <div class="lg-my4 my2">
+                       <hr />
+                   </div>
+
+               </div>
+
             </div>
         </div>
 

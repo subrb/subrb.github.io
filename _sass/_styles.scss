@@ -436,9 +436,17 @@ li::before {
 
     .image-frame {
         overflow: hidden;
-        height: 450px;
+        height: 300px;
+        margin: 5px;
         border-radius: 5px;
         box-shadow: 0 10px 10px 0 rgba(0,0,0,0.04);
+    }
+
+    .header-group {
+        border-top: 1px dotted #0b4b4626;
+        border-bottom: 1px dotted #0b4b4626;
+        padding: 14px 0;
+        margin-bottom: 20px;
     }
 }
 
