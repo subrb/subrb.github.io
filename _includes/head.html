@@ -6,8 +6,8 @@
   <title>Greenwood Project</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link href="https://unpkg.com/ace-css/css/ace.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl | append: cacheBust}}">
 
   <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
@@ -21,4 +21,10 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- Mailchimp -->
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/9059593646edd4ba75c38520a/301a55a940891195aa378c0c8.js");</script>
+  <!-- /Mailchimp -->
+
+
 </head>
