@@ -1,17 +1,16 @@
 ---
 title: Get Invovled
-layout: get-involved
 volunteer:
 - title: High School Interviews
-  date: March 24th - 3:30PM CST
-  description: We are currently seeking volunteers to interview our high school cohort
+  date: 2024-03-01 00:00:00 Z
+  description: 'We are currently seeking volunteers to interview our high school cohort
     candidates for admission to the program. This opportunity consists of attending
-    a 30- minute training at 3:30PM CST followed by two back-to- back interview slots
+    a 30- minute training at 3:30PM CST followed by two back-to-back interview slots
     at 4:00PM and 4:30PM. The Greenwood Project will provide interviewers with a feedback
-    form to be submitted after the interview.
+    form to be submitted after the interview. '
   link: https://tinyurl.com/GPHS Interviews
 - title: College Mock Interviews
-  date: March 16th and 23rd - 3:30PM CST
+  date: 2023-03-16 15:30:00 Z
   description: Greenwood Project strives to ensure that our college scholars are prepared
     for professional interviews. This opportunity consists of attending a 30-minute
     training at 3:30PM CST followed by two back to back interview slots at 4:00PM
@@ -19,7 +18,7 @@ volunteer:
     to be submitted after the mock interview.
   link: https://tinyurl.com/GPMockinterviews
 - title: Mentorship
-  date: July 16th - 12:00PM CST
+  date: 2016-07-01 00:00:00 Z
   description: Greenwood Project provides each of our scholars with a mentor as a
     resource during their internship journey. Our goal is that our students build
     a strong relationship with their mentor that can continue after our program is
@@ -39,17 +38,17 @@ programs:
     for financial companies to introduce themselves to our college or high school
     cohort.
 - title: Women of Wall Street
-  date: July 16th - 12:00PM CST
+  date: 2016-07-01 00:00:00 Z
   description: Greenwocd Project hosts an annual panel for our scholars consisting
     of prominent women who have made an impact on the finance industry
 - title: Closing Events
-  date: College Cohort - July 2nd - 3:30PM CST
+  date: 0002-01-01 00:00:00 Z
   date2: High School Cohort - August 13th - 3:30PM CST
   description: To celebrate the commencement of our scholars, Greenwood Project hosts
     a closing event for both our high school and college cohorts similar to that of
     a graduation ceremony.
 - title: Scholar Stock Pitch
-  date: College Cohort - July 2nd - 12:30PM CST
+  date: 0002-01-01 00:00:00 Z
   date2: High School Cohort - August 13th - 12:30 PM CST
   description: At the conclusion of our program, Greenwood Project hosts a "Shark
     Tank" style stock pitch for our college and high school scholars, In small groups,
@@ -59,5 +58,6 @@ programs:
     our scholars several times a week at 4:30 PM CST through the 4-week training period.
     To express interest in becoming a stock pitch coach.
   link: https://tinyurl.com/GPStockPitchCoach
+layout: get-involved
 ---
 
