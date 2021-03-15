@@ -764,3 +764,25 @@ li::before {
   text-align: center;
   border-top: 1px solid black;
   padding: 10px; }
+
+.contact-form {
+  margin-bottom: 100px; }
+  .contact-form input:focus, .contact-form textarea:focus {
+    background-color: white; }
+  .contact-form input, .contact-form textarea {
+    border: 1px solid #064b46;
+    background: #064b4608;
+    padding: 17px;
+    font-size: 15px;
+    width: 100%; }
+  .contact-form textarea {
+    height: 150px; }
+  .contact-form .submit-btn {
+    background: #ffc900ba;
+    border: 1px solid #E9E9E9;
+    box-shadow: 0 5px 6px 0 #fffef8;
+    border-radius: 4px;
+    padding: 0.5rem;
+    font-weight: 600;
+    display: block;
+    cursor: pointer; }

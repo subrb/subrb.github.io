@@ -625,5 +625,36 @@ li::before {
 }
 
 
+//  Form
 
+.contact-form {
 
+    margin-bottom: 100px;
+
+    input:focus, textarea:focus {
+        background-color: white;
+    }
+
+    input, textarea {
+        border: 1px solid #064b46;
+        background: #064b4608;
+        padding: 17px;
+        font-size: 15px;
+        width: 100%;
+    }
+
+    textarea {
+        height: 150px;
+    }
+
+    .submit-btn {
+        background: #ffc900ba;
+        border: 1px solid #E9E9E9;
+        box-shadow: 0 5px 6px 0 #fffef8;
+        border-radius: 4px;
+        padding: 0.5rem;
+        font-weight: 600;
+        display: block;
+        cursor: pointer;
+    }
+}
