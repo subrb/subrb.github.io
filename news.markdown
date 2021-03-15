@@ -1,7 +1,7 @@
 ---
 title: News
 date: 2019-11-25 17:00:00 Z
-layout: get-involved
+layout: default
 ---
 
 ![FIA_Logo.png](/uploads/FIA_Logo.png)
