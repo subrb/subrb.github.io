@@ -1,13 +1,13 @@
 ---
 title: Applications
-layout: get-involved
+layout: inner
 ---
 
 <h3>High School Financial Institute Application</h3>
 
 **Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
-Program Dates: July 5 to August 13, 2021 (9-5 M-F) 
+Program Dates: July 5 to August 13, 2021 (9-5 M-F)
 
 Students who are accepted into the Greenwood Project High School Financial Institute will experience a 6-week introduction to the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 
@@ -37,7 +37,7 @@ Note: None of these questions will impact your admission. Mostly, this is necess
 
 **Due March 5th. Applicants will be accepted on a rolling basis. Final decisions released no later than April 1st.**
 
-Program Dates: July 5 to August 13, 2021 (9-5 M-F) 
+Program Dates: July 5 to August 13, 2021 (9-5 M-F)
 
 Students who are accepted into the Greenwood Project High School FinTech Institute will experience a 6-week introduction to coding and the financial industry with a specific focus on the stock market. All students receive a weekly stipend and a funded brokerage account upon successful completion of the program.
 

@@ -1,6 +1,6 @@
 ---
 title: Applications
-layout: get-involved
+layout: inner
 ---
 
 <h3>College Internship Program Application</h3>
